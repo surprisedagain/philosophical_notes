@@ -1,0 +1,46 @@
+%% = usage =
+%% to refresh use the following commands (<CTRL>r<CTRL>w is your friend)
+%% :VimwikiRebuildTags					# makes everything else work
+%% :VimwikiGenerateTagLinks [<TAG>]	# by default build the list below
+%% 
+%% also recall :T <TAG> will produce a locationlist of <TAG> instances
+
+%% :T <tagname>    # opens locationlist with matching tags
+%% :S <term>       # opens locationlist with matching terms
+%% !grep -ho ':\w*:' * | sort | uniq	# list all tags
+
+
+= Generated Tags =
+== article ==
+    - [[williamson.transformationAnalyticPhilosophy]]
+
+== book ==
+    - [[kant.critiqueOfPureReason]]
+    - [[lewis.pluralityOfWorlds]]
+    - [[tractatus]]
+
+== draft0.1 ==
+    - [[kant.critiqueOfPureReason]]
+    - [[wittgenstein]]
+
+== history ==
+    - [[williamson.transformationAnalyticPhilosophy]]
+
+== modality ==
+    - [[lewis.pluralityOfWorlds]]
+    - [[tractatus#theses#modal isomorphism]]
+    - [[williamson.transformationAnalyticPhilosophy]]
+
+== person ==
+    - [[huw_price]]
+    - [[wittgenstein]]
+
+== representation ==
+    - [[tractatus#theses#modal isomorphism]]
+
+== text ==
+    - [[kant.critiqueOfPureReason]]
+
+== todo ==
+    - [[kant.critiqueOfPureReason#cutting room floor#philosophers dogmatism]]
+    - [[kant.critiqueOfPureReason#todo]]

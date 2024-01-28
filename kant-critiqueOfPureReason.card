@@ -1,0 +1,278 @@
+:book:text:draft0.1:
+= critique of pure reason =
+=== short ===
+[[local:zz.texts/kant1787.critiqueOfPureReason.Pluhar.trans.pdf]]<br>
+by [[kant]], published 1781/87 Pluhar Translation
+
+= notes on first reading =
+== preface to second edition ==
+=== Three revolutions ===
+What do the supposed <q>revolutions</q> in geometry, physics/science and
+<q>metaphysics</q> have in common?
+
+==== Geometry ====
+    (p.Bxii) The true method [of geometry], so he found, was not to inspect what
+    he discovered either in the figure, or in the bare concept of it, and from
+    this, as it were, to red of its properties; but to bring out wehat was
+    necessarily implied in the concepts he himself had formed _a priori_ and had
+    put into the figure in thw construction by which he presented it to himself.
+    . . . what necessarily follows from what he has himslef set into it in
+    accordance with his concept.
+This supposed resemblance between the (newly proposed correct method of)
+metaphysics and geometry is the least strained.  Here Kant is hining at
+the felt defectiveness of Euclid's Elements  to the
+Euclid's elements (in a handful of key points) upon 
+
+
+==== science ====
+(the most tenuous of the three)<br>
+    They learned that reason has insight only into that which it produces after
+    a plan of its own, and that it must not allow itself to be kept as it were
+    in natures leading-strings, but must itself show the way with principles of
+    judgement based upon fixed laws, constraining nature to give answer
+    questions of reason's own determining.  Accidental observations made in
+    obedience to no previously thought out plan can neer be made to yield a
+    necessary law  which alone reason is concerned to discover.
+    
+==== metaphysics ====
+(Bxvi)
+this is the first mention of the copernican revolution. In what sense is this like the two previous
+revolutions in maths and science? ah in both we follow what conforms to what we
+put into the figure/experiment
+
+Ah in all cases our reasoning, or at least the production of knowledge by
+reason, relies upon sensitivity to what we have <q>put into</q> the subject of
+enquiry. The science example is the least plausible. Is it really the claim that
+it is in principle impossible to make scientific advances in ethnography or
+astronomy where experiment cannot or are not conducted?
+
+We may view it as a method of introducing the <q>copernican revolution</q> in
+metaphysics which Kant is championing without placing much, if any, weight upon
+it. The claim is: it is plauisble that previous fields of enquiry languished
+until we realised that we must focus upon/be sensitive to/
+
+=== division between logic and metaphysics ===
+It is well known that Kant's opinions about the prospect of further developments
+in logic was completely wrong
+    (Bviii) It is remarkable also that to the present day this logic has not
+    been able to advance a single step, and is thus to all appearance a closed
+    and completed body of doctrine.
+The developments of Frege to bring logic
+up to the level of complexity required to capture recursively enumerable sets of
+sentences as theorems is still 100 years off.
+
+But more importantly Kant offers to explain this completeness as due to logic
+being <q>quite precisely delimited; its sole concern is to give an exhaustive
+exposition and a strict proof of the formal rules of all thought, whether it be
+_a priori_ or empirical</q>.
+
+One wonders what Kant means by <q>formal</q>, surely not the modern view of
+rules specified purely in terms of the shapes and sequences of symbols without
+reliance unpon their meanings. <q>Strict proof</q> is also somewhat unclear, or
+at least foreign to modern logic - how might one _prove_ an axiom of logic,
+or offer it any greater cfeedence than it already has? (inference to best
+explanation, or because of the fruitfulness of its consequences is urely not
+what Kant has in mind.)
+
+metaphysical claims one must suppose, are by contrast those in which the
+validity of the reasoning, or the necessity of the claim, depends upon the content
+content (i.e. the actual predicate occupying a place) and not merely the form. 
+i.e.  logical laws are those that remain valid when a concept is consistently
+replaced with another, wheras such substitution can change a metaphysical
+necessity into a falsehood.
+
+If this interpretation is correct then logical truths are neither analytic nor
+synthetic (unless the notion of containment is stretched enough to include
+containment of logical structure, but that seems implausible).
+
+=== causal necessity not distinguished from absolute ===
+    (Bxiii) Accidental observations, made in obedience to no previously
+    thought-out plan, can never be made to yield a necessary law, which alone
+    reason is concerned to discover.
+
+Here we have the ancient refusal to distinguish between causal(/nomological)
+necessity and conceptual(/analytic/logical) necessity.
+=== hint of argument against idealism ===
+Kant repeatedly displays his awareness of the threat of self-contradiction in
+asserting that we positively know of the existence of objects about which we can
+know nothing.
+
+Why posit noumena? We need a positive reasom. In the introduction the closest we
+come is
+    (Bxxvi) But our further contention must be duly borne in mind namely that
+    though we cannot _know_ these objects as things themselves we must yet be in
+    position at least _think_ them as things in themselves; otherwise we should
+    be landed in the absurd conclusion they can be appearance without anything
+    that appears.
+
+This first hint, at least, is not particularly promising. It seems to hinge
+a definitional stop. If these things we experience are not
+appearances (and hence have some external/noumenal obejects that they are
+appearances of) then let us call them something else. The question then simply
+becomes what reason do we have for thinking that our ewxperienfes are
+appearances, and to this, as yet, Kant has ventured no answer
+
+== introduction ==
+=== a priori ===
+Nowhere here is Kant explicit about _a priori_ knowledge being *justified*
+without experience. Instead we find talk of <q>independent of experience</q> or
+_a posteriori_ knowledge as <q>has its sources _a posteriori_</q> or <q>arises
+out of experience</q>. The distinction between the origins, sources or
+<q>arising out of</q> is left unclear. If we accept, for the moment, the
+justified true belief analysis, one might have knowledge that a subject would
+not _believe_ without experience or that would not be justified without
+experience. It is the kind of tiring prolixity that makes reading Kant such a
+slog.
+
+This potential confusion is exacerbated by Kant's claim that <q>Every
+alteration has its cause</q> is _a priori_ but not purely _a priori_ on the
+grounds that <q>alteration is a concept which can be derived only from
+experience</q>. This <q>derivation</q> suggests that we cannot form the concept
+and hence, presumably, not form the judgement <q>Every alteration has its
+cause</q> without experience, regardless of whether or not we would have any
+justification for believing or disbelieving it. This distinction between _a
+priori_ and _a posteriori_ *concepts* is thus far very dubious and we have no
+guide apart from this sole example on how to draw it.
+
+Still the very fact that this is distinguished as an impure _a priori_
+proposition, goes further to suggest that it is justification that is in
+question. It appears that Kant/the translators can be only criticised for lack
+of clarity on this point and that on reflection it must be that _a priori_
+truths are those of which knowledge can be justified without experience. This is
+taken for granted, or as a definitional stipulation, in most modern ENglish
+speaking introductions to philosophy and it is merely of interest that it is put
+so unclearly in its most influential early exposition.
+
+==== criterion ====
+Necessity and certain universality as criterion of _a priority_.
+
+Though counterexamples to these criteria have been constructed with the use of
+indexicals, they remain as the touchstone of my own enquiries, even though I
+ultimately give up on all three. Certainly, our knowledge of necessity could
+never be justified by experience. Is the underlying justification that there is
+no necessary connection between distinct existences? That [[hume|Humean]] 
+principle reminds me that the more fundamental problem is that experiences are
+_caused_ and hence cannot provide evidence for necessity (and are evidence for
+possibility only in the sense that they are evidence for the actual and the
+actual is always possible).
+
+=== the limits of a priori knowledge ===
+One suspects that this is at least partly the scope ofreason - that this lies
+behind Kant's claims that pure reason is its own subject matter. That the
+proper(?) enquiry of reason is the limits of reason.
+
+First hint of the antimomies concerning God, freedom and immortality.  Here we
+also have (for the first time?? hmm introduction, at least clearer/less
+metaphorically) the rejection of judgements that <q>go beyond all limits of
+experience</q> 
+
+==== analytic/synthetic ====
+Analytic: concept expressed by the predicate contained within the
+concept expressed by the subject of a sentence.
+
+Not clear if analytic knowledge is one of the
+    modes of knowledge [that] leave the field of all possible experiences and
+    have the appearance of extending the scope of our judgements beyond all
+    limits of experience
+It may be that analysis does produce such transcendental knowledge, but that it
+is not substantive/ampliative or it may be that analytic knowledge, though
+_a priori_ does not extend the scope of our judegements but only appears to. I
+lean towards the latter, but the tedious unclarity does not appear to have
+significant impact on the rest of the theory. One way or another analytic truths
+do not extend our knowledge.
+
+
+<q>I have merely to analyse the concept, that is, to become conscious to myself
+of the manifold which I always think in that concept</q>
+
+
+For our purposes here analysis does produce _a priori_ knowledge
+
+=== summary ===
+It is reasonable to interpret Kant as claiming that _a priori_ knowledge is 
+knowledge justified without the aid of experience; and that the two criteria of
+such knowledge are necessity and certain universality.
+
+Furthermore a priori knowledge may be distinguished as a analytic
+
+
+
+
+== 2nd book ==
+=== chapter 1 ===
+    We now come to a concept that was not entered in the above general list of
+    the transcendental concepts, and that must yet be classed with them, but
+    without in the least changing the table and declaring it deficient. This is
+    the concept - or, if one prefers, the judgment I think. But we readily see
+    that this concept is the vehicle of all concepts as such and hence also of
+    transcendental concepts, and that it is therefore always also comprised
+    among these and hence is likewise transcendental.
+This is the notion that each sentence <q>P</q> is equivalent to <q>I think P</q>
+But these have quite different truth conditions. For P to be true, and for me to
+be in a mental state of thinking that P are two quite different things. It may
+well be that I think that P and yet P is not true or that P is true and I do not
+think it.
+
+Again an extentionalist approach - I is an indexical term whose meanign is fixed
+by the pattern of references. If you specify for each token of the word <q>I</q>
+what it refers to, there is nothing more to add to the meaning of I. In an
+extensionlaist language, as I maintain all languages are, references may be
+changed without altering truth value, and holding some variety of
+truth-conditional semantics (perhaps psychologised/semanticised) <q>I am
+thinking</q> has, said by me, the same meaning as <q>Nathan is thinking</q> and
+the latter is not t
+
+The problem in a sense is that I can be certain that I am thinking without
+knowing who I am. This prompts the train of confusion that begins by qondering
+<q>Who an I?</q> as though there were a sepocial object named by I for each of
+us that was somehow essential or perhaps imperceptible to anyone else.
+
+That Kant can have some alternative analysis of _I think . . ._ is fine, but he
+doesn't get to use his analysis in his argument for his account, he can't assume
+his ananlysis is correct and then derive some further consequence from it.
+
+Still this gives the appearance of being Kant's reply to Descartes - <q>A
+science built upon the single proposition '_I think_'</q>. What does he think is
+going on here
+
+hmm <q>none but transcendental predicates</q> predicates that must be true or
+false of something for it to be possible?
+
+Ah, I see (no joke intended) the word <q>I</q> has a meaning and hence there is
+a concept that is what it means/expresses, and on this confusion, we will mount
+a pure <q>rational psychology</q> which is the range of consequences of this
+claim and other. Ah no - not a concept a <q>bare consciousness which accompanies
+all concepts</q>!! How tiresome.
+
+=== chapter 2 ===
+antinomies of pure reason
+The underlying issue concerns infinity and infinite series:
+ * There is no proof of maximal length but each proof is finitely long.
+ * There is no ultimate cause but each sequence of causes is finitely long.
+   (This is the weakest statement of the problem.)
+ * The set of all things that can be reached in a finite number of steps from a
+   given starting point may be infinitely large.
+
+= cutting room floor =
+see [[computational_complexity_for_philosophers]] and [[why_posit_objects]]
+
+
+
+=== philosophers dogmatism ===
+:todo: link phil dog with Bxv - battleground for those who wish to engage in
+mock combat in which not an inch of territory has been gained
+
+
+=== senses are an epistemic bottleneck ===
+    (A293) It is correctly said that the senses do not err; yet not because they
+    always judge correctly, but because they do not judge at all
+This is the first of the two criteria for an [[epistemic_bottleneck]]
+:todo: With the further claim that we only know of the world via
+<q>sensibility</q> we would have the second requirement. yes - (Bxvii) <q>the
+_experience_ in which alone, as given objects, they can be known</q>
+
+= theses =
+note for later - causality and geometrical space were a projection of our minds
+upon the external world. But they were not unchangeable projections.
+
+== other related cards ==

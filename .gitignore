@@ -1,0 +1,15 @@
+.DS_Store
+.vimwiki_tags
+00.card
+01.card
+
+# neither html nor pdfs required unless/until made public 
+docs/
+zz.texts
+
+# vi swp files
+*.swp
+*.swo
+
+# all vi autobackups (made on startup)
+.bkp/

@@ -1,0 +1,37 @@
+:article:terrible:
+= the myth of reductive extensionalism =
+[: [[local:zz.texts/shani2007.mythReductiveExtensionalism]],
+https://doi.org/10.1007/s10516-007-9016-x :]
+
+====== short ======
+Of interest because it promised to give examples of the (supposedly mistaken)
+motivations for extensionalism.
+
+== criticisms ==
+=== extensional vs intensional objects is confused ===
+According to the author [[extensional#extensionalism|extensionalism]] is the doctrine that there are only
+extensional objects. The orthodox view is that it is languages or occurrences of
+terms that are [[extensional]].
+
+The account of extensionalism is so strange that it is not clear if it it is
+equivalent to the orthodox definition.
+
+The notion that there are two sorts of objects, intensional ones and extensional
+ones is a terrible way of expression discussing extensionalism.
+It is language that is intensional of extensional not objects.
+Can we warp this over to intensional and extensional objects is we try really
+hard?
+
+Consider the example:
+    (fp. 5) Doolittle believes that all pelicans are feathered
+Are the pelicans referred to in this example extensional objects or intensional
+objects?
+
+Eventually (8 pages into an 18 page paper) we are given definition of the
+term <q>extensional entity</q> viz.,
+    (fp. 8) Intensional entities are contrasted with extensional entities like
+    concrete objects, or sets, which, unlike the former, abide by the
+    extensionality principle: extensionally equivalent sets are, ipso facto,
+    identical, and so is the case with co-instantiated concrete individuals.
+
+= other related cards =
