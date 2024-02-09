@@ -1,0 +1,219 @@
+:article:history:discord:puff-piece:
+= how (not) to think about theory change in epidemiology =
+[: [[local:zz.discordReadingGroup/tulodziecki2021.howNotToThinkAboutTheoryChange.pdf]],
+https://doi.org/10.1007/s11229-019-02135-7 :]
+
+====== short ======
+A weak, though historically detailed and (it appears) accurate, motivation for
+the [[tomb_of_the_mistaken_scientist]], that presents itself as a mild critique
+of scientific realism with profound implications for epidemiology.
+
+== take home ==
+This paper has two conclusions - one blandly true and the other an overblown
+vacuity.
+
+The bland truth is that the early proponent(s) of a new view, even if it is
+later almost universally recognised as correct, will often hold that view on
+inadequate evidence. (The example focussed on in the paper is Snow and his
+theory of the cause of cholera.) The justification of their beliefs no stronger
+than that of their opponents.  Indeed to be prepared to put in the (often
+considerable) effort of gathering evidence that may support the new view, may
+require an <q>irrationally</q> strong confidence in that view before the
+evidence has been gathered.
+
+More generally it is not the case that the proponents of false views are less
+intelligent, knowledgable or responsive to the evidence, or didn't follow <q>the
+scientific method</q> as well. The evidence available to them at the time may
+support their view and it is only once other theories (less motivated by the
+evidence) are developed and then evidence sought for them that there is reason
+for change. See [[tomb_of_the_mistaken_scientist]].
+
+The second false/vacuous conclusion is that this has some deep
+implication for epidemiological theory development/evaluation.  We are given no
+idea how to turn the vague encouragements to <q>understand that these explananda
+[of current epidemiological research] are not independent of the theoretical
+framework in which we are operating</q> and <q>explor~~ing~~ in more detail just
+how different approaches to causality in medicine influence the kinds of
+questions we ask.</q> into practical implementable advice. Typical academic
+waffle - more research needed - more research good - current views not nuanced
+enough. (See [[the_academic_conclusion]])
+
+There is however, one significant point on which I agree with author:
+Science is dialectical.
+    (p.2584 i) when trying to understand the epistemic merits and flaws of the
+    water-hypothesis as first proposed by Snow, we need to understand that its
+    epistemic standing is not independent of the context in which it was raised,
+    or independent of what rivals were available.
+
+We construct a sort of cognitive space large enough to encompass the competing
+theories under consideration and then rely upon the agreed features of that
+space to evaluate those theories relative to each other. This is also related
+to [[the_academic_conclusion]] - The tedium of the advice to expand our
+cognitive space - when the real challenge is how to reduce it without
+(significantly) increasing our chance of being wrong.
+
+= discussion notes=
+just a suggestion of a more nuanced view of scientific realism?
+
+== section 1 ==
+realists selectively - seeking for features in addition to empirical
+adequacy(/verified predictions) which would warrant believing that the
+objects postulated in scientific theories are real. Or realists can limit the
+parts of theories about which they are realists:
+    (p. 2570) In order to make their case, realists of different stripes have
+    proposed a number of more restrictive realisms according to which we ought
+    to be realists selectively and only about those parts of our theories
+    essential to their success
+
+simplicity, consilience - yes ok in a sense these are theoretical virtues that
+are additional to empirical adequacy(/correct predictions/??)
+
+    (p. 2571) Although there are many different realist positions, what they all
+    share is a commitment to the idea that later scientific theories are more
+    successful than earlier ones and, further, that we can somehow give an
+    explanation of the success of later theories by appealing to some feature
+    either of those theories themselves—such as the theoretical virtues—or of
+    the scientists who came up with them: there is something that those
+    scientists did right and if we could only capture what that something is, we
+    would have at least a partial answer to the question of why science so
+    consist- ently delivers epistemic achievements.
+weird view of realism - motivated straw man ?
+
+I think the intended conclusion is that it is not some virtue of these theories
+that made them <q>win</q>, but rather a virtue they had in comparison to the
+alternatives of the time; and hence (??) to look for a distinguishing virtue of
+successful theories/ theory developments by just looking at those theories by
+themselves is foolish/mistaken.
+
+== section 2 ==
+mono-causality is the supposed key distinguishing feature of Snow's account of
+the spread of cholera.
+
+Presenter suggested Snow's account better described as choleric matter comes
+from faeces, and is then ingested. Not such a focus on water transmission (which
+Snow did accept/propose). But the idea that it was faecal matter was the key.
+
+Miasma theory was the chief alternative.
+my question: is the suggestion of being water borne the key difference with the
+miasma theory? (i.e. a water miasma wouldn't be too far off?)
+
+Is the miasma theory simply the non atomistic version of spread by microscopic
+germs? No not quite - germs are living and replicate, rather than causing some
+imbalance in bodily processes which manifests as disease.  Still it does seem
+like the non-atomistic version - if you don't have microscopic particles (and
+hence no microscopic animalcules) then you are pushed towards miasma. If you
+have atoms then you are free to postulate microscopic germs, but if you have no
+atoms then germ theory is ruled out and miasma (as a kind of diffuse plenum) is
+the best option. I think that's right - if you have no atoms then you are pushed
+towards a miasma theory.
+(See [[wn.rLN:timeline:_modern_atomism_to_nerve_impulses]])
+
+Author claims:
+miasma theory made correct novel predictions - very plausible
+
+later (in S4)  mentions elevation formula of disease  - an mathematical formula
+predicting disease prevalence on the basis of an areas elevation. Fit available
+data quite well (though not perfectly).
+
+== section 3 ==
+South London water supply study - the authors focus - is not the only study done
+by Snow (and more were done by others).
+
+South London study highly praised. Perhaps the iconic exemplar of early
+epidemiological studies. One gets the impression this is a(/the) textbook
+example of how to do epidemiology. Epidemiologists in training are told of this
+story (in perhaps an idealised form) and told this is the first (or at least an
+early) example of how to do epidemiology right.
+
+People already knew/believed cholera was water borne.
+
+downstream ??
+
+the <q>intermixed</q> water supply where different companies who drew their
+water from different places (different point on the Thames - one further
+downstream than the other) supplied (unmixed) water to intermixed houses (i.e.
+two water companies supplying houses in the same area in a patchwork often one
+house having a different supplier than the one across the street) gave rise to
+the <q>natural experiment</q>.  The other factors - hygiene, underlying health,
+elevation, class?, the sorts of things mentioned in the miasma theory - were
+constant (on a population level) because people with different water suppliers
+lived right next to each other, under much the same conditions.
+
+== section 4: objections to Snow ==
+    (p. 2578) “that if in this [intermingled] part of London it should be found
+    that the inmates of the houses supplied with the Battersea water suffered
+    greatly, and those supplied with Ditton water suffered little, then of
+    course, as all other circumstances (locality, air, trades, &c.) in the
+    district are the same, the influence of the water would be proved beyond a
+    doubt” - quoted from Parkes
+relative ratios of consumers / cholera cases agreed to be a good method of
+deciding the water/poo theory by Snow's critics
+
+tidal influence complicates simple downstream is always at least as contaminated
+as upstream and maybe more so. Snow's critics point out this problem.
+
+Method of determining water supplier by salt level questioned - Snow reports
+only a single measurement of the low salt level that distinguished the upstream
+supplier.
+
+number of people supplied not specified - Snow makes it clear that more downstream
+supplied people got sick than upstream supplied people, but (at least according
+to quoted critic) does not supply total numbers of households supplied by each
+so we don't know background rate of supplier so we can't calculate
+<br>Prob(get_cholera GIVEN supplied_by_downstream).
+
+== section 5 ==
+If there is any meat to this paper it better be here
+    (p. 2583) The more important philosophical point that comes out of
+    understanding the Snow-episode in this way, however, is that analyzing
+    Snow’s reasoning alone will not tell us what was so good about the
+    water-hypothesis and why it ended up being so successful. It did turn out to
+    be the right view, but what is claimed as the best argument for it—the one
+    that is often said to have established conclusively that the water
+    hypothesis is right—cannot tell us what was so good about it, because that
+    argument was not as good as it seemed. The default assumption in most
+    current accounts of theory-change, as we have seen, is that because the
+    winners turned out to be right, their arguments must have been good: because
+    Snow’s water-hypothesis turned out to be correct, Snow must have done
+    something epistemically virtuous that explains how he ended up with the
+    right view and others did not. According to such accounts, Snow was ahead of
+    his times and his contemporaries should have followed epistemic suit,
+    adopting his views much earlier than they in fact did. However, not just do
+    such accounts have trouble with explaining what was so good about this par-
+    ticular scientific claim, they also leave us with the question of trying to
+    understand why others did not follow Snow’s epistemic lead.
+
+so this is the conclusion ????!!!!
+Sometimes people are right when their methods were imperfect, and sometimes
+people are wrong when they are epistemically prudent. The
+[[tomb_of_the_mistaken_scientist]]
+
+Ah - at last - a desperate bid for significance
+    (p. 2584) It is also this very fact that might make us wonder about the
+    explananda of current epidemiological research. Just as in Snow’s case, it
+    is important to understand that these explananda are not independent of the
+    theoretical framework in which we are operating, and putting ourselves into
+    the miasmatic mindset can help bring this to the fore. In an age where we
+    struggle with the etiology of lifestyle diseases, for example, it seems
+    crucial to understand in what ways our causal background picture influences
+    what we take to be in need of an explanation (and, perhaps, as a result,
+    what we consider worthy of prevention or intervention).
+
+The <q>explananda of current epidemiological research</q>?  How are they cast
+into doubt? This vague claim would work better if we discussed any of these
+explananda. Is there any serious alternative to focusing on the
+<q>explananda of current epidemiological research</q>. I suppose in a sense the
+paper is encouraging us to expand our minds to consider explananda of _past_
+epidemiological research but it doesn't seem like a good use of resources.
+
+Then a tedious justification of make our theories (of theory change) more
+complex - more complicated understanding is better - our current understanding
+is too simple. Agreed the simple story may not do justice to the history (and
+the historical opponents of the new view).
+
+as the presenter suggested - the epidemiological moral/point/message of the
+story is <q>tacked on</q>
+
+The claim that there is some moral to be made of this, some practical
+modification we can make to evaluating epidemiological theories seems
+far-fetched.

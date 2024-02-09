@@ -7,40 +7,80 @@
 
 %% :T <tagname>    # opens locationlist with matching tags
 %% :S <term>       # opens locationlist with matching terms
-%% !grep -ho ':\w*:' * | sort | uniq	# list all tags
+%% !grep -ho ': \w* :' * | sort | uniq	# list all tags
 
-
-= Generated Tags =
+= Tag Index =
 == article ==
-    - [[williamson.transformationAnalyticPhilosophy]]
+	- [[shani2007-mythReductiveExtensionalism]]
+	- [[tulodziecki2021-howNotToThinkAboutTheoryChange]]
+	- [[weir1985-againstHolism]]
+	- [[williamson2014-transformationAnalyticPhilosophy]]
+
+== bit ==
+	- [[the_academic_conclusion]]
+	- [[tomb_of_the_mistaken_scientist]]
 
 == book ==
-    - [[kant.critiqueOfPureReason]]
-    - [[lewis.pluralityOfWorlds]]
-    - [[tractatus]]
+	- [[kant-critiqueOfPureReason]]
+	- [[lewis1986-pluralityOfWorlds]]
+	- [[tractatus]]
+
+== confirmation_holism ==
+	- [[weir1985-againstHolism]]
+
+== discord ==
+	- [[tulodziecki2021-howNotToThinkAboutTheoryChange]]
+
+== draft0.0 ==
+	- [[actually_learning_another_langauge]]
 
 == draft0.1 ==
-    - [[kant.critiqueOfPureReason]]
-    - [[wittgenstein]]
+	- [[kant-critiqueOfPureReason]]
+	- [[weir1985-againstHolism]]
+	- [[wittgenstein]]
+
+== draft0.3 ==
+	- [[williamson2014-transformationAnalyticPhilosophy]]
+
+== draft0.4 ==
+	- [[tomb_of_the_mistaken_scientist]]
 
 == history ==
-    - [[williamson.transformationAnalyticPhilosophy]]
+	- [[tulodziecki2021-howNotToThinkAboutTheoryChange]]
+	- [[williamson2014-transformationAnalyticPhilosophy]]
 
 == modality ==
-    - [[lewis.pluralityOfWorlds]]
-    - [[tractatus#theses#modal isomorphism]]
-    - [[williamson.transformationAnalyticPhilosophy]]
+	- [[lewis1986-pluralityOfWorlds]]
+	- [[tractatus#theses#modal isomorphism]]
+	- [[williamson2014-transformationAnalyticPhilosophy]]
+
+== note ==
+	- [[extensional]]
 
 == person ==
-    - [[huw_price]]
-    - [[wittgenstein]]
+	- [[wittgenstein]]
+
+== phil-science ==
+	- [[tomb_of_the_mistaken_scientist]]
+
+== puff-piece ==
+	- [[tulodziecki2021-howNotToThinkAboutTheoryChange]]
 
 == representation ==
-    - [[tractatus#theses#modal isomorphism]]
+	- [[tractatus#theses#modal isomorphism]]
+
+== semantic_holism ==
+	- [[weir1985-againstHolism]]
+
+== terrible ==
+	- [[shani2007-mythReductiveExtensionalism]]
 
 == text ==
-    - [[kant.critiqueOfPureReason]]
+	- [[kant-critiqueOfPureReason]]
 
 == todo ==
-    - [[kant.critiqueOfPureReason#cutting room floor#philosophers dogmatism]]
-    - [[kant.critiqueOfPureReason#todo]]
+	- [[kant-critiqueOfPureReason#cutting room floor#philosophers dogmatism]]
+	- [[kant-critiqueOfPureReason#todo]]
+
+== unfinished ==
+	- [[the_academic_conclusion]]

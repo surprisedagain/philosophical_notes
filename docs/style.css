@@ -1,0 +1,275 @@
+pre, blockquote, table, ul, ol, dl {
+  margin-top: 0.7rem;
+  margin-bottom: 0.7rem;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+li { margin: 0.3rem auto; }
+
+ul {
+  margin-left: 2rem;
+  padding-left: 0;
+}
+
+dt { font-weight: bold; }
+
+img { border: none; }
+
+pre {
+  border-left: 5px solid #dcdcdc;
+  background-color: #f5f5f5;
+  padding-left: 1rem;
+  font-family: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
+  font-size: 0.8rem;
+  border-radius: 6px;
+}
+
+blockquote {
+  color: #484848;
+  background-color: #fdfcf8;
+  font-size: 0.9rem;
+  line-height: 120%;
+  padding: 0.4rem 0.6rem;
+  border-left: 5px solid #dcdcdc;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 0.3rem;
+}
+
+th { background-color: #f0f0f0; }
+
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  width: 100%;
+}
+
+del {
+  text-decoration: line-through;
+  color: #777777;
+}
+
+.toc li { list-style-type: none; }
+
+.justleft { text-align: left; }
+.justright { text-align: right; }
+.justcenter { text-align: center; }
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tag, body > p:first-child {
+  background-color: #eeeeee;
+  font-size: 0.7rem;
+  line-height: 0.9rem;
+  font-family: monospace;
+  padding: 2px;
+}
+
+
+code {
+  font-family: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
+  -webkit-border-radius: 1px;
+  -moz-border-radius: 1px;
+  border-radius: 1px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  padding: 0px 3px;
+  display: inline-block;
+  color: #52595d;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+}
+
+/*******************************************/
+/* NATHANS HANDWRITTEN CSS BELOW THIS LINE */
+/*******************************************/
+html{
+    background-color: #8cadcb;
+    padding: 1rem 2rem 1.5rem 2rem;
+}
+
+body{
+    min-height: 100vh;
+    max-width: 60rem;
+    margin: 0rem auto;
+    background-color: #f9f3e5;
+    padding: 0.5rem 2rem 2rem 2rem;
+    font-family: "Garamond", "EB Garamond", "Times New Roman", "serif";
+    font-size: 100%;
+    box-shadow: 1px 4px 4px 0 rgba(0, 0, 0, 0.2), 1px 6px 15px 0 rgba(0, 0, 0, 0.19);
+}
+
+p {
+  margin-top: 0.7rem;
+  margin-bottom: 0.7rem;
+}
+
+/******************
+ * Heading section
+ ******************/
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Helvetica", "sans-serif";
+    font-weight: bold;
+    line-height: 120%;
+    margin-top: 0.1rem;
+    margin-bottom: 0.1rem;
+    background-color: #becbef;
+    padding-left: 0.1rem;
+    padding-right: 0.1rem;
+}
+
+h1::first-letter, h2::first-letter, h3::first-letter, h4::first-letter,
+h5::first-letter {
+    text-transform: uppercase;
+}
+
+h1 {font-size: 2rem; color: #000000; text-transform:capitalize; width: 100%;}
+h2 {font-size: 1.6rem; color: #404040; width: 90%;}
+h3 {font-size: 1.4rem; color: #707070; width: 80%;}
+h4 {font-size: 1.2rem; color: #858585; width: 70%;}
+h5 {font-size: 1.0rem; color: #939393; width: 50%;}
+h6 {font-size: 0.8rem; color: #9c9c9c; width: fit-content;}
+
+/* Reduce top margin for first paragraph of section (after heading) */
+div:has(h1, h2, h3, h4, h5, h6) + p,
+div:has(h1, h2, h3, h4, h5, h6) + blockquote {
+    margin-top: 0.3rem;
+}
+/* p after h6s and .smallnotes get even less margin-top after heading */
+div:has(h6) + p, div:has(h6) + blockquote {
+    margin-top: -0.1rem;
+    font-size: 0.9rem;
+    line-height: 1;
+    font-weight: 200;
+}
+.smallnote {
+    margin-top: -0.5rem;
+    font-size: 0.9rem;
+    line-height: 1;
+    font-weight: 200;
+}
+
+/* extra space at end of section (before heading) */
+p + div:has(h1, h2, h3, h4, h5) {
+    margin-top: 1.3rem;
+}
+
+/* but not at the end of a h6 section */
+div:has(h6) ~ div:has(h1, h2, h3, h4, h5):not(div:has(h6) ~ div ~ div) {
+    margin-top: -0.3rem;
+}
+
+/* and except no space before first heading under tags */
+body > p:has(.tag):first-child + div > h1 {
+    margin-top: -1.1rem;
+}
+
+/******************
+ * Anchor section
+ ******************/
+:not(.header, .tag) > a {
+    color: inherit;
+    background-color: #e2d5b9;
+    border-radius: 3px;
+    padding: 0px 4px;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-style: dotted;
+}
+
+:not(.header) > a:hover {
+  background-color: #CAB88D;
+}
+
+.header > a  {
+  text-decoration: none;
+  color: inherit;
+}
+
+.tag > a {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-style: dotted;
+}
+
+
+a[href^="http"]::after {
+    display: inline-block;
+    width: 0;
+    content: "ext";
+    vertical-align: super;
+    font-size: x-small;
+    margin-right: 1em;
+}
+
+/*****************
+ * Tooltip section
+ ******************/
+.tooltip {
+  vertical-align: top;
+  font-size: small;
+  position: relative;
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  border: 2px solid black;
+  font-size: small;
+  padding: 4px;
+  background-color: #E2D5B9;
+  border-radius: 5px;
+  display: inline-block;
+  width: max-content;
+  max-width: 16rem;
+  overflow-x: auto;
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+/*.tooltiptext > a {
+  color: white;
+  text-decoration: none;
+  padding: 3px 6px;
+  border-radius: 3px;
+  background-color: #2792a7;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 90%;
+}*/
+
+/*****************
+ * end Tooltip section
+ ******************/
+
+
+/************
+ * misc notes on methods/discarded tricks
+*************/
+
+/* way to get background color behind just part of element*/
+/* thought to partial color some lesser headings */
+/*h4::before{
+  content: "";
+  display: inline-block;
+  z-index: -1;
+  position: absolute;
+  height: 1.2em;
+  width: 45%;
+  background: #becbef;
+}*/

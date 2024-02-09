@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- processed with vwformat -->
+<link rel="Stylesheet" type="text/css" href="style.css">
+<title>01</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style setby="vwformat">
+</style>
+</head>
+<body>
+
+<div id="quick markdown guide"><h1 id="quick markdown guide" class="header"><a href="#quick markdown guide">quick markdown guide</a></h1></div>
+<div id="quick markdown guide-links"><h2 id="links" class="header"><a href="#quick markdown guide-links">links</a></h2></div>
+<p>
+<a href="linkname.html">different text from link</a>
+file link: <a href="../zz.texts/authorYear.titleOfWork.pdf">local:zz.texts/authorYear.titleOfWork.pdf</a><br>
+<a href="cardname.html#anchor">cardname#anchor</a> anchors are headings or even bold text<br>
+<img src="../embed image in page" /><br>
+</p>
+
+<div id="quick markdown guide-typefaces"><h2 id="typefaces" class="header"><a href="#quick markdown guide-typefaces">typefaces</a></h2></div>
+<p>
+<span id="quick markdown guide-typefaces-bold text"></span><strong id="bold text">bold text</strong>
+<em>italic text</em>
+<em><span id="quick markdown guide-typefaces-bold italic text"></span><strong id="bold italic text">bold italic text</strong></em>
+<span id="quick markdown guide-typefaces-<em>bold italic text</em>"></span><strong id="<em>bold italic text</em>"><em>bold italic text</em></strong>
+<del>strikeout text</del>
+<span class="tooltip">*<span class="tooltiptext">footnote text</span></span>
+<p class="smallnote">small aside text</p>
+<code>code (no syntax) text</code>
+</p>
+<pre python>
+if x == y:
+	print('why not')
+</pre>
+<p>
+super<sup><small>script</small></sup>
+sub<sub><small>script</small></sub>
+</p>
+
+<p>
+&rarr; right arrow
+&forall; for all symbol
+&exist; exists symbol
+</p>
+
+<div id="quick markdown guide-lists"><h2 id="lists" class="header"><a href="#quick markdown guide-lists">lists</a></h2></div>
+<ol>
+<li>
+
+
+<ul>
+<li>
+gl* gl- gli glI gl1 gla glA : create/set the type of item bullet used
+
+<li>
+gll indent more &rarr;
+
+<li>
+glh indent less &lt;-
+
+</ul>
+<li>
+orderedlist item
+
+<li>
+another item
+
+<ul>
+<li>
+list item
+
+<li>
+other list
+
+</ul>
+</ol>
+
+<ul>
+<li class="done0">
+checkbox you can complete with gln glp &lt;ctrl&gt;&lt;space&gt;
+
+</ul>
+
+<div id="quick markdown guide-tags"><h2 id="tags" class="header"><a href="#quick markdown guide-tags">tags</a></h2></div>
+<p>
+<span id="quick markdown guide-tags-demotag"></span><span class="tag" id="demotag"><a href="tag_index.html#demotag">demotag</a></span>
+see <a href="tag_index.html">tag_index</a> for list of tags
+:T &lt;tagname&gt;    # opens locationlist with matching tags
+also
+:S &lt;term&gt;       # opens locationlist with matching terms
+!grep -ho ':\w*:' * | sort | uniq	# list all tags
+</p>
+
+</body>
+</html>

@@ -11,21 +11,17 @@ motivations for extensionalism.
 === extensional vs intensional objects is confused ===
 According to the author [[extensional#extensionalism|extensionalism]] is the doctrine that there are only
 extensional objects. The orthodox view is that it is languages or occurrences of
-terms that are [[extensional]].
+terms that are [[extensional]]. And extensionalism is the doctrine that such a
+language 
 
 The account of extensionalism is so strange that it is not clear if it it is
 equivalent to the orthodox definition.
 
-The notion that there are two sorts of objects, intensional ones and extensional
-ones is a terrible way of expression discussing extensionalism.
-It is language that is intensional of extensional not objects.
-Can we warp this over to intensional and extensional objects is we try really
-hard?
-
-Consider the example:
-    (fp. 5) Doolittle believes that all pelicans are feathered
-Are the pelicans referred to in this example extensional objects or intensional
-objects?
+The notion that there are two <q>sorts</q> of objects, intensional ones and extensional
+ones is a terrible way of expression discussing extensionalism.  It is language
+that is intensional of extensional not objects.  Can we warp this over to
+intensional and extensional objects is we try really hard? First we need to know
+the distinction between intensional and extensional objects.
 
 Eventually (8 pages into an 18 page paper) we are given definition of the
 term <q>extensional entity</q> viz.,
@@ -33,5 +29,23 @@ term <q>extensional entity</q> viz.,
     concrete objects, or sets, which, unlike the former, abide by the
     extensionality principle: extensionally equivalent sets are, ipso facto,
     identical, and so is the case with co-instantiated concrete individuals.
+    [[extensional]]
+    
+==== can this work? ====
+
+Consider the example:
+    (fp. 5) S,,3,,: Doolittle believes that all pelicans are feathered.
+
+Apparently the intensional objects involved in this assertion are pelicans:
+
+    Such sentences are attitude reports (Crane 2001, p. 21); they describe the
+    attitudes taken by a psychological agent (Doolittle) toward an intentional
+    object, or objects (pelicans).
+
+Now as it stands the English expression Doolittle's belief
+For the moment let us assume that pelicans are extensional objects
+belief or the English expression that belief (i.e. the sentence <q>All 
+pelicans are feathered</q> may contain reference to
+extensional objects (i.e. pelicans)
 
 = other related cards =

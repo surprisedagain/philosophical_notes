@@ -3,9 +3,8 @@
 00.card
 01.card
 
-# neither html nor pdfs required unless/until made public 
-docs/
-zz.texts
+zz.texts/
+zz.discordReadingGroup/
 
 # vi swp files
 *.swp
