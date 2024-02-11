@@ -72,6 +72,7 @@ del {
   line-height: 0.9rem;
   font-family: monospace;
   padding: 2px;
+  width: fit-content;
 }
 
 
