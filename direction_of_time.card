@@ -1,0 +1,86 @@
+:physics-problems:draft0.2:
+= direction of time =
+====== short ======
+What are the features which allow us to determine which direction in time is the
+future and which is the past?
+<br><br>
+Why is entropy higher in future? Is increasing entropy definitional (i.e. the
+future is whichever direction in time that entropy increases), due to an
+asymmetry in physical laws (and which temporal direction is the future can be
+determined with regard to that asymmetry) or something else?
+
+====== related to ======
+[[grue*]] [[rovelli2023-orientedCausation]]
+
+== the puzzle ==
+Consider any one of the standard entropy exemplary systems. Boltzman's
+balls in microgravity is a good one, a stone falling into a pond is another, a
+solar system is also good.
+
+The laws of physics determine the trajectories through the state space of this
+system. If the laws are determinate then these trajectories are continuous
+threads which contain one point in phase space at each moment, one point leading
+on to the next (and coming from the one before). If the laws of physics are
+probabilistic then each point throws a mist of probability concerning what point
+in the phase space it will occupy after a time &Delta;t.  For simplicity we will
+focus on the deterministic case, but bear in mind that objections that something
+or other doesn't apply in the probabilistic case may be legitimate.
+
+Now on the one hand laws of physics are time symmetric, travel in either
+direction along these trajectories is permitted by the laws of physics. A
+trajectory from StateA to StateB is just as much a trajectory from StateB to
+StateA.
+
+But on the other hand the second law of thermodynamics says that entropy in this
+(total) system is monotonically increasing. That for all t,,1,, and t,,2,, if
+t,,2,, is after t,,1,, the entropy of the system at t,,1,, is less than or equal
+to the entropy of the system as t,,2,,.
+[AAt,,1,,, t,,2,, (Earlier(t,,1,,,  t,,2,,) =>. E(S, t,,1,,) <= E(S, t,,2,,) )]
+
+Now the puzzle is set - according to the laws of physics entropy decreasing
+paths are just as physically possible/likely as entropy increasing, but
+according to the <q>second law</q> we will only see entropy increasing paths.
+
+=== solution 1 ===
+There are many fewer low entropy states than there are high entropy states.
+
+This solution feels rather Bayesian. OK the number/likelihood of
+high entropy -> low paths is exactly the same as that of low -> high entropy
+paths, but (the Bayesian says, as they always do) you are ignoring the base
+rate. The vast majority of paths are high -> high entropy states.
+
+_Given_ that you have a path with one low entropy end, the odds
+are that the other end is high entropy. And this is perfectly compatible with
+there being equally many high->low as low->high paths. Whats unusual is that you
+have a path with a low entropy end _at all_.
+
+But this seems to leave unexplained why the systems I see all come with low
+entropy earlier and high entropy later. And this problem can be considerably
+sharpened as follows:
+
+=== Boltzmann brains ===
+If I know that the system is within a <q>ball</q> in statespace (since all my
+observations/measurements have error bars) at this moment. And I know the laws
+of physics (i.e. the permitted statespace trajectories) so I also know that most
+of the trajectories passing through that <q>ball</q> of low entropy states 
+go on (in future) to high entropy states. Thus I am justified in believing that
+the entropy of the system will increase in future.
+
+*But* exactly the same line of reasoning leads me to believe that the entropy of
+the system will increase in past as well.
+
+The puzzle, on this view, is _not_ merely <q>Why is entropy so low at the start
+of the universe?</q> but <q>How can I be justified in believing that entropy is
+low at the start of the universe?</q>. i.e. Why does my justification for
+believing that entropy increases in future not also justify me in believing 
+that it increases in past.
+
+The conclusion is that you/(your brain) is the minimal divergence from a very
+high entropy state. While not a <q>new rationale for skepticism</q> it is a
+_reductio ad absurdum_ of this explanation for (future) increasing entropy.
+
+== local time direction ==
+:todo_current:
+Some philosophers, such as Huw Price, seem to take seriously the possibility
+that time's arrow does not point in the same direction in all aprts of the
+universe. This seems preposterous to me, but since others 

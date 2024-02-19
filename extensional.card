@@ -1,6 +1,7 @@
 :note:
 = extensional =
-An occurrence of a term that has an extension is *extensional* iff the
+====== short ======
+An occurrence of a term (that has an extension) is *extensional* iff every
 replacement of that term with another that has the same extension (i.e. is true
 of the same tuples of objects) produces a sentence whose truth value is the
 same as the original.
@@ -8,14 +9,13 @@ same as the original.
 [:caveat - this restricts to only terms with extensions. It seems
 straightforward to extend this to include truth functional connectives:]
 
+====== related to ======
+[[shani2007-mythReductiveExtensionalism]]
+[[lewis1986-pluralityOfWorlds]]
+
 == extensionalism ==
 The doctrine that science/a complete description of the world/the language
 is which the ???? is purely extensional (i.e. in which all
 [possible=grammatically correct] occurrences of terms are extensional.
 That ordinary language as it stands is extensional.
-
-==== backlinks ====
-[[shani2007-mythReductiveExtensionalism]]
-[[lewis1986-pluralityOfWorlds]]
-
 
