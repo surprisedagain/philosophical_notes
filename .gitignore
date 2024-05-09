@@ -3,8 +3,8 @@
 00.card
 01.card
 
-zz.texts/
-zz.discordReadingGroup/
+zz.texts
+zz.discordReadingGroup
 
 # vi swp files
 *.swp

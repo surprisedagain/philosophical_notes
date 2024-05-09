@@ -9,91 +9,117 @@
 %% :S <term>       # opens locationlist with matching terms
 %% !grep -ho ': \w* :' * | sort | uniq	# list all tags
 
+
 = tag index =
 == article ==
-	- [[rovelli2023-orientedCausation]]
-	- [[shani2007-mythReductiveExtensionalism]]
-	- [[tulodziecki2021-howNotToThinkAboutTheoryChange]]
-	- [[weir1985-againstHolism]]
-	- [[williamson2014-transformationAnalyticPhilosophy]]
+    - [[chisholm1987-truths_of_reason]]
+    - [[moschovakis2017-senseDenotationAlgorithmValue]]
+    - [[rovelli2023-orientedCausation]]
+    - [[shani2007-mythReductiveExtensionalism]]
+    - [[tulodziecki2021-howNotToThinkAboutTheoryChange]]
+    - [[weir1985-againstHolism]]
+    - [[williamson2014-transformationAnalyticPhilosophy]]
+    - [[zagzebsky2003-sourceOfEpistemicGood]]
+
+== awful ==
+    - [[moschovakis2017-senseDenotationAlgorithmValue]]
+    - [[shani2007-mythReductiveExtensionalism]]
 
 == bit ==
-	- [[the_academic_conclusion]]
-	- [[tomb_of_the_mistaken_scientist]]
+    - [[the_academic_conclusion]]
+    - [[tomb_of_the_mistaken_scientist]]
 
 == book ==
-	- [[kant-critiqueOfPureReason]]
-	- [[lewis1986-pluralityOfWorlds]]
-	- [[tractatus]]
+    - [[kant-critiqueOfPureReason]]
+    - [[kripke1980-namingAndNecessity]]
+    - [[lewis1986-pluralityOfWorlds]]
+    - [[tractatus]]
 
 == confirmation_holism ==
-	- [[weir1985-againstHolism]]
+    - [[weir1985-againstHolism]]
+
+== disagree ==
+    - [[zagzebsky2003-sourceOfEpistemicGood]]
 
 == discord ==
-	- [[rovelli2023-orientedCausation]]
-	- [[tulodziecki2021-howNotToThinkAboutTheoryChange]]
+    - [[rovelli2023-orientedCausation]]
+    - [[tulodziecki2021-howNotToThinkAboutTheoryChange]]
 
 == draft0.0 ==
-	- [[00]]
-	- [[actually_learning_another_langauge]]
-	- [[second_law_of_thermodynamics]]
+    - [[00]]
+    - [[actually_learning_another_langauge]]
+    - [[bias]]
+    - [[kripke1980-namingAndNecessity]]
+    - [[scientific_method]]
+    - [[second_law_of_thermodynamics]]
 
 == draft0.1 ==
-	- [[kant-critiqueOfPureReason]]
-	- [[weir1985-againstHolism]]
-	- [[wittgenstein]]
+    - [[kant-critiqueOfPureReason]]
+    - [[weir1985-againstHolism]]
+    - [[whats_good_about_knowledge]]
+    - [[wittgenstein]]
 
 == draft0.2 ==
-	- [[direction_of_time]]
-	- [[the_academic_conclusion]]
+    - [[direction_of_time]]
+    - [[the_academic_conclusion]]
 
 == draft0.3 ==
-	- [[williamson2014-transformationAnalyticPhilosophy]]
+    - [[williamson2014-transformationAnalyticPhilosophy]]
 
 == draft0.4 ==
-	- [[tomb_of_the_mistaken_scientist]]
+    - [[tomb_of_the_mistaken_scientist]]
 
 == history ==
-	- [[tulodziecki2021-howNotToThinkAboutTheoryChange]]
-	- [[williamson2014-transformationAnalyticPhilosophy]]
+    - [[tulodziecki2021-howNotToThinkAboutTheoryChange]]
+    - [[williamson2014-transformationAnalyticPhilosophy]]
+
+== influential ==
+    - [[kripke1980-namingAndNecessity]]
+    - [[zagzebsky2003-sourceOfEpistemicGood]]
+
+== knowledge ==
+    - [[whats_good_about_knowledge]]
+    - [[zagzebsky2003-sourceOfEpistemicGood]]
 
 == modality ==
-	- [[lewis1986-pluralityOfWorlds]]
-	- [[tractatus#theses#modal isomorphism]]
-	- [[williamson2014-transformationAnalyticPhilosophy]]
+    - [[chisholm1987-truths_of_reason]]
+    - [[kripke1980-namingAndNecessity]]
+    - [[lewis1986-pluralityOfWorlds]]
+    - [[tractatus#theses#modal isomorphism]]
+    - [[williamson2014-transformationAnalyticPhilosophy]]
 
 == note ==
-	- [[extensional]]
+    - [[extensional]]
+    - [[whats_good_about_knowledge]]
 
 == person ==
-	- [[wittgenstein]]
+    - [[wittgenstein]]
 
 == phil-science ==
-	- [[tomb_of_the_mistaken_scientist]]
+    - [[tomb_of_the_mistaken_scientist]]
 
 == physics-problems ==
-	- [[direction_of_time]]
-	- [[rovelli2023-orientedCausation]]
+    - [[direction_of_time]]
+    - [[rovelli2023-orientedCausation]]
 
 == puff-piece ==
-	- [[rovelli2023-orientedCausation]]
-	- [[tulodziecki2021-howNotToThinkAboutTheoryChange]]
+    - [[rovelli2023-orientedCausation]]
+    - [[tulodziecki2021-howNotToThinkAboutTheoryChange]]
+
+== reasoning ==
+    - [[chisholm1987-truths_of_reason]]
 
 == representation ==
-	- [[tractatus#theses#modal isomorphism]]
+    - [[moschovakis2017-senseDenotationAlgorithmValue]]
+    - [[tractatus#theses#modal isomorphism]]
+
+== response ==
+    - [[chisholm1987-truths_of_reason]]
 
 == semantic_holism ==
-	- [[weir1985-againstHolism]]
-
-== terrible ==
-	- [[shani2007-mythReductiveExtensionalism]]
-
-== text ==
-	- [[kant-critiqueOfPureReason]]
+    - [[weir1985-againstHolism]]
 
 == todo ==
-	- [[kant-critiqueOfPureReason#cutting room floor#philosophers dogmatism]]
-	- [[kant-critiqueOfPureReason#todo]]
-
-== todo_current ==
-	- [[direction_of_time#direction of time#local time direction]]
+    - [[direction_of_time#direction of time#local time direction]]
+    - [[kant-critiqueOfPureReason#cutting room floor#philosophers dogmatism]]
+    - [[kant-critiqueOfPureReason#todo]]

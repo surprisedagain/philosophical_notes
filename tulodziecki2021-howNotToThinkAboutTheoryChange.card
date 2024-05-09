@@ -8,6 +8,9 @@ A middling, though historically detailed and seemingly accurate, motivation
 for the [[tomb_of_the_mistaken_scientist]], that presents itself as a critique
 of scientific realism with profound implications for epidemiology.
 
+====== related ======
+[[tomb_of_the_mistaken_scientist]]
+
 === pre-apology ===
 On reflection I realise that the tone of this commentary is excessively snarky
 and mean. I dislike the oversold and overblown vacuous academic style that the
@@ -24,13 +27,13 @@ episode in epidemiology. However, the suggestion that this has important
 implications for our understanding of (the epistemology of) theory change or
 scientific realism still grinds my gears.
 
-== take home ==
+== summary ==
 This paper has two conclusions - one blandly true and the other an overblown
 vacuity.
 
 The bland truth is that the early proponent(s) of a new view, even if it is
 later almost universally recognised as correct, will often hold that view on
-inadequate evidence. (The example focussed on in the paper is Snow and his
+inadequate evidence. (The example the paper focuses on is Snow and his
 theory of the cause of cholera.) The justification of their beliefs no stronger
 than that of their opponents.  Indeed to be prepared to put in the (often
 considerable) effort of gathering evidence that might support the new view, may
@@ -68,10 +71,10 @@ to [[the_academic_conclusion]] - The tedium of the advice to expand our
 cognitive space - when the real challenge is how to reduce it without
 (significantly) increasing our chance of being wrong.
 
-= discussion notes=
+== notes taken on reading in group ==
 just a suggestion of a more nuanced view of scientific realism?
 
-== section 1 ==
+=== section 1 ===
 realists selectively - seeking for features in addition to empirical
 adequacy(/verified predictions) which would warrant believing that the
 objects postulated in scientific theories are real. Or realists can limit the
@@ -80,7 +83,6 @@ parts of theories about which they are realists:
     proposed a number of more restrictive realisms according to which we ought
     to be realists selectively and only about those parts of our theories
     essential to their success
-
 simplicity, consilience - yes ok in a sense these are theoretical virtues that
 are additional to empirical adequacy(/correct predictions/??)
 
@@ -88,8 +90,8 @@ are additional to empirical adequacy(/correct predictions/??)
     share is a commitment to the idea that later scientific theories are more
     successful than earlier ones and, further, that we can somehow give an
     explanation of the success of later theories by appealing to some feature
-    either of those theories themselves—such as the theoretical virtues—or of
-    the scientists who came up with them: there is something that those
+    either of those theories themselves — such as the theoretical virtues — or
+    of the scientists who came up with them: there is something that those
     scientists did right and if we could only capture what that something is, we
     would have at least a partial answer to the question of why science so
     consistently delivers epistemic achievements.
@@ -101,8 +103,8 @@ alternatives of the time; and hence (??) to look for a distinguishing virtue of
 successful theories/ theory developments by just looking at those theories by
 themselves is foolish/mistaken.
 
-== section 2 ==
-mono-causality is the supposed key distinguishing feature of Snow's account of
+=== section 2 ===
+Mono-causality is the supposed key distinguishing feature of Snow's account of
 the spread of cholera.
 
 Presenter suggested Snow's account better described as choleric matter comes
@@ -110,28 +112,27 @@ from faeces, and is then ingested. Not such a focus on water transmission (which
 Snow did accept/propose). But the idea that it was faecal matter was the key.
 
 Miasma theory was the chief alternative.
-my question: is the suggestion of being water borne the key difference with the
+My question: is the suggestion of being water borne the key difference with the
 miasma theory? (i.e. a water miasma wouldn't be too far off?)
 
 Is the miasma theory simply the non atomistic version of spread by microscopic
-germs? No not quite - germs are living and replicate, rather than causing some
-imbalance in bodily processes which manifests as disease.  Still it does seem
+germs? No not quite - germs are living and replicate. Still it does seem
 like the non-atomistic version - if you don't have microscopic particles (and
 hence no microscopic animalcules) then you are pushed towards miasma. If you
 have atoms then you are free to postulate microscopic germs, but if you have no
 atoms then germ theory is ruled out and miasma (as a kind of diffuse plenum) is
 the best option. I think that's right - if you have no atoms then you are pushed
 towards a miasma theory.
-(See [[wn.rLN:timeline:_modern_atomism_to_nerve_impulses]])
+(See [[wn.rLN:timeline-modern_atomism_to_nerve_impulses]])
 
 Author claims:
 miasma theory made correct novel predictions - very plausible
 
-later (in S4)  mentions elevation formula of disease  - an mathematical formula
+later (in S4)  mentions elevation formula of disease - a mathematical formula
 predicting disease prevalence on the basis of an areas elevation. Fit available
 data quite well (though not perfectly).
 
-== section 3 ==
+=== section 3 ===
 South London water supply study - the authors focus - is not the only study done
 by Snow (and more were done by others).
 
@@ -155,7 +156,7 @@ elevation, class?, the sorts of things mentioned in the miasma theory - were
 constant (on a population level) because people with different water suppliers
 lived right next to each other, under much the same conditions.
 
-== section 4: objections to Snow ==
+=== section 4: objections to Snow ===
     (p. 2578) “that if in this [intermingled] part of London it should be found
     that the inmates of the houses supplied with the Battersea water suffered
     greatly, and those supplied with Ditton water suffered little, then of
@@ -172,13 +173,13 @@ Method of determining water supplier by salt level questioned - Snow reports
 only a single measurement of the low salt level that distinguished the upstream
 supplier.
 
-number of people supplied not specified - Snow makes it clear that more downstream
-supplied people got sick than upstream supplied people, but (at least according
-to quoted critic) does not supply total numbers of households supplied by each
-so we don't know background rate of supplier so we can't calculate
+number of people supplied not specified - Snow makes it clear that more
+downstream supplied people got sick than upstream supplied people, but (at least
+according to quoted critic) does not supply total numbers of households supplied
+by each so we don't know background rate of supplier so we can't calculate
 <br>Prob(get_cholera GIVEN supplied_by_downstream).
 
-== section 5 ==
+=== section 5 ===
 If there is any meat to this paper it better be here
     (p. 2583) The more important philosophical point that comes out of
     understanding the Snow-episode in this way, however, is that analyzing
