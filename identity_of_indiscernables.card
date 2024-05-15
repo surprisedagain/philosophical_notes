@@ -1,0 +1,86 @@
+:thesis:history:
+= identity of indiscernables =
+====== short ======
+The thesis that any objects instantiating exactly the same properties must
+be identical.
+
+====== related to ======
+[[kripke1980-namingAndNecessity]],
+[[extensional]],
+[[local:zz.texts/quine1961-fromALogicalPointOfView.pdf]] (<q>identification of
+indiscernables</q>, <q>Giorgione</q>)
+
+= Leibnizs law =
+According to Tarski, Leibniz's Law is the conjunction of both the
+identity of indiscernables and the indiscernability of identicals: <br>
+    Among the logical laws concerning the concept of identity the most
+    fundamental is the following: x = y if, and only if, x has every property
+    which y has, and y has every property which x has.  This law was first
+    stated by Leibniz (although in somewhat different terms) and hence may be
+    called Leibniz' Law. (Introduction to Logic, 1941).
+
+According to Feldman ([[https://doi.org/10.2307/2184291|_Leibniz and "Leibniz' Law"_, 1970]]) Leibniz states
+the principle of the identity of indiscernibles quite clearly in his
+_Discourse on Metaphysics_:
+    ... it is not true that two substances may be exactly alike and differ only
+    numerically, _solo numero_ ...
+
+One might naively have thought that the indiscernability of identicals was so
+uncontroversial as to go without saying? This is, as one might expect, the topic
+of scholarly debate. Some, such as Tarski above, treat Leibniz as asserting
+the biconditional, while others treat Leibniz as asserting only the identity of
+indiscernables.
+
+== principle of substitution ==
+Leibniz also states something akin to a principle of substitution:
+    Eadem sunt quorum unum in alterius locum substitui pote salva veritate<br>
+    (Gerhardt, _Die Philosophischen Schriften von G. W. Leibniz_ Vol. VII)
+which has been translated as:
+    Things are the same (or identical), one of which can be substituted in place
+    of the other with preservation of truth
+
+There is in this, no recognition of what Quine would call referentially opaque
+(or non-extensional) contexts such as are created by modal operators and
+(are generally thought to be created by) intentional idioms (believes, hopes,
+etc.,). Furthermore it is not things themselves that are substituted
+_salva veritate_((Quine explicitly attributes this phrase to Leibniz in S3 of _Two Dogmas_.)) for each other but their names.  On this interpretation
+(plausibly attributed to Quine) one must take Leibniz as careless of the
+distinction between use and mention - between <q>Cicero</q> and Cicero.
+
+[[https://doi.org/10.2307/2184291|Feldman]] advances the theory that this is an identity criteria for concepts, such
+as triangular and trilateral, quadrangle and quadrilateral. In this sense it
+makes sense to say that two concepts are identical if their substitution for
+each other (in the relevant judgement or whatever sentence-like entity it is
+that concepts can compose) always leaves the truth of the judgement unchanged.
+
+My suspicion, is that Leibniz is simply careless of the distinction. Treating
+<q>Cicero</q>, Cicero and concepts all as objects. The confusion made
+especially attractive that each object has a proper name
+(_characteristica universalis_ ???? this is the name of the language)
+
+Is an object simply its object concept. The echo in this monad of that monad
+over there?
+
+== identification of indiscernables ==
+Quine inverts this with his identification of indiscernables:
+    Suppose a discourse about person stages, and suppose that whatever is said
+    about any person stage, in this particular discourse, applies equally to all
+    person stages which make the same amount of money. Our discourse is
+    simplified, then, by shifting its subject matter from person stages to
+    income groups. Distinctions immaterial to the discourse at hand are thus ex-
+    truded from the subject matter.<br>
+    In general we might propound this maxim of the identification of
+    indiscernibles: Objects indistinguishable from one another within the terms
+    of a given discourse should be construed as identical for that discourse.
+    More accurately: the references to the original objects should be
+    reconstrued for purppses of the discourse as referring to other and fewer
+    objects, in such a way that indistinguishable originals give way each to the
+    same new object.<br>
+    ([[local:zz.texts/quine1961-fromALogicalPointOfView.pdf]])
+
+This reflects Quine's idea that for any discourse/language/theory/formal system
+with a finite stock of predicates and the standard logical apparatus we can
+define identity as follows:
+    x = y .def=. A(x) <-> A(y) and B(x) <-> B(y) ... <br>
+    (source???? methods of logic? selected logic papers?)
+    
