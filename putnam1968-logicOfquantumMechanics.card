@@ -1,0 +1,55 @@
+:article:reasoning: <br>
+:draft0.1:rough:agreeX:influence7:quality6:discord-reading-group:
+= the logic of quantum mechanics =
+[: [[local:zz.texts/putnam1968-logicOfQuantumMechanics.pdf]], https://n2t.net/ark:/13960/t13p01m5s :]
+
+====== short ======
+Influential in its day, now generally regarded as flawed/irrelevant.<br>
+Very rough notes, unlikely to be refined into something coherent/presentable.
+Deliberately lowering my standard to improve completeness.
+
+====== related to ======
+
+== summary ==
+
+== notes taken in discussion ==
+=== §1 overthrow of euclidean geometry ===
+
+geometry as idealisation vs physical reality
+
+the claim that straight lines which are equidistant for some length are
+equidistant for their entire length is intuitively necessary. (This distance
+between parallel lines is constant.)
+
+To deny this principle is just as <q>self-contradictory</q> as to claim that an
+object is both red and green, both married and a bachelor.
+
+And yet General Relativity does just this!
+
+=== §2 unsuccessful attempts to dismiss the foregoing ===
+
+What are the straight lines?
+
+==== Geodesics are not straight lines ====
+
+
+
+=== §3 logic of quantum mechanics ===
+
+looking at the phase space of as system consisting of N particles
+
+Berkhoff and von Neumann
+if you look at the measureable subsets of phase space. 
+
+boolean algebra
+
+hilbert space vector space with a dot product on it - is complete - contains all
+the limits. - this would be a useful note
+
+span is any linear combination of two vectors
+
+
+=== §4 peculiarities of quantum mechanics ===
+
+we have deduction but we don't have <q>P ⊃ Q</q> as a setence that can be
+expressed in quantum logic.

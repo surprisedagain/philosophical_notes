@@ -1,6 +1,6 @@
 :article:modality:reasoning:response:
 = truths of reason =
-[: [[local:zz.texts/zz.exemplaryErrors/chisholm1987-truthsOfReason.pdf]],
+[: [[local:zz.texts/chisholm1987-truthsOfReason.pdf]],
 public url: [[https://philpapers.org/rec/CHITTO-2]] <br>
 by R. Chisholm, 1987. :]
 
@@ -58,14 +58,14 @@ misguided constraints.
 Why focus on these "relationships" of inclusion and exclusion?
 
 ALL squares are rectangles<br>
-AAx [Square(x) -> Rectangle(x)]<br>
+∀x [Square(x) -> Rectangle(x)]<br>
 
 NO squares are circles<br>
-not EEx [Square(x) AND Circle(x)]<br>
+not ∃x [Square(x) ∧ Circle(x)]<br>
 which is interdeducible in FOL with<br>
-AAx not [Square(x) AND Circle(x)]<br>
+∀x not [Square(x) ∧  Circle(x)]<br>
 
-NOT EEx NOT =interdeducible in classical First Order Logic with= AAx<br>
+NOT ∃x NOT =interdeducible in classical First Order Logic with= ∀x<br>
 
 So these are the two ways in which universal quantifiers can occur at the
 beginning of a statement. Either immediately followed by a negation or not.  In
@@ -269,7 +269,7 @@ Chisholm appears to be agreeing with William Whewell when he says:
     happened; but she cannot find, in any case, or in any accumulation of cases,
     any reason for what _must_ happen." 
 
-But in the immediately preceeding paragraph Chisholm claims merely that:
+But in the immediately preceding paragraph Chisholm claims merely that:
     (p.3.4) The step from the inductive generalisation "Every individual thing,
     past, present, and future, is such that if it is red then it is not blue"
     . . . to "Necessarily, every individual thing, past, present, and future,

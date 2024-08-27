@@ -1,0 +1,69 @@
+:undisputed:knowledge: <br>
+:agree8:influence9:quality8:
+= Gettier counterexamples =
+[: _Is Justified True Belief Knowledge_ (1963),
+https://doi.org/10.2307/3326922 :]
+
+====== short ======
+Gettier's counter examples to the traditional claim that knowledge is justified
+true belief shook the philosophical world and caused renewed interest in
+epistemology. Leading to (increasingly despairing) accounts of knowledge in
+terms of sensitivity and safety.
+
+[:
+However, Plantinga says:
+    According to the inherited lore of the epistemological tribe, the JTB
+    [justified true belief] account enjoyed the status of epistemological
+    orthodoxy until 1963, when it was shattered by Edmund Gettier... Of course,
+    there is an interesting historical irony here: it isn't easy to find many
+    really explicit statements of a JTB analysis of knowledge prior to Gettier.
+    It is almost as if a distinguished critic created a tradition in the very
+    act of destroying it<br>
+    (Plantinga, [[https://doi.org/10.1093/0195078624.001.0001|_Warrant: the Current Debate_]] , 1993)
+:]
+
+====== related to ======
+[[knowledge]], [[epistemic_safety_and_sensitivity]]
+
+= first counter-example =
+Suppose that Smith and Jones have applied for a certain job. And suppose that
+Smith has strong evidence for the following conjunctive proposition:
+    (d) Jones is the man who will get the job, and Jones has ten coins in his
+    pocket.
+
+Smith's evidence for (d) might be that the president of the company assured him
+that Jones would in the end be selected, and that he, Smith, had counted the
+coins in Jones's pocket ten minutes ago.
+
+Proposition (d) entails:
+    (e) The man who will get the job has ten coins in his pocket.
+
+Let us suppose that Smith sees the entailment from (d) to (e), and accepts
+(e) on the grounds of (d), for which he has strong evidence. In this
+case, Smith is clearly justified in believing that (e) is true.
+
+But imagine, further, that unknown to Smith, he himself, not Jones,
+will get the job. And, also, unknown to Smith, he himself has ten coins
+in his pocket. Proposition (e) is then true, though proposition (d),
+from which Smith inferred (e), is false. In our example, then, all of the
+following are true: (i) (e) is true, (ii) Smith believes that (e) is true, and
+(iii) Smith is justified in believing that (e) is true. But it is equally clear
+that Smith does not know that (e) is true; for (e) is true in virtue of the
+number of coins in Smith's pocket, while Smith does not know how
+many coins are in Smith's pocket, and bases his belief in (e) on a count
+of the coins in Jones's pocket, whom he falsely believes to be the man
+who will get the job
+
+
+
+= second counter-example =
+Let us suppose that Smith has strong evidence for the following proposition:
+    (f) Jones owns a Ford.
+	
+Smith's evidence might be that Jones has at all times in the past within
+Smith's memory owned a car, and always a Ford, and that Jones has
+just offered Smith a ride while driving a Ford. Let us imagine, now,
+that Smith has another friend, Brown, of whose whereabouts he is
+totally ignorant. Smith selects three place-names quite at random, and
+constructs the following three propositions:
+    (g) Either Jones owns a Ford, or Brown is in Boston

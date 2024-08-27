@@ -1,5 +1,5 @@
 :thesis:history:
-= identity of indiscernables =
+= identity of indiscernibles =
 ====== short ======
 The thesis that any objects instantiating exactly the same properties must
 be identical.
@@ -12,7 +12,7 @@ indiscernables</q>, <q>Giorgione</q>)
 
 = Leibnizs law =
 According to Tarski, Leibniz's Law is the conjunction of both the
-identity of indiscernables and the indiscernability of identicals: <br>
+identity of indiscernibles and the indiscernability of identicals: <br>
     Among the logical laws concerning the concept of identity the most
     fundamental is the following: x = y if, and only if, x has every property
     which y has, and y has every property which x has.  This law was first
@@ -27,9 +27,9 @@ _Discourse on Metaphysics_:
 
 One might naively have thought that the indiscernability of identicals was so
 uncontroversial as to go without saying? This is, as one might expect, the topic
-of scholarly debate. Some, such as Tarski above, treat Leibniz as asserting
-the biconditional, while others treat Leibniz as asserting only the identity of
-indiscernables.
+of scholarly debate. Some, such as Tarski above, interpreting Leibniz as
+asserting the bi-conditional, while others interpret him as asserting only the
+identity of indiscernibles.
 
 == principle of substitution ==
 Leibniz also states something akin to a principle of substitution:
@@ -58,11 +58,11 @@ My suspicion, is that Leibniz is simply careless of the distinction. Treating
 especially attractive that each object has a proper name
 (_characteristica universalis_ ???? this is the name of the language)
 
-Is an object simply its object concept. The echo in this monad of that monad
+Is an object simply its object concept. The echo of this monad in that monad
 over there?
 
-== identification of indiscernables ==
-Quine inverts this with his identification of indiscernables:
+== identification of indiscernibles ==
+Quine inverts this with his identification of indiscernibles:
     Suppose a discourse about person stages, and suppose that whatever is said
     about any person stage, in this particular discourse, applies equally to all
     person stages which make the same amount of money. Our discourse is
@@ -77,10 +77,14 @@ Quine inverts this with his identification of indiscernables:
     objects, in such a way that indistinguishable originals give way each to the
     same new object.<br>
     ([[local:zz.texts/quine1961-fromALogicalPointOfView.pdf]])
-
+    
 This reflects Quine's idea that for any discourse/language/theory/formal system
 with a finite stock of predicates and the standard logical apparatus we can
 define identity as follows:
     x = y .def=. A(x) <-> A(y) and B(x) <-> B(y) ... <br>
     (source???? methods of logic? selected logic papers?)
-    
+
+This is deeply appealing. It is we that divide up the world into objects. Though
+there is no way to describe the world without doing so. That division is
+intimately connected with the predicates we take to be true of those objects. Of
+course, how else could it be?

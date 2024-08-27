@@ -1,0 +1,879 @@
+:article:consciousness: <br>
+:quality3:influence3:agree2:draft1: <br>
+:RLN:presentable:
+= A History Of Qualia =
+[: [[local:zz.texts/dennett2017-aHistoryOfQualia.pdf]],
+https://doi.org/10.1007/s11245-017-9508-2 :]
+
+====== short ======
+Dennett's paper does not bear up well under close consideration. As part of a
+broader campaign of arguing against the existence of qualia, Dennett proposes a
+variety of explanations for why people believe in them despite their
+non-existence.  Unfortunately both his arguments and his explanations concern
+the existence of phenomenal objects possessing the properties of the external
+objects they represent (i.e. the truth of Aristotelian and Cartesian theories of
+perception) rather than the existence of causally inert qualia.
+
+====== related to ======
+[[philosophical_zombies]],[[consciousness]],
+[[belief-cause_vs_justification]],[[extensional]],
+[[local:zz.texts/chalmers1996-consciousMind.pdf]]
+
+Cartesian theatre models of perception should be discussed in the second half of
+RLN.
+
+= reply =
+=== a history of a solution to the hard problem of consciousness ===
+One of the obstacles to understanding _A History of Qualia_ (Dennett, 2017) is
+its extraordinarily misleading title. For Dennett's paper is not about the
+history of qualia, nor even the history of belief in qualia.  Instead it is
+primarily a series of attempts to explain why people believe claims like the
+following:
+  | *(A) When you open your eyes and see something red, something red pops into existence in your mind/consciousness/awareness.* |
+In Dennett's words:
+    If you believe that your belief that there is a red apple in front
+    of you is _proximally_ caused by a <q>phenomenal</q> red apple-representation
+    produced by your visual system to be the immediate source of your belief
+    you may well be mistaken. (I am sure you are, but it is my goal in this
+    paper to show you that I might be right, ...)<br>
+    (fp. 3.a)
+
+Dennett is _not_ arguing against the existence of qualia, but against
+*Cartesian Theatre* accounts of perception. Theories according to which
+the perception of external physical objects involves the perception of internal
+phenomenal objects upon a private mental stage. The key claim of qualia
+theories, by contrast, is that there is a way that having experiences _feels_ over
+and above the causal role of such experiences (or the phenomenal objects they are
+experiences of). At least since Chalmers popularised the notion of
+[[philosophical_zombies]] in his book [[local:zz.texts/chalmers1996-consciousMind.pdf|_The Conscious Mind_]] (1996)
+philosophers have generally used the term <q>qualia</q> to denote the supposed
+non-causal qualities of conscious experience, rather than the causally effective
+phenomena with which Dennett is concerned.
+
+Some of the considerations Dennett raises do undercut key, if naive, reasons for
+believing Cartesian theatre theories of perception (which are, after all, pretty
+naive theories). Furthermore, those considerations do go some way towards
+explaining why people might mistakenly believe such theories to be true.
+However, the truth of Cartesian theatre theories of perception is only
+tangentially related to the existence of _qualia_.
+
+== a bad reason for believing in phenomenal objects ==
+Dennett begins by pointing out that a bad argument for (*A*) (and, more
+broadly, for Cartesian theatre theories of perception) is indeed very bad. The
+argument he points out is very bad; well known enough to feature in the Stanford
+Encyclopedia entry [[https://plato.stanford.edu/archives/fall2021/entries/perception-problem#ArgIll|_The Problem of Perception_]]((Though the citations of the argument's chief proponents date from 1923, 1932 and 1952, and it is unclear if the argument has many recent proponents)); and may also go some way
+towards explaining why people believe in phenomenal objects despite there not
+being any. So Dennett may well be performing a useful service by pointing out
+just how bad it is. But the argument in question is _not_ a very bad argument
+_for the existence of qualia_.
+
+Paraphrasing from the Stanford Encyclopedia [[https://plato.stanford.edu/archives/fall2021/entries/perception-problem|entry]], the very bad argument goes
+roughly as follows:
+  | P1: When someone perceives something to have a sensible quality, there is something with that quality that they directly perceive.               |
+  | P2: In an illusion, someone perceives something to have a sensible quality, which the ordinary object supposedly being perceived does not have.  |
+  | P3: Perceivers are directly aware of the same types of object when their perceptions are veridical as when they are illusory.                    |
+  | Conclusion: What perceivers directly perceive are phenomenal (or at least non-physical) objects with the sensible properties that they perceive. |
+Dennett's chief criticism is that (*P1*) is false. He doesn't argue that (*P1*)
+is false, so much as point out that Sir Walter Raleigh believed there was a
+golden city in South America without there being a golden city in South America,
+that one can believe red things to be nearby without there being any nearby red
+things; and then suggest that one can perceive red objects without there being
+any perceived red objects. 
+
+The most technical explanation of why (*P1*) is mistakenly thought to be true
+(dimly lurking in the background of Dennett's considerations of Sir Walter
+Raleigh's attitudes towards El Dorado) is that people mistakenly take the
+relationships of [believing that], [seeming to] and [perceiving] to be
+[[extensional]]. For example, people are prone to take the sentence <q>Mary seems red
+to Jane.</q> as something that might be correctly translated into first order
+logic as:
+| seems_to(Jane, Mary, red) |
+A formula in which, in particular, the second place is accessible to
+existential generalisation. Thus they take the inference from that sentence to the
+sentence <q>There is something that seems red to Jane</q> (which might be translated
+into first order logic as):
+| ∃x seems_to(Jane, x, red) |
+to be valid.
+
+Of course, people don't, in general, have _any_ opinions about how to translate
+statements of ordinary English into first order logic; and claiming that the
+verbs <q>believe</q>, <q>seem</q> and <q>perceive</q> give rise to non-[[extensional|extensional]] contexts
+doesn't explain _why_ existential generalisation (and the interchange of
+co-extensive terms) within those contexts doesn't always preserve truth.  Still,
+a hint of an explanation as to why people might falsely believe (*P1*) and its
+ilk remains.  Those patterns of inference do preserve truth when applied to
+many verbs such as <q>touch</q>, <q>have</q>, <q>give</q> etc., and people
+mistakenly generalise from those cases to form the belief that those patterns of
+inference also preserve truth in the case of verbs such as <q>perceive</q>.
+
+I don't know if anyone actually does believe in _qualia_ because they take
+<q>perceives</q> to be extensional and hence believe that when someone perceives
+pink elephants there must be perceived pink elephants, but if they do it seems
+to me they oughtn't. I take it that qualia theorists claim that there is more to
+life/the world than is described in our scientific theories. Qualia are supposed
+to be a reason for rejecting naturalism. The hard problem of consciousness is
+supposed to be that one can have any range of natural/causal properties and
+still not experience anything (i.e. be a [[philosophical_zombies|philosophical zombie]]). Qualia
+theorists claim that this lack is a lack of qualia. On their view we are
+philosophical zombies plus qualia. But, despite the plural (-ia) this does not
+require the aspects of consciousness that are missing from our scientific
+theories to be phenomenal objects.
+
+The claim that there is something it feels like to see pink elephants does not
+imply that seeing pink elephants involves the presentation to consciousness of
+phenomenal pink elephants.  This is perhaps exemplified in the greatest
+technical detail in Carnap's [[local:zz.texts/carnap1926-derAufbauDerWelt.pdf|_Aufbau_]]. The fundamental experiences denoted
+by the basic terms from which Carnap proposed to logically construct talk of all
+other objects, were irreducibly gestalt total experiences.  They stood to each
+other in relations of part-identity and part-similarity but were not themselves
+composed of phenomenal entities (or indeed of anything). In Carnap's system,
+coloured sections of the visual field, for instance, are treated as classes of
+gestalt experiences (those which we may afterwards identify as being coloured
+alike in that section). Carnap intended this to eliminate, in the final
+analysis, phenomenal objects other than the gestalt experiences altogether. For
+he claimed that <q>The "class" is not, properly speaking, an object. Its symbol
+merely serves to make those assertions which hold equally for all its
+elements</q>(([[local:zz.texts/carnap1926-derAufbauDerWelt.pdf]])). We may be unconvinced that ontological commitments to classes can
+be so trivially dispensed with. We may also remain unsure if the postulation of
+some kind of experiential/phenomenological entities is indispensable to our talk
+of psychological states. But although Carnap's system postulates the existence
+of phenomenal objects in the form of gestalt experiences (and perhaps classes of
+them) it does not postulate the existence of phenomenological pink elephants
+whenever pink elephants are seen. Despite this, a Carnapian proponent of qualia
+might still insist that there is <q>a way it feels</q> to have certain
+experiences. Something additional to the various causal roles such experiences
+may fulfill, and hence indetectable by third person scientific investigation.
+
+More broadly, a qualia theorist may insist that there is more to consciousness
+than is described in our scientific theories without claiming that there are
+phenomenal objects. They might instead, for example, hold that
+experiences are states of consciousness, properties of such states, or processes
+involving them. So long as they maintain that these are states of
+consciousness, and there is something it feels like to be in those states
+(a feeling lacked by [[philosophical_zombies]] and omitted from our scientific
+theories) they are, at least by my lenient standards, qualia theorists.
+
+Dennett is completely correct that people can see red things without there being
+any red things they see (but not without there being representations of red
+things); and believe in the existence of golden cities without believed in
+golden cities existing (but not without representations of golden cities
+existing).  However, to infer from this that there are no qualia, is rather like
+inferring that no-one can do anything for the sake of love from the (perfectly
+true) claim that there are no such things as sakes.
+
+== qualia as natural properties of phenomenal objects ==
+The second explanation Dennett offers for peoples' erroneous belief in (*A*) is
+that they confuse properties of the intentional objects of their beliefs
+with properties of the proximal causes of those beliefs:
+    It sure seems that when one hallucinates a red apple, this must
+    involve the real existence (in some “dimension” or “arena” that might not be
+    physical) of something that is (in some perhaps special, subjective sense)
+    red and round, an object created in the mind by whatever it is that creates
+    hallucinations. It is that object, that phenomenon that one is talking about
+    when one talks about the contents of one’s conscious experience. I am
+    insisting that this is a mistake, not the indubitable deliverance of
+    introspection and reflection. What you are doing when you make this mistake
+    is confusing the intentional object of your belief with the proximal cause
+    of your belief.<br>
+    (fp. 2.b)
+i.e. People believe (*A*) because they confuse the properties that neural firing
+patterns/mechanisms/dispositions _represent_ external objects as possessing,
+with the properties of the proximal (more or less neural) _causes_ of beliefs
+that those representations are true:
+    An example: I invite you to imagine a bright blue capital “A”
+    against a black background, and you comply. I tell you that the “A” you then
+    tell me about—it’s in a serif font, and the blue is October-sky blue, not
+    baby blue—is actually no more blue than its representation in this Word file
+    is blue.<br>
+    (fp. 4.a) 
+Like the representation in the Word file, the <q>internal neural representation
+of the capital A</q> _represents_ something blue but is not itself blue, nor was
+the proximal cause of its existence something blue. (Dennett equivocates as to
+whether it is the properties of neural representations or of their causes that
+people are confused about.)
+
+=== qualia are not natural properties ===
+It is odd that Dennett accuses those who believe in qualia of confusing the
+properties of the objects presented to consciousness with the properties those
+presentations represent external objects as possessing. Belief in qualia is, at
+least in part, a belief that something is going on in consciousness (whether it
+involves properties, objects, processes or whatever) that is utterly unlike the
+properties of unconscious physical objects.
+
+Even believers in both qualia and Cartesian theatre models of perception need
+not make the confusion that Dennett attributes to them. This point may be made
+more vivid by speaking in the voice of such a believer for the next two
+paragraphs:
+
+*Cartesian Theatre Theorist*: Of course the sensation of red in your mind, does
+not realise the same color property possessed by British postboxes and Chinese
+new-year lanterns.  The color possessed by postboxes and lanterns is a matter of
+light reflectance/emission, their tendency to _cause_ certain types of
+sensations/phenomena.  (What Dennett quite reasonably calls an affordance.) Our
+minds/brains/sensory nerves do a lot of computation that we are unaware of to
+represent the reflectance of such objects as unvarying under different
+illumination and occasionally this complex calculation goes wrong (or at least
+diverges wildly from individual; to individual - see
+[[https://en.wikipedia.org/w/index.php?title=The_dress&oldid=1231366313|gold/blue dress]]); but to the extent that it produces fairly consistent results
+over a range of illumination and other background conditions, we can call
+external objects red. (And if we feel the need, designate the conditions under
+which red things cause red sensations as <q>normal conditions</q>.)
+
+Strictly speaking, Dennett is correct, it is an error to call both phenomenal
+objects and the external objects that cause (and are represented by) those
+phenomena <q>red</q>.  But it is a harmless matter, akin to what Quine calls
+<q>deferred ostention</q>(([[local://zz.texts/quine1969-ontologicalRelativityAOE.pdf|Ontological Relativity]])).  It is the sense in which the controller of a train
+network might call a certain type of train green because trains of that type
+reliably _cause_ (and are represented by) green lights on her indicator board.
+(One controller might say to another <q>There's a green train northbound on the
+H line</q>  and be perfectly understood.) The green light on the indicator board
+does not possess the property of the trains that reliably _cause_ green lights
+to light up on the indicator board (that might might be, for instance, drawing a
+certain amperage, or having a weight within a certain range); and the train it
+represents, we may suppose, is not itself green. So too red sensations do not
+possess the electro/physico/chemical properties possessed by red apples which
+more or less reliably _cause_ (miscalled) red sensations when viewed under more
+or less normal conditions.<br>
+*End Cartesian Theatre Theorist*
+
+It is impossible to guarantee that no-one has ever adopted a Cartesian theatre
+account of perception because they confused the properties of external objects
+with the properties of the mental entities that represent them. But belief in
+such theories does not require such confusion, and clarification of this
+confusion does not require such theories to be abandoned.  According to
+Cartesian theater accounts of perception, the properties of phenomenal objects
+and the properties of external objects are linked by representational and causal
+relationships, but they need not be _identical_.
+
+It is true that according to the even older *Aristotelian* accounts of perception,
+the properties of our sensations were supposed to be identical with the
+properties of external objects that they represented
+(see [[wn.rLN:collapse_of_traditional_European_accounts_of_reasoning#second problem: the content of scientific theories]]).
+But this was no careless confusion between the proximal and distal causes of
+belief. It was a key part part of the Aristotelian explanation of our knowledge
+of necessary truths. According to Aristotelian epistemology it is _because_ our
+sensations impress the properties of external objects into our minds as concepts
+that we are able to discern the modal relationships between those properties.
+
+Although the ancient Aristotelian view had a lingering influence on the
+proponents of Cartesian theatre accounts of perception (particularly on their
+accounts of our knowledge of modal truths) there was a key difference.
+Proponents of Cartesian theatre accounts of perception distinguished between
+*primary* and *secondary* properties. *Primary* properties were possessed by
+both external objects and their phenomenal representations((if they had any)),
+while secondary properties were merely phenomenal. As Galileo put it at the
+very beginning of the development of Cartesian theories of perception:
+    from the point of view of the subject in which they seem to inhere, these
+    tastes, odors, colors, etc., are nothing but empty names; rather they inhere
+    only in the sensitive body, such that if one removes the animal, then all
+    these qualities are taken away and annihilated.<br>
+    ([[https://en.wikipedia.org/wiki/The_Assayer|_The Assayer_]], 1623)
+Secondary properties represented hodgepodge constellations of
+external properties that were only bound together by their common disposition to
+_cause_ phenomena possessing a particular secondary property when observed by
+humans and other animals (under <q>normal</q> circumstances). The distinction between
+primary and secondary properties was the key difference between Aristotelian and
+Cartesian accounts of perception, and marked the first attempt at modifying
+Aristotelian accounts of perception to fit with modern scientific
+discoveries concerning the physiology of perception (see [[wn.rLN:collapse_of_traditional_European_accounts_of_reasoning#new understanding of the physiological processes of perception]]).
+
+In any case, if believers in Cartesian theatres _need not_ make the confusion
+Dennett accuses them of (i.e. need not confuse phenomenal properties with the
+external properties they represent/are caused by) believers in qualia _cannot_
+make this confusion, or at least not without contradicting themselves. Unlike
+Cartesian phenomena, qualia cannot be causes. Qualia are, supposedly, causally
+inert. Their presence cannot be detected by their causal effects, and as a
+result they are omitted from the scientific image of the world. By contrast, the
+properties we perceive external objects to possess such as size, shape, colour
+etc., are causally efficacious elements of the scientific image of the world
+(otherwise we could not perceive them). It is essential for qualia theories to
+distinguish between the two.  Hence Dennett's explanation of belief in
+_qualia_ as due to a confusion between the qualities of the proximal causes of
+belief (neurological mechanisms according to Dennett, phenomena according to
+proponents of Cartesian theatres) and the distal causes those beliefs are about,
+is simply misplaced.  The confusion not only fails to explain peoples' belief in
+qualia, it is outright inconsistent with such belief.
+
+== belief in phenomena can do the heavy (causal) lifting ==
+Dennett appears to offer a third and final explanation for peoples' false belief
+in phenomenal objects:
+    Qualia are the intentional objects of many of the reflective or
+    introspective beliefs that one may have about one’s own mental states. What
+    could be more obvious? In that tone of voice, talking about intentional
+    objects, it is clear that people do think about, talk about, wonder about,
+    delight in, ... their qualia. It is just as undeniable a fact as the fact
+    that Sir Walter Raleigh was searching for El Dorado. What is not obvious is
+    that qualia are real, that qualia exist.
+    (fp. 3.b)
+[: The <q>tone of voice</q> involved is that in which one speaks of non-existent
+intentional objects as real. The tone of voice in which, for instance, atheists
+write books titled <q>A History of God</q>, and deniers of qualia write papers
+titled <q>A History of Qualia</q>. :]
+
+Superficially this may be taken for an explanation of people's belief in qualia
+that combines elements from Dennett's previous explanations. At first glance it
+appears to be like those previous explanations in attributing people's false
+beliefs in the existence of qualia to confusion between objects (in this case
+qualia) and their representations.  But a moment's reflection reveals that it is
+not an explanation of people's false belief in qualia at all. _Any_ false belief
+that an object exists will have that object as its non-existent intentional
+object, regardless of _why_ that belief is held. Dennett's claim that qualia are
+the non-existent intentional objects of people's beliefs about their own mental
+states is simply a fancy way of saying that people falsely believe they have
+qualia, and _not_ an explanation of why they have that false belief.
+
+Still, there is a kind of explanation on offer here, just not of peoples'
+belief in qualia. Dennett has slipped unannounced from explaining why people
+falsely believe in qualia, to explaining peoples' _behaviour_ without
+postulating the existence of qualia. Dennett is offering to explain how it is
+that people talk about, pursue etc., qualia _without there being any qualia_.
+The explanation is that people _believe_ they have qualia and these beliefs
+cause them to talk of, pursue, delight in etc., qualia in the same way that
+Raleigh sought after El Dorado:
+    They [qualia realists] are like the (one presumes imaginary)
+    critics of Sir Walter Raleigh who could manage to marvel at how Raleigh
+    could ever be driven to such lengths by something—El Dorado—that didn’t even
+    exist<br>
+    (fp. 6.b)
+The point being that El Dorado doesn't need to exist in order to explain
+Raleigh's incredible efforts to find it, Raleigh's behaviour can be explained
+(in part) by his mere _belief_ in El Dorado. So too, Dennett suggests, we don't
+need qualia but only the belief in qualia to explain peoples' behaviour.
+
+According to Dennett the causal role supposedly played by qualia is, in fact,
+played by our beliefs and our neural representations of both external objects
+other mental states.  It is not the glorious blue of the qualia created by my
+contemplation of the guard's cloak in the painting that causes me to focus my
+attention on that part of the painting, instead it is the <q>triggers that
+initiate positive affective responses, dispositions to wax poetical</q> etc.,
+that my neural representation of the blue cloak <q>comes equipped with</q>.
+And it is my (false) belief that I have qualia that causes me to (mistakenly)
+ascribe my continued attention to that part of the painting to the glorious
+qualia I mistakenly believe I am experiencing.
+
+As in the other explanations Dennett offers in this paper, the chief problem
+arises from his use of the term <q>qualia</q> to denote causally efficacious
+phenomena rather than causally inefficacious qualia. Since this is the key
+confusion that underlies this paper it we shall treat it directly and explicitly
+in the conclusion.
+
+== conclusion ==
+The criticisms raised in this commentary all hinge upon Dennett's use of the
+term <q>qualia</q> to denote causally efficacious phenomena rather than causally
+inefficacious qualia. At first glance, this may seem to be a merely
+terminological issue, a case of disputants simply talking
+past each another because they attach different meanings to the same
+term((Meaning free paraphrase: Taking a dispute to be substantive when it can be resolved by non-homophonic translation)).
+
+<q>Qualia</q> is a term of art, unanchored by common usage, and hence
+particularly susceptible to being used in different senses by different
+philosophers.  Dennett is likely not alone in using <q>qualia</q> the way he
+does (he certainly describes Nicholas Humphrey, the main target of his
+criticisms, as using the term in the same sense) but even if he were alone, why
+would it matter? If one insists upon restricting the term <q>qualia</q> to apply
+only to causally inert qualities of conscious experience, while Dennett uses the
+term <q>qualia</q> to denote the causally efficacious mental entities that
+others denote by the term <q>phenomena</q> why not simply abandon homophonic
+translation and render his claims into one's preferred dialect by substituting
+the term <q>phenomena</q> for <q>qualia</q>?  (Rendering, for instance, the
+title of his paper as _A History of Phenomena_.)
+
+The key obstacle to such a tolerant approach, is that Dennett presents himself
+as engaging with the hard problem of consciousness:
+    If they [qualia] are not real, they pose no more challenge to
+    Modern Science than Raleigh’s El Dorado. The Hard Problem (Chalmers 1995,
+    &zwj;1996) would turn out to be no problem at all, or rather, it would
+    disintegrate (as I have long urged) into a host of “easy” problems about how
+    people could be seduced into thinking that their qualia were real, ...<br>
+    (fp. 3.b)
+	
+=== a little history of qualia and the hard problem of consciousness ===
+Another, comparatively minor, though related way in which the title of Dennett's
+paper is misleading, is that it contains very little about the history of
+qualia, why the term was invented and why their existence became a hot topic in
+late 20th century philosophy.
+
+Qualia and philosophical zombies both came to the attention of late 20th century
+philosophers because they appeared to present a problem for a promising approach
+to developing a naturalistic account of mental states. The most influential
+proponents of such accounts included David Armstrong((_A Materialist Theory of the Mind)), Fodor((psychosemantics????, one of his papers on identification)) and David Lewis.
+The most sophisticated and technically precise sketches of how such an
+account might be developed were presented in Lewis's justly famous papers
+_How to define theoretical terms_ (1970) and [[local:zz.texts/lewis1972-psychophysicalAndTheoreticalIdentifications.pdf|_Psychophysical and Theoretical Identifications_]]
+(1972).
+
+According to the increasingly sophisticated versions of such accounts, mental
+states(/objects/processes) could be identified by their *causal role* in
+creatures' mental lives. (In the more behaviouristic versions of
+these theories this was taken to be the causal role they played in mediating
+between creatures publicly observable stimuli and publicly observable behaviour.)
+This would allow the construction of what was, at least in effect, a definite
+description true of just the entity playing that role in a particular creature's
+life. A definite description which further empirical investigation might reveal
+to be a physical (or at least natural) structure in that creature's brain/body.
+The argument, as David Lewis succinctly put it, went as follows:
+    Mental state M = the occupant of causal role R (by definition of M).<br>
+    Neural state N = the occupant of causal role R (by the physiological theory).<br>
+    ∴ Mental state M = neural state N (by transitivity of =).<br>
+    ([[local:zz.texts/lewis1972-psychophysicalAndTheoreticalIdentifications.pdf|_Psychophysical and Theoretical Identifications_]])
+
+Qualia were invoked as counter-examples to such analyses of mental state
+attributions. According to their proponents, qualia couldn't be identified with
+physical structures having particular causal roles because they *had no causal
+roles at all*. A qualia was an aspect or quality of conscious experience that
+philosophical zombies lacked *even though they had physical structures* *playing
+all the appropriate causal roles* (whatever they might turn out to be).  If
+there were qualia, and philosophical zombies were possible, i.e. If:
+    it is at least logically possible for there to be an organism
+    indistinguishable from a normal human being in all anatomical, behavioural
+    and other observable respects, yet insentient.<br>
+    (Robert Kirk, [[local:zz.texts/kirk1974-sentienceAndBehaviour.pdf|_Sentience and Behaviour_]] , 1974)
+
+    ... then certain widely held views about the analysis of reports of
+    experience must be abandoned, and it is hard to see how Materialism can
+    survive. But if it can be shown to be invalid, then it seems that
+    Materialism is almost home and dry.<br>
+    ([[local:zz.texts/kirk1974-sentienceAndBehaviour.pdf|_ibid._]])
+
+A belief, desire or thought may be <q>by definition</q> a state, property or
+process playing a certain causal role in the etiology of someone's behaviour and
+therefore identified with whichever neuro/physiological structure plays
+the role.  However, the proponents of qualia claimed that there were 
+<b>qual</b>ities of conscious experience that could not be identified by their
+causal role because it was conceivable (and hence possible) for there to be
+creatures whose innards played all those causal roles, but who yet lacked those
+<b>qual</b>ities of conscious experience. 
+
+Thus Dennett's claim that <q>The philosophers’ concept of qualia is an artifact
+of bad theorizing, and in particular, of failing to appreciate the distinction
+between the intentional object of a belief (for instance) and the cause(s) of
+that belief.</q>((fp. 1.Abstract)) is simply mistaken. Of course, _some_ philosophers may have
+used the term <q>qualia</q> to express the concept Dennett describes, but that
+is _not_ the sense in which qualia came to be widely discussed in the
+philosophical community towards the end of the 20th century.
+
+=== Dennett's rejection of qualia ===
+Dennett's mistaken belief that the hard problem of consciousness will
+<q>disintegrate</q> into a cluster of easy problems concerning the causes of
+people's beliefs, is the result of his confusion between causally efficacious
+phenomena (featuring in Cartesian theatre accounts of perception) and causally
+inefficacious qualia (which are conspicuous by their absence in
+[[philosophical_zombies]]).
+
+Much as La Place famously dismissed the existence of God on the grounds that he
+<q>had no need of that hypothesis</q>, Dennett dismisses qualia on the
+grounds that <q>there is no role for a substitute real object, an inner real
+object that “has all the same properties” to be among the more proximal causes
+of [a] mental state</q>. Our physiological understanding of
+the processes mediating between stimuli and behaviour is still at an early
+stage, but the results already established leave no scope for the causal
+influence of non-physical phenomena. While we have only the vaguest preliminary
+understanding of how our brains implement beliefs and desires, as far as we can
+tell thus far, every event we are able to detect in people's brains, every
+neuron firing, release of hormones or alteration in the strength of a synaptic
+connection, occurs as a result of purely physical causes.  If there were
+non-physical causal influences anything like those described in Cartesian and
+Aristotelian accounts of perception we would have seen their effects by now, but
+no variation from what we would expect of a purely physical system has yet been
+observed.
+
+Taken as applying to phenomena, Dennett's objection is good. The failure to
+observe their expected effects is a good (though defeasible) reason to deny the
+existence of causally efficacious entities such as God and phenomena. But it is
+not a reason to deny the existence of causally inefficacious entities such
+as qualia (and numbers). The theories in which such qualities of conscious
+experience are attributed to various organisms (or their sensations) do not
+predict that those qualities have any causal effects, and hence they are not
+infirmed by our failure to observe such effects. Applied to _qualia_ Dennett's 
+argument becomes: We are justified in believing there aren't any causally
+inefficacious aspects of consciousness because we haven't observed their
+causal effects.
+
+But if Dennett's argument is _not_ taken as applying to qualia then it
+simply fails to engage with the Hard problem of consciousness at all.
+What is supposed to make the hard problem of consciousness so hard, and is the
+point behind the postulation of qualia, is that the totality of someones
+behaviour *can* be causally explained <q>at every level that is useful</q>((fp. 3.b))
+without the attribution of conscious experiences (i.e. things that are or
+possess qualia) *and yet we have them*. The physical/neurological explanations
+of behaviour that Dennett hopes will be revealed by empirical investigation
+of our brains and bodies, apply just as well to [[philosophical_zombies]] as
+they do to us. Hence, they neither explain why we have qualia, nor
+give us reason to doubt that we do.
+
+As Chalmers pointed out in [[local:zz.texts/chalmers1996-consciousMind.pdf|_The Conscious Mind_]] (which Dennett cited):
+    consciousness is not an explanatory construct, postulated to help explain
+    behavior or events in the world. Rather, it is a brute explanandum, a
+    phenomenon in its own right that is in need of explanation. It therefore
+    does not matter if it turns out that consciousness is not required to do any
+    work in explaining other phenomena. Our evidence for consciousness never lay
+    with these other phenomena in the first place. Even if our judgments about
+    consciousness are explained reductively, all this shows is that our
+    judgments can be explained reductively. The mind-body problem is not that of
+    explaining our judgments about consciousness. If it were, it would be a
+    relatively trivial problem. Rather, the mind-body problem is that of
+    explaining consciousness itself. If the judgments can be explained without
+    explaining consciousness, then that is interesting and perhaps surprising,
+    but it does not remove the mind-body problem.<br>
+    ([[local:zz.texts/chalmers1996-consciousMind.pdf]])
+
+It is only by equivocating between the two senses of qualia((viz., causally inefficacious qualities of conscious experience and causally efficacious phenomena))
+that Dennett appears to be both providing good reason to doubt the
+existence of qualia *and* <q>disintegrating</q> the hard problem of
+consciousness into a <q>into a host of 'easy' problems about how people could be
+seduced into thinking that their qualia were real</q>. Here, at last, we have a
+clear case of a false belief that can be causally explained as due to a
+confusion between two types of objects. Dennett's mistaken belief that he is
+involved in <q>disintegrating</q> the hard problem of consciousness is caused,
+in part, by his confusion between qualia and phenomena. That, in turn, suggests
+a title for this response: <q>A History of a Solution to the Hard Problem of
+Consciousness</q>.
+<br><br>
+*The reply ends here. Below are cuttings and notes.*
+== cutting room floor ==
+The causal properties attributed to those
+sensations/hallucinations/beliefs/mental states are realised by various neural
+states.  Viewed as theoretical posits a la David Lewis, the question is whether
+those patterns of neural firing etc., are close enough to realising our ordinary
+theories of sensations to count as the referents of our terms. Are they, after
+all, the objects our claims and beliefs about qualia refer to? 
+
+Dennett, somewhat unhelpfully, says yes and no:
+==== yes ====
+In the <q>tendentious attitude ... of the Freudian critic</q> (who insists that
+a play's female protagonist is _really_ the author's mother) we may identify the
+neural pattern fulfilling those causal roles with qualia.
+
+
+In this sense the entities that my beliefs about my own sensations/mental states
+are about (their intentional objects as Dennett tends to put it)
+are patterns of neural firing - the occupants of certain causal roles. And -
+most importantly - one's beliefs about one's own sensations may be true!
+
+==== no ====
+In the other sense, the sense in which my sensation of blue is a particularly
+attractive(/hideous) shade of aqua-marine, it does not exist. The objects having
+these sensory qualities are _merely_ intentional.  <q>Sensations have qualia the
+way El Dorado was made of gold.</q> i.e. our belief sensations exist and possess
+the properties of being coloured, brassy etc., is false.
+
+In this sense all our beliefs about qualia and the role they play in directing
+our attention are false.
+
+Our mind falsely represents the causes of our beliefs as phenomenal green patches, round
+quale etc., when in fact they are patterns of neural firing (themselves caused
+in large part by the stimulation of sensory receptor nerves). Normally (or at
+least often) the identification of cause and intentional object, is successful,
+the red apple both causes and is the intentional object of your belief that
+there is an apple in front of you. In the case of beliefs about your own
+sensations (and the causes of your beliefs) the intentional object of your
+belief is a green/red/whatever patch and its cause is a pattern of neural firing
+that is not green/red/whatever.
+
+= notes on first reading =
+=== introduction ===
+We can talk about qualia without there being any qualia (indeed about the king
+of France too); and write a <q>History of Qualia</q> without there being any
+too. Strange to devote so many paragraphs to this point. An excuse for
+quasi-levity?
+
+We are however promised that abandoning qualia will present <q>an opportunity to
+make real progress on consciousness</q>
+
+=== 1 what are intensional objects (made of) ===
+Is this outlining the definite description for 'qualia' which turns out not to
+be true of anything?
+
+Lovely quote for naturalistic theories of belief formation/justification:
+    Normally, if I believe there is a red apple on the table in front of me, my
+    belief is caused by a red apple in front of me. The apple exists, and is
+    red, and is the indirect, distal cause of my belief. (It causes events in my
+    eyes and visual cortex which cause me eventually to go into the mental state
+    of believing that there is a red apple in front of me.)
+
+===== qualia objects that possess erroneously sensed properties =====
+Here we get serious:
+    It sure seems that when one hallucinates a red apple, this must involve the
+    real existence (in some “dimension” or “arena” that might not be physical)
+    of something that is (in some perhaps special, subjective sense) red and
+    round, an object created in the mind by whatever it is that creates
+    hallucinations. It is that object, that phenomenon that one is talking about
+    when one talks about the contents of one’s conscious experience. I am
+    insisting that this is a mistake, not the indubitable deliverance of
+    introspection and reflection. What you are doing when you make this mistake
+    is confusing the intentional object of your belief with the proximal cause
+    of your belief. You are <q>authoritative</q> about the intentional object of your
+    belief in the same way a novelist is authoritative about the characters in
+    her novel, but you have precious little access to, or knowledge about, the
+    proximal cause[s] of those beliefs.
+
+Is denying qualia simply to deny that <q>necessarily</q>/<q>always</q>/whenever
+I see(/hallucinate) a red apple there is something red that I am seeing?
+That is an unhelpfully legalistic interpretation of the claim that there are
+qualia. 
+
+Consider Nagel's <q>there is something it is like to be that organism</q>. Yes
+this does put its existential quantifier up front:
+    (∃_q_) _q_ is what it is like to be that organism
+But that is, as one used to be blithely say, only its _superficial_ logical
+form, which is not not guaranteed to be its deep logical form.
+
+It seems that here Dennett has focused on the technical/logical component of the
+postulation of qualia - that qualia are objects.  But the claim that qualia are
+objects is the least significant element of the claim that there are qualia.
+
+[:The remainder of this section is largely quoted in the summary above.:]
+
+The qualia theorist claims that there is more to life/the world than is
+described in our scientific theories. Qualia are supposed to be a reason for
+rejecting naturalism. The hard problem of consciousness is supposed to be that
+one can have all those natural physical properties and still not experience
+anything (be a philosophical zombie). The qualia theorist claims that this lack
+is, at least in part (but usually solely) a lack of qualia, we are philosophical
+zombies plus qualia. But, despite the plural (-ia) this does not mean that the
+qualia theorist is committed to there being *things* that are not denoted in our
+scientific theories.
+
+Qualia may be properties or states. The property of perceiving red, states of
+whole minds/brains, or of some component or other (a genuine object) in our
+minds. Unnatural properties, in the sense that ascriptions of them don't occur
+in our scientific theories (or at least not those other than psychology) but
+properties (rather than things) all the same.
+
+If your only reason for believing in qualia was that you thought that whenever
+people see red, there must be red things that they see, then Dennett's
+observations would indeed be devastating. Dennett is right that one can see pink
+elephants without there being pink elephants to see (not even mental ones).
+
+But that seems to be a very uncommon (and obviously implausible) reason for
+believing in qualia.  A qualia theorist may be perfectly happy if they can show
+that there are things (conscious minds) that have the property of experiencing
+qualia, without qualia being things.
+
+It is as if someone concluded that no-one could do anything for the sake of
+love(/whatever) because there are no such things as sakes.
+
+===== equivocation between cause and justification =====
+    If asked why I say there is a red apple in front of me, I can reply,
+    sincerely, that I see it with my own eyes, right now. That is a claim about
+    causation. If I am right, then there is in front of me a physical object
+    with such-and-such<br>
+    (fp. 2)
+see [[belief-cause_vs_justification]]
+
+Interesting to note the ambiguity between a cause why - what is the etiology of
+your assertion (at 10 a.m. 11-12-2025) <q>There is a red apple in front of
+me</q>; and a reason why - what is the reason/justification for your belief.
+These can come apart (pace Fodor, why is wheaties the breakfast of champions?
+Because springy bits in the wheaties cause people to become champions, when they
+eat them. (Causal) Because 67% of champions eat wheaties hence it is the
+breakfast most champions eat. (Cite other claims from which C may be inferred
+but which do not cause C)
+
+Rationalists and other anti-naturalists may wish to dwell upon this
+equivocation, but it is not clear that anything in the current argument hinges
+on it.
+
+
+=== 2 Where are the qualia ===
+This is the New Yorker cover Dennett mentions: https://www.newyorker.com/magazine/1969/10/18
+    (fp. 3-4) Here is where the footing gets slippery. In order for these
+    internal behaviors, these things happening in the brain, to occupy this
+    status of accessibility, they must be the reliable causes, shapers,
+    modulators of the beliefs he expresses when he tells us what it’s like to be
+    him at this time.  But these internal things are not to be identified with
+    the intentional objects of those beliefs since the intentional objects of
+    those beliefs may be fictions, as unreal as Santa Claus (who is not the
+    cause of anybody’s beliefs about Santa Claus, by virtue of having the
+    debilitating property of non-existence)
+Does the tacit argument for the <q>reliable causes</q> claim go: in order to be
+accessible we (each person) must have knowledge of them, in order to have
+knowledge of them they have to be reliable causes of those beliefs. i.e. Dennett
+is here relying on the externalist reliable cause account of
+justification/knowledge? Does rejecting reliablism change the plausibility of
+his claim? I suspect not, but hmm, ????
+
+So Dennett's claim is that the accessible things happening inside someones mind
+are neural states of their brain (note neural states are not thing but ways
+things [i.e. neural networks] can be) and it is they that cause the various
+beliefs I am now seeing a red apple, I am thinking of a blue letter <q>A</q> and
+so on. These neural states are *not* the intensional objects of those beliefs
+
+Consider my claim: <q>I am seeing a red apple that is wider than it is tall</q>. It
+seems that this may be true - indeed that my opinion about the matter is
+<q>authoritative</q> (as Dennett puts it). Now the cause of my belief is not
+something wider than it is tall, it is presumably some neural state about whose
+dimensions I may not have any beliefs. So what is the object I believe to be
+wider than it is tall?
+
+Is my belief that I am seeing an apple that is wider then tall false if I am
+hallucinating the apple? That there is no apple (pace no Santa) and hence all my
+beliefs about it are false? But what of the belief that I am seeing an apple.
+That is true but its truth requires no apple, mental(/quale) or physical.
+
+The _intentional object_ of my belief is an apple, but that, one supposes is no
+kind of apple at all. One might hallucinate apples and yet there be no apples of
+any kind in your world.
+
+In cases of error/hallucination the intensional object of my beliefs is not the
+cause of my beliefs. Santa is not the(/a) cause of my belief in Santa, there is
+no red apple that is causing my belief that I am seeing a red apple. My belief
+there is a red apple is caused by some neural state/
+
+It seems that what does the work here is the shift from intentional objects to
+mental/neural states. But this just reinforces the suggestion that what is
+giving rise to Dennett's issues is the postulation of mental objects and
+the claim that those mental objects actually possess the properties we
+perceive them as having - red hallucinated apples, cheery Santa Claus and so on.
+The issue is the postulation of these objects. See previous section.
+
+==== rereading ====
+It took a second time through to work out that the chief claim is that qualia
+are the intentional objects of beliefs about our own mental states.
+
+We believe that it is a <q>glorious, life-affirming, glowing, heart-breakingly
+lovely subjective patch of blue</q> that causes our <q>positive affective
+response</q> disposition to wax poetical and so on, when in fact it is a
+<q>impersonal boring pattern of neural firing</q> that comes equipped with
+triggers for initiating those affective responses and so on.
+
+Our beliefs are about the latter (pattern of neural firing). But we mistakenly
+believe that these things appear to us certain ways. <q>sensations have qualia
+the way that El Dorado was made of gold.</q>
+
+=== 3 Nicholas Humphrey's inventions ===
+From here on in it is useful to use the thought experiment/intuition pump/? of
+philosophical zombies. We need not take them as possible, but Dennett's next few
+attacks can be made vivid as properties/aspects that [[philosophical_zombies]] must
+still have if they exist at all. The qualia become so thin, consciousness so
+rarified, that it is increasingly implausible that there is anything left of
+them.
+
+===== consciousness an illusion =====
+Here we have a seemingly altogether different line of attack. Now the criticism
+is of the notion of consciousness which is rejected as <q>a user-illusion</q>.
+That seems problematic, since for there be an illusion there needs to be a clash
+between appearance and reality. A visual illusion may simply be a false belief
+engendered by visual stimuli, though that doesn't seem to capture normal usage -
+<q>For all the world it _looks like_ he's floating in mad-air</q>. But to have
+(visual) qualia is, I suppose for there be a way that things look to me. So in
+this sense a victim of an illusion requires qualia.
+
+I would like an account of how one has an illusion without qualia (or states of
+consciousness). Then the claim would not be self-defeating. Of course one can do
+this if qualia have causal roles. [[philosophical_zombies]] have the
+illusion that they are conscious in that they _believe falsely_ that they are
+conscious when they aren't. 
+
+We can make sense of the causal roles attributed to feels, seeings like, and
+other such illusory entities in terms of neural representations and processes
+sensitive to them:
+    This involves not transducing the informative events (the signals, if you
+    will) into a different medium, the imagined MEdium of consciousness, but
+    translating or transforming the signals into neural representations that are
+    well-suited to permit representation-users to extract what they need.
+
+So consciousness is not required in order to explain the belief that we are
+conscious, nor the belief that we are responding to the way things feel to us.
+Philosophical zombies have these beliefs too. They really are subject to the
+illusion so why can't we be?
+
+Illusion as deceptive *appearance* vs illusion as sensorily produced false
+belief. There is an ambiguity here. Consciousness can be an illusion in the
+latter sense but not the former. (There may not be a way things appear to
+[[philosophical_zombies]], but they have plenty of false beliefs about the way
+things appear to them.)
+
+===== emotional affect =====
+Lovely quote:
+    (fp. 4) I share Humphrey’s admiration for the brain’s inveterate valancing
+    of well nigh all its inputs, approving some stimulus arrays with an A+ or
+    B−, while branding others as D− at best, and flunking still others. Indeed
+    it was Humphrey who first opened my eyes to this perspective. When we see
+    the brain as never indifferent about what is going on in it, we begin to get
+    a sense of how control of mental life actually happens: by competition and
+    coalition among valenced (“emotional”) neural activities. There is no boss
+    in the brain figuring out what to think about next. There is sometimes a
+    virtual boss, suppressing some thoughts and working hard to concentrate on
+    others, but as we all know,
+
+This is supposed to be relevant because Dennet can grant all this (and talk
+about it) without granting the existence of qualia (or SoC). _We_ have supposed
+that there is <q>a division between pragmatic, businesslike cognition and
+ecstatic, emotion-laden affect</q> but there isn't one, and he can explain these
+emotional affects in terms of the <q>competition and coalition amng valenced
+("emotional") neural activities</q>. Emotional affects are _causes_ and
+_effects_ in good standing.  A functional account of these emotional/attentional
+affects e.g. <q>the visual system's _appetite for_ color discrimination</q>,
+<q>the auditory system's ...  insatiable _desire_ for aural patterns</q> can be
+given and hence they are not qualia. (and no qualia are required for the
+explanation of the causal affects of emotional
+
+On one hand, the fact that these emotional affects are not qualia only shows
+that if qualia exist then they must be something else. On the other hand it
+seems like Dennett has a more significant issue. In ordinary English
+conversations one's attention (among other things) is often explained as being
+due to the look/feel of things.  Their beautiful shade of glowing pink that
+keeps my attention on the clouds lit by a sunset, and it is precisely because of
+the <q>raw feel(/look)</q> of them that I find them so rewarding to look at.
+
+If there are raw feels then, at least according to the qualia theorist, they
+play no part in causing me to gaze so fixedly at the sunset.  The claim qualia
+can be <q>shaved off</q> from these causal roles may be simply implausible.
+[[philosophical_zombies]] have emotional affects (because emotional
+affects are causal properties/states/dispositions/?? in good order) but they
+have no qualia.
+
+===== not denying perceptual properties =====
+    (fp. 5) Note that I am not denying the existence of the perceptual
+    properties of things in the world: colors, sounds, aromas, textures,
+    liquidity and solidity and the like, any more than I am denying the
+    existence of dollars, pounds sterling or euros.  These are real things in
+    the world, as real as real can be, and they are not properties _of_ mental
+    events but properties _represented_ by mental events. And unlike many other
+    properties (roughly, what Boyle and Locke called the primary properties)
+    these “secondary” properties owe their very existence and identity to their
+    being represented by mental events.
+
+Again, this is something Dennett can make good on (like emotional affect,
+valencing of sensory perceptions, believing oneself to be conscious) without
+accepting qualia.
+
+Indeed so:
+    (fp. 6) Affordances are real properties, ubiquitously instantiated in the
+    world, and minds are good at detecting them. ... But because they are
+    identified or defined in terms of the proclivities of (normal) minds of one
+    species or another —usually us H. sapiens— they can be identified as
+    examples of the benign illusions of our evolved user-illusion.<br>
+    ...<br>
+    red things in the world depend for their redness on things that happen in
+    our heads, but not _red_ things that happen in our heads;
+
+Here Dennett is assuring us, with moderate if not perfect plausibility, that he
+can make sense of the notion of red (external objects) without relying upon the
+existence of red qualia (i.e. without saying red things are things that cause
+red qualia under <q>normal</q> circumstances).
+
+Hmm, instead of <q>seeing a red qualia</q>, I am in a mental state which represents
+something else as being red. Something that has a complex property that causes
+me to entertain/construct/manipulate such representations.
+
+=== projection ===
+The original question can be put in terms of the following thought experiment:
+Suppose you are in a well lit room with your eyes closed and an apple in front
+of you on table directly in your line of sight. At the moment you open your eyes
+and see the apple, does another red thing, presumably a red mental thing,
+spring into existence that did not exist a moment before?
+
+Dennett's answer is no - there is no red quale that pops into existence. The
+relevant neural state _represents_ something as being red, but is not red
+itself. (And that neural state is not a thing - nothing new pops into existence
+but the pre-existing neurons/atoms/whatever arrange themselves into a state
+where they represent something as being red.)
+
+But the qualia theorist might have a stronger view, not only does a red thing
+pop into existence the moment you see a red apple, but it may be the only red
+thing. The apple itself is not red - its surface has some compelx
+electro-chemical property and some disposition to reflect photons of different
+wavelengths, but it is not _red_.
+

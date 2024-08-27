@@ -1,13 +1,20 @@
-:note:
+:undisputed:logic: <br>
+:draft1:
+
 = extensional =
 ====== short ======
+The extension of a predicate is the class of objects of which it is true.
+The term <q>extension</q> is commonly used(/extended) to apply to names and
+relationships as well. 
+The extension of a name is the object it names/refers to.
+The extension of a relationship is the class of tuples of objects of which it is
+true.
+
 An occurrence of a term (that has an extension) is *extensional* iff every
 replacement of that term with another that has the same extension (i.e. is true
 of the same tuples of objects) produces a sentence whose truth value is the
 same as the original.
 
-[:caveat - this restricts to only terms with extensions. It seems
-straightforward to extend this to include truth functional connectives:]
 
 ====== related to ======
 [[lewis1986-pluralityOfWorlds]]
@@ -15,8 +22,25 @@ straightforward to extend this to include truth functional connectives:]
 [[shani2007-mythReductiveExtensionalism]]
 
 == extensionalism ==
-The doctrine that science/a complete description of the world/the language
-is which the ???? is purely extensional (i.e. in which all
-[possible=grammatically correct] occurrences of terms are extensional.
-That ordinary language as it stands is extensional.
+The disputed doctrine that
+   * the language required for science,
+   * a complete description of the world,
+   * the language is which the world may be completely described OR 
+   * ordinary language
+is purely extensional (i.e. all grammatically correct occurrences of terms are
+extensional).
 
+== connection to truth functional connectives ==
+The notion of extensional terms/contexts/sentences has a straightforward
+connection to truth functional connectives.
+
+In a extensional context the extension of a predicate(/relationship) and the
+object referred to by the term to which that predicate is applied determines
+the truth of the containing sentence(/sentential phrase).
+
+The truth of any truth functional combination is sentences is determined by the
+truth value of those sentences. (i.e. exchanging one sentential phrase with
+another with the same truth value will not change
+
+So any sentence formed by joining extensional sentences(/sentential phrases)
+with truth functional connectives will also be extensional.

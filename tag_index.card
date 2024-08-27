@@ -7,13 +7,62 @@
 
 %% :T <tagname>    # opens locationlist with matching tags
 %% :S <term>       # opens locationlist with matching terms
-%% !grep -ho ': \w* :' * | sort | uniq	# list all tags
+%% !grep -ho ':\w*:' * | sort | uniq	# list all tags
 
+=== idiosyncratic tags ===
+* bit - Informal. An amusement, a funny thing to say, a bit of business.
+  Sometimes a flight of fantasy, a stretched metaphor or an attempt to make a
+  point vividly.
+  e.g. [[tomb_of_the_mistaken_scientist]], [[theories_as_suits_of_armour]].
+* undisputed - an established fact, or definition worth remembering. A key
+  definition, example or oft mentioned bit of jargon for which it is good to
+  know the precise details or have a canonical account. An established result -
+  NOT controversial or the subject of (widespread) dispute.
+  e.g. <q>extensional</q>, <q>gettier counter-examples</q>.
+* thought - a passing thought to remember for later. Maybe sketchy, fragmentary
+  or merely suggestive.
+* topic - a broad issue. may be a hub linking to many other cards
+* thesis - a key claim in my overall view.
 
 = tag index =
-== article ==
-    - [[chisholm1987-truths_of_reason]]
+== RLN ==
+    - [[cant_learn_langauge_from_pure_truth]]
+
+== agree0 ==
+    - [[00#agree0]]
+    - [[duck-rabbit_illusion]]
     - [[moschovakis2017-senseDenotationAlgorithmValue]]
+
+== agree1 ==
+    - [[bealer2002-modalEpistemologyRationalistRenaissance]]
+    - [[dennett2017-historyOfQualia]]
+    - [[zagzebsky2003-sourceOfEpistemicGood]]
+
+== agree4 ==
+    - [[tulodziecki2021-howNotToThinkAboutTheoryChange]]
+
+== agree7 ==
+    - [[lewis1972-psychophysicalAndTheoreticalIdentifications]]
+
+== agree8 ==
+    - [[gettier_counterexamples]]
+
+== agreeX ==
+    - [[putnam1968-logicOfquantumMechanics]]
+
+== ancient ==
+    - [[aristotle-politics]]
+
+== aristotle ==
+    - [[aristotle-politics]]
+
+== article ==
+    - [[bealer2002-modalEpistemologyRationalistRenaissance]]
+    - [[chisholm1987-truths_of_reason]]
+    - [[dennett2017-historyOfQualia]]
+    - [[lewis1972-psychophysicalAndTheoreticalIdentifications]]
+    - [[moschovakis2017-senseDenotationAlgorithmValue]]
+    - [[putnam1968-logicOfquantumMechanics]]
     - [[rovelli2023-orientedCausation]]
     - [[shani2007-mythReductiveExtensionalism]]
     - [[tulodziecki2021-howNotToThinkAboutTheoryChange]]
@@ -22,77 +71,165 @@
     - [[zagzebsky2003-sourceOfEpistemicGood]]
 
 == awful ==
-    - [[moschovakis2017-senseDenotationAlgorithmValue]]
     - [[shani2007-mythReductiveExtensionalism]]
 
 == bit ==
     - [[the_academic_conclusion]]
+    - [[theories_as_suits_of_armour]]
     - [[tomb_of_the_mistaken_scientist]]
 
 == book ==
+    - [[aristotle-politics]]
     - [[kant-critiqueOfPureReason]]
     - [[kripke1980-namingAndNecessity]]
     - [[lewis1986-pluralityOfWorlds]]
     - [[tractatus]]
 
+== confirmation ==
+    - [[belief-cause_vs_justification]]
+
 == confirmation_holism ==
     - [[weir1985-againstHolism]]
 
-== disagree ==
-    - [[zagzebsky2003-sourceOfEpistemicGood]]
+== consciousness ==
+    - [[consciousness]]
+    - [[dennett2017-historyOfQualia]]
+    - [[duck-rabbit_illusion]]
+    - [[philosophical_zombies]]
 
 == discord ==
     - [[rovelli2023-orientedCausation]]
+
+== discord-reading-group ==
+    - [[aristotle-politics]]
+    - [[putnam1968-logicOfquantumMechanics]]
     - [[tulodziecki2021-howNotToThinkAboutTheoryChange]]
 
+== done0.3 ==
+    - [[bealer2002-modalEpistemologyRationalistRenaissance]]
+
 == draft0.0 ==
-    - [[00]]
+    - [[00#draft0.0]]
     - [[actually_learning_another_langauge]]
     - [[bias]]
+    - [[duck-rabbit_illusion]]
     - [[kripke1980-namingAndNecessity]]
+    - [[leibniz]]
     - [[scientific_method]]
     - [[second_law_of_thermodynamics]]
 
 == draft0.1 ==
+    - [[consciousness]]
     - [[kant-critiqueOfPureReason]]
+    - [[putnam1968-logicOfquantumMechanics]]
     - [[weir1985-againstHolism]]
     - [[whats_good_about_knowledge]]
     - [[wittgenstein]]
 
 == draft0.2 ==
     - [[direction_of_time]]
+    - [[epistemic_safety_and_sensitivity]]
+    - [[sensitivity_and_safety]]
     - [[the_academic_conclusion]]
 
 == draft0.3 ==
+    - [[philosophical_zombies]]
     - [[williamson2014-transformationAnalyticPhilosophy]]
 
 == draft0.4 ==
     - [[tomb_of_the_mistaken_scientist]]
 
+== draft1 ==
+    - [[dennett2017-historyOfQualia]]
+    - [[extensional]]
+    - [[lewis1972-psychophysicalAndTheoreticalIdentifications]]
+    - [[tulodziecki2021-howNotToThinkAboutTheoryChange]]
+
+== draft1.0 ==
+    - [[theories_as_suits_of_armour]]
+
+== empiricism ==
+    - [[belief-cause_vs_justification]]
+
+== exemplary-opposition ==
+    - [[bealer2002-modalEpistemologyRationalistRenaissance]]
+
+== false9 ==
+    - [[cant_learn_langauge_from_pure_truth]]
+
+== good-point ==
+    - [[philosophical_zombies]]
+
+== good3 ==
+    - [[cant_learn_langauge_from_pure_truth]]
+
 == history ==
+    - [[identity_of_indiscernables]]
+    - [[leibniz]]
     - [[tulodziecki2021-howNotToThinkAboutTheoryChange]]
     - [[williamson2014-transformationAnalyticPhilosophy]]
+
+== hub ==
+    - [[behaviourism]]
+
+== influence0 ==
+    - [[00#influence0]]
+
+== influence2 ==
+    - [[moschovakis2017-senseDenotationAlgorithmValue]]
+
+== influence3 ==
+    - [[dennett2017-historyOfQualia]]
+    - [[tulodziecki2021-howNotToThinkAboutTheoryChange]]
+
+== influence6 ==
+    - [[bealer2002-modalEpistemologyRationalistRenaissance]]
+
+== influence7 ==
+    - [[putnam1968-logicOfquantumMechanics]]
+
+== influence8 ==
+    - [[duck-rabbit_illusion]]
+    - [[lewis1972-psychophysicalAndTheoreticalIdentifications]]
+
+== influence9 ==
+    - [[gettier_counterexamples]]
 
 == influential ==
     - [[kripke1980-namingAndNecessity]]
     - [[zagzebsky2003-sourceOfEpistemicGood]]
 
+== issue ==
+    - [[belief-cause_vs_justification]]
+    - [[philosophical_zombies]]
+
 == knowledge ==
+    - [[epistemic_safety_and_sensitivity]]
+    - [[gettier_counterexamples]]
+    - [[sensitivity_and_safety]]
     - [[whats_good_about_knowledge]]
     - [[zagzebsky2003-sourceOfEpistemicGood]]
 
+== logic ==
+    - [[extensional]]
+    - [[leibniz]]
+
 == modality ==
+    - [[bealer2002-modalEpistemologyRationalistRenaissance]]
     - [[chisholm1987-truths_of_reason]]
     - [[kripke1980-namingAndNecessity]]
     - [[lewis1986-pluralityOfWorlds]]
     - [[tractatus#theses#modal isomorphism]]
     - [[williamson2014-transformationAnalyticPhilosophy]]
 
-== note ==
-    - [[extensional]]
-    - [[whats_good_about_knowledge]]
+== naturalism ==
+    - [[belief-cause_vs_justification]]
+
+== passing-thought ==
+    - [[cant_learn_langauge_from_pure_truth]]
 
 == person ==
+    - [[leibniz]]
     - [[wittgenstein]]
 
 == phil-science ==
@@ -102,24 +239,76 @@
     - [[direction_of_time]]
     - [[rovelli2023-orientedCausation]]
 
+== presentable ==
+    - [[dennett2017-historyOfQualia#presentable]]
+    - [[philosophical_zombies]]
+
 == puff-piece ==
     - [[rovelli2023-orientedCausation]]
+
+== quality0 ==
+    - [[00#quality0]]
+    - [[duck-rabbit_illusion]]
+    - [[moschovakis2017-senseDenotationAlgorithmValue]]
+
+== quality3 ==
+    - [[dennett2017-historyOfQualia]]
     - [[tulodziecki2021-howNotToThinkAboutTheoryChange]]
 
+== quality4 ==
+    - [[bealer2002-modalEpistemologyRationalistRenaissance]]
+
+== quality6 ==
+    - [[putnam1968-logicOfquantumMechanics]]
+
+== quality8 ==
+    - [[gettier_counterexamples]]
+
+== quality9 ==
+    - [[lewis1972-psychophysicalAndTheoreticalIdentifications]]
+
 == reasoning ==
+    - [[bealer2002-modalEpistemologyRationalistRenaissance]]
     - [[chisholm1987-truths_of_reason]]
+    - [[putnam1968-logicOfquantumMechanics]]
 
 == representation ==
+    - [[bealer2002-modalEpistemologyRationalistRenaissance]]
+    - [[belief-cause_vs_justification]]
+    - [[duck-rabbit_illusion]]
+    - [[lewis1972-psychophysicalAndTheoreticalIdentifications]]
     - [[moschovakis2017-senseDenotationAlgorithmValue]]
     - [[tractatus#theses#modal isomorphism]]
 
 == response ==
     - [[chisholm1987-truths_of_reason]]
 
+== rough ==
+    - [[putnam1968-logicOfquantumMechanics]]
+
 == semantic_holism ==
     - [[weir1985-againstHolism]]
+
+== thesis ==
+    - [[identity_of_indiscernables]]
 
 == todo ==
     - [[direction_of_time#direction of time#local time direction]]
     - [[kant-critiqueOfPureReason#cutting room floor#philosophers dogmatism]]
     - [[kant-critiqueOfPureReason#todo]]
+
+== topic ==
+    - [[behaviourism]]
+    - [[consciousness]]
+    - [[knowledge]]
+
+== undisputed ==
+    - [[epistemic_safety_and_sensitivity]]
+    - [[extensional]]
+    - [[gettier_counterexamples]]
+    - [[philosophical_zombies#philosophical zombies#history]]
+    - [[sensitivity_and_safety]]
+    - [[whats_good_about_knowledge]]
+
+== wittgenstein ==
+    - [[duck-rabbit_illusion]]
