@@ -168,8 +168,8 @@ div:has(h6) + p, div:has(h6) + blockquote {
     font-weight: 200;
 }
 
-div:has(h6) ~ p:not(div:has(h6) ~ div ~ p) {
-    margin-top: 0.3rem;
+div:has(h6) ~ p:not(div:has(h6) ~ div:has(h1, h2, h3, h4, h5) ~ p) {
+    margin-top: 0.2rem;
     font-size: 0.9rem;
     line-height: 1;
     font-weight: 200;

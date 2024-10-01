@@ -1,13 +1,17 @@
-:book:influential:modality:draft0.0:
+:book:modality: <br>
+:quality6:influence9:agree3:draft0.1:!7: <br>
+:key-opposition:
 = Naming and Necessity =
-[: [[local:zz.texts/kripke1980-namingAndNecessity.pdf]],
-https://n2t.net/ark:/13960/t40s0jk5g :]
+[: [[local:zz.texts/kripke1980-namingAndNecessity.pdf]], https://n2t.net/ark:/13960/t40s0jk5g :]
+
 ====== short ======
-Perhaps the most influential exponent of the new modal actualism.
+Perhaps the most influential exposition of the new modal actualism.
 
 ====== related to ======
-??lewis-counterfactuals??
+??lewis-counterfactuals??,
 [[identity_of_indiscernables]]
+
+[[local:zz.texts/loomis1999-necessityAPrioriStandardMeter.pdf]]
 
 == theses / foundations ==
 === the importance of identity ===
@@ -76,8 +80,6 @@ object.  Relation R is internal for objects of type T iff:
 In this manner we may recognise Being longer than, as an internal relationship
 for lengths, but not for tables.  But this won't seem to do
 
-
-
 === weirdness with non-rigid designators ===
 Lets focus on the last sentence:
     If 'a' and 'b' are not rigid designators, no such conclusion follows about
@@ -121,8 +123,6 @@ red car on my street'</q>
 This seems quite a high price to pay. For non rigid designators within the scope
 of necessity operators substitutivity fails.
 
-
-
 == lecture 1 ==
 === rigid designators ===
 
@@ -131,7 +131,7 @@ of necessity operators substitutivity fails.
 
 ====== NOTES
 Kripke's rationalism, may be (havent read all yet) surprisingly thin. i.e. it
-may appear that he does not rely uon truth makers other than language for his
+may appear that he does not rely upon truth makers other than language for his
 necessary truths. No Lewisian equally actual possible worlds. No Fine essences.
 Its just identity - but take 
 

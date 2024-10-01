@@ -10,19 +10,19 @@
 %% !grep -ho ':\w*:' * | sort | uniq	# list all tags
 
 === idiosyncratic tags ===
-* bit - Informal. An amusement, a funny thing to say, a bit of business.
+- *bit:* - Informal. An amusement, a funny thing to say, a bit of business.
   Sometimes a flight of fantasy, a stretched metaphor or an attempt to make a
   point vividly.
   e.g. [[tomb_of_the_mistaken_scientist]], [[theories_as_suits_of_armour]].
-* undisputed - an established fact, or definition worth remembering. A key
-  definition, example or oft mentioned bit of jargon for which it is good to
-  know the precise details or have a canonical account. An established result -
-  NOT controversial or the subject of (widespread) dispute.
-  e.g. <q>extensional</q>, <q>gettier counter-examples</q>.
-* thought - a passing thought to remember for later. Maybe sketchy, fragmentary
-  or merely suggestive.
-* topic - a broad issue. may be a hub linking to many other cards
-* thesis - a key claim in my overall view.
+- *undisputed:* an established fact, or definition worth remembering. A key
+  definition, example or known position oft used bit of jargon for which it is
+  good to know the precise details or have a canonical account. An established
+  *result* NOT controversial or the subject of (widespread) dispute.
+  e.g. [[extensional]], [[gettier_counterexamples]].
+- *idea:* a passing idea to remember for later. Maybe sketchy, fragmentary
+  or merely suggestive. May be developed into something more later.
+- *topic:* a broad issue. may be a hub linking to many other cards
+- *thesis:* a key claim in my overall view.
 
 = tag index =
 == RLN ==

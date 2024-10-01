@@ -1,4 +1,5 @@
-:article:representation:agree0:quality0:influence2:
+:article:representation: <br>
+:agree0:quality0:influence2:
 = sense and denotation as algorithm and value =
 [: [[local:zz.texts/moschovakis2017-senseDenotationAlgorithmValue.pdf]],
 https://doi.org/10.1017/9781316718254.015 :]
@@ -18,13 +19,13 @@ a renate.</q>) are judged to be synonymous.
 self-reference, connecting truth gaps with non-terminating algorithms. :]
 
 ====== related to ======
-??semantic_holism??, ??programs_are_theories??, [[extensional]]
+??programs_are_theories??, [[extensional]]
 
 = summary =
 A sloppy approach to logical notation, and a combination of over-confidence
 and a remarkably poor understanding of the philosophical issues concerning
-synonymy, have led the author to fail to see what the problem of identifying
-sentence meanings is and hence believe that they have solved it.
+synonymy, have led the author to fail to understand the problem of identifying
+sentence meanings and hence believe that they have solved it.
 
 The central claim (though it is unclear if the author realises this) is that if
 we view sentences as expressing (/having as meanings) algorithms for determining
@@ -65,7 +66,7 @@ with eminent satisfaction:
     intension than φ.
 A more humble mind might have been worried by the conclusion that <q>¬¬φ</q> and
 <q>φ</q> aren't synonymous, but the author is blessedly free from such doubts.
-It is usually thought that logically equivalent statements are synonymous, since
+It is usually thought that logically equivalent statements are synonymous since
 they have the same truth conditions.
 
 The suggested account of meanings amounts to a standard for dividing sentences
@@ -108,11 +109,11 @@ must be recursively decidable. This suggestion may have something to it.
 == key flaw ==
 Rather than identifying the meaning of a sentence with a set of possible worlds
 (in which that sentence is true((Better a 2-tuple of sets of possible worlds, those in which it is true and those in which it is false))&zwj;) identify it as an algorithm for
-determining whether that statement is true(/false) _that gives the right answer
-in every possible world_. (This issue turned out not to play as large a role as
-I first thought since the extensionalism means we only need the right extension for
-our predicates in this world and not in every possible world. It over-estimates
-the paper to bring up this issue.)
+determining whether that statement is true(/false)
+_that gives the right answer in every possible world_. (This issue turned out
+not to play as large a role as I first thought since the extensionalism means we
+only need the right extension for our predicates in this world and not in every
+possible world. It over-estimates the paper to bring up this issue.)
 
 That last caveat appears to be the key. Taken in a strong sense, does one
 need to get the right answer in possible worlds in which there are married

@@ -1,15 +1,16 @@
-:topic:
+:ahub:knowledge:
 = knowledge =
-====== short ======
 
-====== related to ======
-[[gettier_counterexamples]]
+== related to ==
+=== criteria/analyses of knowledge ===
+[[gettier_counterexamples]], [[epistemic_safety_and_sensitivity]]++,
+[[epistemic_internalism_vs_externalism]]+, [[whats_good_about_knowledge]], 
 
-= main =
-[[gettier_counterexamples]] seemed to demonstrate that 
+=== works ===
+[[zagzebsky2003-sourceOfEpistemicGood]]
 
-
-== safety ==
-
-
-== sensitivity ==
+== comment ==
+[[gettier_counterexamples]] seemed to demonstrate that Justified true belief is
+not a sufficient standard for knowledge. Much work has been spent looking for an
+adequate addition to make the standard sufficient. Good reason to suspect this
+cannot be done. :!2: suspect Stanford Encyc article on knowledge place to start
