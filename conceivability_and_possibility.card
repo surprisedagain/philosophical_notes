@@ -1,4 +1,4 @@
-:topic:modality:epistemology: <br>
+:hub:topic:modal-epistemology: <br>
 :draft0.1:
 = conceivability and possibility =
 
@@ -7,10 +7,17 @@ What guarantee do we have that whatever is conceivable is possible and whatever
 is conceivable is possible?
 
 ====== related to ======
-[[belief-cause_vs_justification]], --[[chisholm1987-truths_of_reason]],
+[[belief-cause_vs_justification]]
+
+++[[yablo1993-isConceivabilityAGuideToPossibility]]
+->[[vanInwagen1998-modalEpistemology]]
+->[[hawke2011-vanInwagensModalSkepticism]]
+
+--[[chisholm1987-truths_of_reason]],
 
 [[local:zz.texts/hume1739-treatiseHumanNature.pdf]],
-[[local:zz.texts/hume1748-enquiryConcerningHumanUnderstanding.pdf]]
+[[local:zz.texts/hume1748-enquiryConcerningHumanUnderstanding.pdf]],
+
 
 = main =
 Whatever is inconceivable is impossible.

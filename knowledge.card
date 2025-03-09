@@ -1,15 +1,16 @@
-:ahub:knowledge:
+:hub:knowledge:
 = knowledge =
-
-== related to ==
+====== related to ======
 === criteria/analyses of knowledge ===
 [[gettier_counterexamples]], [[epistemic_safety_and_sensitivity]]++,
 [[epistemic_internalism_vs_externalism]]+, [[whats_good_about_knowledge]], 
 
-=== works ===
+====== works ======
 [[zagzebsky2003-sourceOfEpistemicGood]]
 
-== comment ==
+== connections ==
+=== necessary and sufficient conditions for knowledge ===
+==== Gettier counterexamples ====
 [[gettier_counterexamples]] seemed to demonstrate that Justified true belief is
 not a sufficient standard for knowledge. Much work has been spent looking for an
 adequate addition to make the standard sufficient. Good reason to suspect this

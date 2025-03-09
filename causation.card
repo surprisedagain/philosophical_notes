@@ -1,22 +1,237 @@
-:ahub:causation: <br>
+:hub:causation:topic: <br>
 :knowledge:consciousness:
 = causation =
+====== short ======
+Are there causal relationships between events/objects/processes and what
+distinguishes them from mere regularities.
 
-== related to ==
-=== main ===
-[[rovelli2023-orientedCausation]]+,
-:!3: add _Russell on the notion of cause 1972 by Lipkind_, https://www.jstor.org/stable/40231124
+Russell claimed that <q>in advanced sciences such as gravitational astronomy,
+the word 'cause' never occurs,</q>(([[local:zz.texts/russell1917-mysticismAndLogic.pdf|_On the Notion of Cause_]])) and that <q>the word "cause" is so
+inextricably bound up with misleading associations as to make its complete
+extrusion from the philosophical vocabulary desirable</q>. i.e. Our best
+theories of the world do not contain any term that might be translated into
+English as <q>cause</q>.
 
+
+====== related to ======
+anti: [[rovelli2023-orientedCausation]]+, [[local:zz.texts/russell1917-mysticismAndLogic.pdf|_On the Notion of Cause_]]+++
+pro: [[lipkind1979-russellOnNotionOfCause]]
+
+== connections ==
 === theoretical terms ===
+[[lewis1972-psychophysicalAndTheoreticalIdentifications]]
 related because (hoho) of Lewis's emphasis on causal role functionalism.
 Why causal roles? Odd. does the rejection of causality, suggest a wider version
 of functionalism.
-[[lewis1972-psychophysicalAndTheoreticalIdentifications]]
 
 === qualia ===
-Of course this extends to 
-related because qualia are supposed to be epiphenomenal - having no causal
-effect on physical states/systems.
-[[dennett2017-historyOfQualia]],
-[[consciousness]]++
+[[dennett2017-historyOfQualia]], [[consciousness]]++
+Of course this is related to qualia because qualia are supposed to be
+epiphenomenal - having no _causal_ effect on physical states/systems.
 
+= my position =
+:my-position:presentable:
+In [[local:zz.texts/russell1917-mysticismAndLogic.pdf|_On the Notion of Cause_]]
+I agree with Russell's claim that((causation)) is an obsolete notion that can be
+dropped from our theories of the world. In modern jargon this appears to be
+what David Lewis means by a <q>Humean</q> view of causation.
+
+=== Russell's argument from contiguity ===
+In [[local:zz.texts/russell1917-mysticismAndLogic.pdf|_On the Notion of Cause_]] Russell claims that causes must be temporally
+contiguous with their effects. For if they are not, then there is some interval
+between them and <q>However short we make the interval, something may happen
+during this interval which prevents the expected result.</q>
+
+Hence the cause in question does not <q>necessitate</q> its effects and is
+therefore not the 'total' cause (i.e. it does not completely determine the
+effect). But if time is continuous then no two moments in time are contiguous.
+For any two instants in the same continuous time stream (in special relativity
+this would be a set of space-time points that are simultaneous from some
+inertial reference frame) there is a determinate time interval between them. If
+that interval is 0 seconds then the two instants are identical. If the interval
+between them is not 0 seconds then, since time is continuous, it contains an
+infinite number of instants, and hence the original two instants are not
+contiguous.
+
+If we add that no causal influence can propagate faster than a fixed speed (such
+as the speed of light) then action at a distance is prohibited, and much the
+same argument applies to spatial contiguity.
+
+Of course time _intervals_ may still be contiguous, provided one is an open and
+the other a closed set of time instants (at the boundary between them). For
+instance the set of instants _t_ such that 1:59am<=_t_<=2am and the set of instants
+such that 2am<_t_<=2:01am are contiguous. But Russell notes that it is <q>too
+strange to be accepted, in spite of bare logical possibility — that the cause,
+after existing placidly for some time, should suddenly explode into the effect,
+when it might just as well have done so at any earlier time, or have gone on
+unchanged without producing its effect.</q> This claim can be somewhat refined 
+if we reject action at a distance. If we take the rejection of action at a
+distance to be
+Whatever effect a distant
+object/point/event/instant has must be mediated through intermediate.
+
+We, can for instance imagine, gradually heating up a sealed can until it
+ruptures. Although the heating up process 
+
+Let us return then to the first horn of Russell's dilemma. Russell's reasoning
+doesn't quite go through in any system (such as those of special or general
+relativity) in which space and time are continuous and there is a finite maximum
+speed at which causal signals/effects/influences propagate.
+
+Consider the sphere(:or N-dimensional hypersphere, if we are considering a space of N dimensions rather than just 3:) of points in space and time which are _T_ time units
+prior to a given point _P_, and less than or equal to _T_ times the maximum
+speed of causal propagation space units away from _P_. (In special relativity
+this will be the intersection of a set of simultaneous(:from some perspective:) space-time points
+and _P's_ past light cone.) Nothing can come from outside this sphere to
+<q>prevent the expected result</q> and hence the properties of the points in
+that sphere may well necessitate the properties of the point _P_. If the system
+obeys a principle of sufficient reason (i.e. nothing happens without a cause and
+causes completely determine their effects) then the state of the objects in that
+sphere completely determines the state of/at _P_. (For nothing outside that
+sphere can have any casual influence of _P_ and by hypothesis the state of _P_
+is completely causally determined.) Even if the causal laws are indeterministic
+then the probability distribution over the range of _P's_ potential properties
+(or whatever it is about _P_ that is causally determined) is casually determined
+by the state of things in the relevant sphere. (Though there is a caveat here
+which we will discuss when we return to indeterministic causation below.)
+
+==== however does apply at a given point ====
+At for a specific point in space Russell's argument does apply.
+At a given point in space the cause is simultaneous with its effect.
+At a given instant, and again given no action at a distance
+
+There can be no gap there nothing outside the point at time t (at a space-like
+slice through t) can determine what happens 
+
+Thus causes must be simultaneous with their effects The moment the current
+begins to move the magnetic field is generated. The moment the magnetic flux
+changes at a point the charged particle at that point begins to accelerate (if
+particles are points, otherwise integration over spatial charge distributions
+will be involved).
+
+==== a continuous version of no action at a distance ====
+These two claims that all universal claims asserting a relationship between the
+properties of point instants/objects at point instants 
+
+We hinted above that .
+
+Before limits, continuity, the mathematics of real numbers and of sets of
+infinite cardinality were well understood it is easy to see why the prohibition
+of (unmediated) action at a distance naturaly led.
+was natural to suppose 
+The upshot of these considerations is no principles concerning regularities that the laws of any physical system which
+is continuous in space and time(/space-time) and has a finite maximum speed of
+the propagation of causal influence(:such as the speed of light in special and general relativity:), the laws will never specify what happens
+at contiguous instants(/points), since no two distinct instants(/points) are
+contiguous.
+all true generalities (including causal laws) that concern what happens at
+distinct point-times will, like the law of gravitation, specify
+relationships/regularities between what happens at points that are some distance
+from each other. While for laws that concern a single point at a single instant
+(or point masses or if there is some minimum distance below which the finite
+speed limit of causation does not apply, then objects below that size) such as
+F=ma
+
+
+For any effect occurring at point P and any sphere/slice of P's past light cone
+that is not P itself we may say that the state of the objects/points there is an
+intermediate smaller sphere/past light cone slice all of the states of which are
+causally
+
+If we had perfect determinism
+
+generalising to probabilistic causation
+
+Anything that is not continuous is mediated through a more proximal cause.
+
+Is this enough for relationships obeying this principle of only mediated action
+at a distance to count as causal?
+
+Which to see as foundational <q>defined</q> as the limits of
+successively contained sets of causally determining extended spaces (in our
+physics these will turn out in hindsight to be roughly concentric sphere). Or
+should we view points as given as <q>causal</q> relations as being defined by
+
+again if the limit of the influence as the space around tends towards being just
+that point and that result is 
+
+=== arbitrary selection ===
+The point just made also connects with another problem
+
+We typically do not count all of a time slice as a cause of an event. My
+pressing the button caused the elevator to arrive, not
+
+This is the p
+
+== are these relationships causal? ==
+is this another case of [[solid_objects]]?
+
+All these objects
+
+Necessitation, appears to have disappeared.
+
+that is sort of the point. That it is all a huge co-incidence that things are
+they way they are, is less of a co-incidence that everything being the way it is
+*and* there being nomologically necessary laws binding them together.
+quote from tractatus here about making things look like they are explained.
+
+Of all the unlovely varieties of necessity (conceptual, epistemic, metaphysical
+to name a few) the least lovely is surely nomological necessity. The invocation
+of this form of necessity seems to have an unhelpfully pacifying effect. It can
+give the sense that there is still some form of necessity That effect would be
+warranted if there were some principled and independent way of identifying
+causal laws.
+
+In a similar spirit one can identify any number of other forms of necessity, say
+cosmological or cabbalistic necessity. Identify some handful of key principles
+of the chosen theory, preferably not obviously inconsistent with each other,
+and all the sentences that may be derived from them by _absolutely_ necessarily
+truth preserving inferences are cosmologically (or what have you) necessary.
+
+The problem exactly parallels Quine's objection to 
+
+Just as he asked (by a liberal standard of indirect quotation) What is it about
+these principles that makes them analytic? (quote from Two dogmas????)
+
+The lack of principled criteria for distinguishing.
+
+Indeed Q's point, though it has been so long, was that the move from causal
+(or indeed metaphysical) necessity
+
+The problems are not quite the same, solving one does not solve the other. If
+one could determine the analytic truths then that would not allow you to
+identify causal laws (and hence nomological necessities, mutatis mutandis
+for metaphysical necessities.
+
+It is not that causation obeys , but that causal relationships are what define
+spatiality. When we talk about the geometry of physical space what we are really
+talking about is the proximity/propagation relationships of causation.
+
+When we say that a physical space is three dimensional, what we mean is that the
+causal influences . The set of points whose states mediate causal relationships
+between two others are between those two points.
+
+==== reduction to causation ====
+????
+Some might take this as renewed reason to try to identify the causal
+relationships. If we could distinguish them then we could perhaps reduce talk of
+spatial relationships to
+
+So many of the regularities. It is perhaps to be wondered that our universe does
+have a spatial geometry at all.
+
+What then distinguishes the causal relationships. We can conceive of their
+failure or at least of a theory containing them being falsified. Two objects,
+which despite their gravitational attraction to all the other masses of the
+universe, are not attracted to each other. The more abstruse and removed from
+observable reality, we may be unsure if they are. But for principles such as say
+Buyles law which compares comparably easily observed properties such as pressure
+temperature
+
+On the other hand we rely upon them to be true no matter what we do. They are,
+as philosophers like to say, support counterfactuals.
+
+But what reason not to settle just for this.
+
+In those cases which we can easily imagine to be a product of human will we can
+readily identify the causes.

@@ -1,0 +1,185 @@
+:article:causation: <br>
+:quality1:influence1:agree1:draft0.2: <br>
+= Russell on the notion of cause =
+[: [[local:zz.texts/lipkind1979-russellOnNotionOfCause.pdf]], https://www.jstor.org/stable/40231124 :]
+====== short ======
+Claims that Russell was wrong to claim that the notion of causation drops out of
+mature scientific theories and that <q>there is no clear philosophically
+defensible notion of causation</q>((fp.1)). Science and everyday speech/folk theory is
+still reliant upon a notion of causation.
+
+====== related to ======
+[[causation]]+++
+
+====== related works ======
+_On the Notion Of Cause_ in [[local:zz.texts/russell1917-mysticismAndLogic.pdf]]++
+Russell's objections are the most interesting thing about Lipkind's paper.
+
+== summary ==
+Two problems are raised. Lipkind unsuccessfully tries to tie them together
+
+1) Contiguity between cause and effect in a continuous (in time and space or in
+   space-time) world. In any such system any two instants are either
+   identical or separated by some time interval, never contiguous. Hence an
+   two events at distinct instants cannot be contiguous.
+2) Effects are brought about by the whole complex assemblage of conditions that
+   obtain just before they occur, rather than one particular event. (The shove
+   caused the woman to fall - but only because she was not braced for it, there
+   was no counter shove at the same time, gravity, friction between her feet and
+   the floor, etc. All these together caused her to fall and singling out any
+   one factor seems arbitrary.)
+
+Russell appears to be exclusively concerned with the first problem, Lipkind
+almost exclusively with the second.
+
+=== Russell's argument from contiguity ===
+good enough to have been lifted into [[causation#my position]]
+
+== notes on first reading ==
+Starting with a dictionary definition of <q>cause</q> seems somehow antiquated.
+
+=== objection from temporal contiguity ===
+Russell's objections connected with temporal contiguity of cause and effect seem
+tedious. Arising from considering time to be infinitely divisible into points in
+time. Between any two points in time there are an infinite number of other
+points - hence no two points in time are contiguous. Hence causes and effects
+cannot be contiguous instants in time. On the other hand periods of time can be
+contiguous - say the periods 1:59am<=t<=2am and 2am<t<=2:01am. (provided one
+region is open and the other closed). But then why did the cause exist for a
+time before <q>exploding into the effect</q>?
+
+Turning the flashlight on caused the heat to rise on the surface of the
+illuminated body. At the instant the cause occurs a signal is emitted. At the
+instant a signal reaches the locus of the effect the effect
+begins. The (most proximal) cause and its effect are contemporaneous. Perhaps
+not the 'folk' notion of cause, but seems like it might do.  In any case not
+nice to take a notion not built for application to the infinitely divisible and
+then raise problems with it on that score.
+
+Not nice because it hinges upon a kind of concealed hypocrisy or double
+standard. If one is prepared to assert that time is infinitely divisible into
+instants then one should adopt the same attitude towards causes.  Rather than a
+chain of causation composed of distinct links one has a continuous rope of
+causation. Just as temporal periods are infinitely divisible into instants so
+too causal links are infinitely divisible in both space and time.  Just as no
+two instants in time are contiguous, no instantaneous slices of a causal rope
+are contiguous (but regions are). Problems are created by inconstantly adopting
+infinite divisibility.
+
+It turns out that causes and their effects, when they occur at the same point in
+space, also occur at the same time. Is this really incompatible with the
+ordinary notion of cause and effect? At the moment the signal (proximal cause)
+reaches the locus of the effect the effect begins. Isn't this the same as at the
+signal's origin. At the moment the electricity begins to flow the
+electro-magnetic wave begins to propagate.
+
+Perhaps I have underestimated the value of Russell's criticisms. And the
+<q>infinitely divisible</q> analog of causation differs from causation in some 
+key ways assumed in the folk account of causation. Maybe temporal/spatial
+infinite divisibility is enough to discredit causation after all.
+
+Lipkind appears to recognise none of this.
+
+==== Lipkind's response ====
+Rather than requiring consistent adoption infinite divisibility Lipkind simply
+denies it.
+    Talk of earlier and later stages of an event are beside the point if an
+    event cannot be endlessly divided, which must be the case with states of
+    affairs where there is no basis at all for talking of an event's having
+    parts. (fp. 706)
+Breathtaking
+    intuitively, most ordinary causal ties include such intervals: the
+    soldier is punished some time after his act of insubordination. Such
+    examples suggest not that there are no causal ties, but that the proposed
+    analysis of causation is mistaken. 
+Besides the point. There may be chains of causation, but not gaps in the chain.
+One supposes that the soldier's act caused (in combination with other factors)
+other soldiers observations, which caused decisions, reports, more observations,
+more decisions, and finally the punishment being inflicted. But if there are
+gaps in the chain which are not filled by intermediate causes, then why on earth
+are the gaps the length they are?
+
+Just going from Lipkind's quotes Russell makes it clear that he is concerned
+with fundamental/proximal causes. Links in the chain that are directly connected
+to each other, not links connected by intermediate links. (This is in fact what
+first prompted me to think of continuous causal ropes rather than discrete
+causal chains.) If time is infinitely divisible then there are no contiguous
+instants and no directly connected causes and effects. (Just as there are always
+other instants between two particular instants, there are more intermediate
+causes and effects between any cause and its effect.)
+
+Russell's driving concern is that if there are gaps the causes don't
+necessitate their effects:
+    It is useful to turn to Russell for the basic argument: whenever cause and
+    effect are separated by a time interval, he wrote, "however short we make
+    the interval, something may happen during the interval which prevents the
+    expected result." (fp. 706)
+
+Lipkind gets distracted from proximal vs distal causes to simple vs complex
+causers. He ends up taking fundamental causes to be complex <q>assemblages of
+conditions</q> citing Mill for support.
+
+Lipkind's "solution" goes as follows:
+    The possibility of conditions intervening between cause and effect is
+    genuine, but it need not pose such a serious problem for a theory of
+    causation. It does so only if the causal statement, "a caused b" is
+    understood to assert that the occurrence of the cause by itself necessitated
+    the occurrence of the effect, that the effect could not but occur given the
+    occurrence of the cause. If, on the other hand, the statement is interpreted
+    as saying that a, in the circumstances that were the case at the time,
+    necessitated b, then the difficulty disappears. (fp. 709)
+
+Right - so if we can get causes to be complex assemblages then this can allow
+there to be gaps between causes and effects. Causes only necessitate their
+effects if the gap is filled in in a "normal" (or ceteris paribus condition
+fulfilling) way. Beyond tedious.
+
+The ceteris paribus way of allowing causes that do not necessitate their effects
+is then chased for several pages
+This is a slip, from saying that causes do not necessitate. But for the ceteris
+paribus clauses to be rleevant there has to be a causal relationship between the
+non-ceteris paribus
+
+
+Then the next step is to avoid necessitating causal laws altogether.  But this
+is a slip from the ceteris paribus conditions to pure probability. The is no
+ceteris paribus clause that says that the most likely thing will happen.  The
+most reputable
+
+Lipkind's eventual conclusion on this front is that we can have causes which
+
+=== Russell's objection from scientific usage ===
+Lipkind takes the question to be: Do <q>causal concepts, in some sense
+recognizably similar to our intuitive understanding play any role in modern
+scientific theory and explanation</q>((fp. 716))?
+
+L then defers to Nagel's claim that only <q>laws asserting "invariable sequential
+ordering among events or properties</q> are causal. (Ah modern philosophy.) And
+then <q>questions</q> Nagel's criteria to arrive at a criterion of asymmetry.
+
+<q>A physical law in not just a mathematical formula</q> 
+
+But this misses the point - we are free to imagine some regularites have some
+mysterious extra causal quality. But there is no reason to believe anything but
+reularities. Insofar as scientitifc theories are theories in which we can/are
+justified in believing them. If it were just a matter of whether we _can_
+believe in causation I suppose that is settled by the fact that people do
+(though even that is questionable - is the notion of causation coheerent)
+
+Can we ever be justified in believing there is a causal connection. Does the
+attribution of causal relationships play any part inthe theories we are
+_justified_ in believing. (This is why we are interested in _scientific_
+theories - they are the ones we are [best] justified in believing.)
+
+= useful quotes =
+==  we slice the world into objects ==
+:quote:underdetermination:
+    Our picture of the world becomes more, rather than less, complex as these
+    factors are discovered, for it is primarily by recognizing what kinds of
+    factors enter into our laws and explanations that we slice up the world
+    into separate events, as least past the most elementary stages of life.
+    Demands for explanation require increasing precision in our recognition of
+    different types of things (thus the ascription of blame requires our
+    distinguishing the motive for an action from the action itself). As our
+    demands and our curiosity become more sophisticated, so does our ontology
+    (fp. 709)

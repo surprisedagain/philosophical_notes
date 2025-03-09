@@ -1,5 +1,5 @@
 :article:representation: <br>
-:agree0:quality0:influence2:
+:agree1:quality1:influence2:
 = sense and denotation as algorithm and value =
 [: [[local:zz.texts/moschovakis2017-senseDenotationAlgorithmValue.pdf]],
 https://doi.org/10.1017/9781316718254.015 :]
@@ -35,9 +35,9 @@ extensional. By the proposed standard <q>There exists a cordate</q> is
 synonymous with <q>There exists a renate</q>. (Game over.)
 
 Somewhat akin to a computational version of Tarski's truth definition. Just as
-Tarski's truth definitions only define truth given the extension of each
+Tarski's definitions only define truth given the extension of each
 predicate and reflect only the logical structure by which those predicates are
-combined; So too the algorithms produced according to this papers methods (the
+combined — So too the algorithms produced according to this papers methods (the
 algorithms that are supposed to be statements meanings/intentions) only reflect
 statements' overt logical structure (the FOL schema they instantiate) and are
 composed of algorithms for determining if an object is in the extension of a
@@ -108,7 +108,7 @@ must be recursively decidable. This suggestion may have something to it.
 
 == key flaw ==
 Rather than identifying the meaning of a sentence with a set of possible worlds
-(in which that sentence is true((Better a 2-tuple of sets of possible worlds, those in which it is true and those in which it is false))&zwj;) identify it as an algorithm for
+(in which that sentence is true(:Better a 2-tuple of sets of possible worlds, those in which it is true and those in which it is false:)&zwj;) identify it as an algorithm for
 determining whether that statement is true(/false)
 _that gives the right answer in every possible world_. (This issue turned out
 not to play as large a role as I first thought since the extensionalism means we
@@ -272,9 +272,9 @@ What is being assumed in this paper (in the other direction) is that
 ==== 1.2 Algorithms are relatively effective ====
 The author is apparently worried that we will dismiss his <q>algorithms</q> as
 not being algorithms at all, since the traditional (computer science) textbook
-of algorithm requires them to always halt. Hence they are prepared to take it a
-as relatively effective - i.e. relative to the basic operation of determining
-whether an existentially quantified statement is true. While this 
+definition of algorithm requires them to always halt. Hence they are prepared to
+take it a as relatively effective - i.e. relative to the basic operation of
+determining whether an existentially quantified statement is true. While this 
 
 As I (admittedly vaguely) recall the <q>higher type recursion</q> is achieved
 (or at least studied) by the use of oracle machines which decide (in one step as

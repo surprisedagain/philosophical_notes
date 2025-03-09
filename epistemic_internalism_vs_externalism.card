@@ -1,9 +1,6 @@
-:issue: <br>
-:qualityX:influenceX:agreeX:draft0.0:
-:discord-reading:presentable:
-= title =
-[: [[local:zz.texts/<PDF-FILE>]], https://doi.org/LINK :]
-
+:issue:knowledge: <br>
+:draft0.1:
+= epistemic externalism vs internalism =
 ====== short ======
 An attempt to get straight on what is, apparently, a central dispute of
 contemporary epistemology((According to https://iep.utm.edu/int-ext/)).
@@ -11,9 +8,38 @@ contemporary epistemology((According to https://iep.utm.edu/int-ext/)).
 ====== related to ======
 [[knowledge]]
 
-
-[[zagzebsky2003-sourceOfEpistemicGood]]+
-
+[[putnam1982-whyReasonCantBeNaturalized]]+, [[zagzebsky2003-sourceOfEpistemicGood]]+
 
 = main =
+== externalism ==
 :undisputed:
+Alvin Plantinga is perhaps the best known proponent of epistemic externalism.
+In his paper [[https://doi.org/10.1007/978-94-009-9493-5_1|_What is justified Belief?_]] (1979) he claimed that:
+    If S’s believing p at t results from a reliable cognitive belief-forming
+    process (or set of processes), then S’s belief in p at t is justified.
+
+It is worth mentioning that Plantinga has an ulterior motive for this view.
+Trying to present an account in which _belief in God_ is both rational (or at
+least not irrational) and fundamental/basic(/not based upon evidence?). A
+weird(/sophisticated) defence of Christianity that is driving much of
+Plantinga's efforts, _not_ a hyper scientific commitment to naturalism.
+
+=== refutation ===
+A solid refutation of Plantinga's externalism is given in
+[[putnam1982-whyReasonCantBeNaturalized]]:
+    suppose that Tibetan Buddhism is, in fact, true, and that the Dalai Lama is,
+    in fact, infallible on matters of faith and morals. Anyone who believes in
+    the Dalai Lama, and who invariably believes any statement the Dalai Lama
+    makes on a matter of faith or morals, follows a method which is 100%
+    reliable; thus, if the reliability theory of rationality were correct, such
+    a person's beliefs on faith and morals would all be rational even if his
+    argument for his belief that the Dalai Lama is never wrong is "'the Dalai
+    Lama says so".<br>
+    (fp. 5)
+This suggests, by omission if nothing else, that a knower must be able to
+provide some kind of reasons (i.e. justification) for their beliefs if they are
+to count as knowledge.
+
+== internalism ==
+An access condition to the justification of the belief is added in order for
+that belief to count as knowledge.

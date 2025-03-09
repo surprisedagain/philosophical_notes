@@ -13,6 +13,19 @@ Perhaps the most influential exposition of the new modal actualism.
 
 [[local:zz.texts/loomis1999-necessityAPrioriStandardMeter.pdf]]
 
+= observations =
+== rigid designation akin to scope ==
+The whole rigid designator issue is a kind of scope error.
+
+I = the person who utters this statement = ∃x utters this statement . . . 
+
+Of course the <q>this</q> is still indexical. It may be that the ancients were
+wrong and indexicals are ineliminable. But the relationship that holds between
+the indexical term (token) itself and the object it refers to can be.
+If we think of the scope of that relationship as being inside or outside the
+scope of the quantifiers in the (analysed) statement itself. Rigid is tight
+scope, non-rigid is wide scope.
+
 == theses / foundations ==
 === the importance of identity ===
 It seems the fundamental principle that 
@@ -35,7 +48,7 @@ controversial (but less clearly said by Leibniz) indiscernability of identicals
 (see [[identity_of_indiscernables#Leibnizs law]]):
 |----------------------------------|
 | (x)(y)( x = y =>. F(x) => F(y) ) |
-In this case the statement in place of F(...) is: NN ( x = ... ) producing:
+In this case the open formula in place of F(...) is: NN ( x = ... ) producing:
 |--------------------------------------------|
 | (x)(y)( x = y =>. NN(x = x) => NN(x = y) ) |
 
@@ -78,7 +91,7 @@ A natural suggestion is to can relativise internal relationships to types of
 object.  Relation R is internal for objects of type T iff:
     (x)(y) (T(x) and T(y) and x R y .=> NN x R y)
 In this manner we may recognise Being longer than, as an internal relationship
-for lengths, but not for tables.  But this won't seem to do
+for lengths, but not for tables.  But this won't seem to do:
 
 === weirdness with non-rigid designators ===
 Lets focus on the last sentence:

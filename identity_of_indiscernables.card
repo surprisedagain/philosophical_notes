@@ -17,7 +17,8 @@ identity of indiscernibles and the indiscernability of identicals: <br>
     fundamental is the following: x = y if, and only if, x has every property
     which y has, and y has every property which x has.  This law was first
     stated by Leibniz (although in somewhat different terms) and hence may be
-    called Leibniz' Law. (Introduction to Logic, 1941).
+    called Leibniz' Law.<br>
+    (Tarski, Introduction to Logic, 1941)
 
 According to Feldman ([[https://doi.org/10.2307/2184291|_Leibniz and "Leibniz' Law"_, 1970]]) Leibniz states
 the principle of the identity of indiscernibles quite clearly in his
@@ -47,15 +48,16 @@ _salva veritate_((Quine explicitly attributes this phrase to Leibniz in S3 of _T
 (plausibly attributed to Quine) one must take Leibniz as careless of the
 distinction between use and mention - between <q>Cicero</q> and Cicero.
 
-[[https://doi.org/10.2307/2184291|Feldman]] advances the theory that this is an identity criteria for concepts, such
-as triangular and trilateral, quadrangle and quadrilateral. In this sense it
-makes sense to say that two concepts are identical if their substitution for
-each other (in the relevant judgement or whatever sentence-like entity it is
-that concepts can compose) always leaves the truth of the judgement unchanged.
+Feldman ([[https://doi.org/10.2307/2184291|1970]]) advances the theory that this is an identity criteria for
+concepts, such as triangular and trilateral, quadrangle and quadrilateral. In
+this sense it makes sense to say that two concepts are identical if their
+substitution for each other (in the relevant judgement or whatever sentence-like
+entity it is that concepts can compose) always leaves the truth of the judgement
+unchanged.
 
 My suspicion, is that Leibniz is simply careless of the distinction. Treating
 <q>Cicero</q>, Cicero and concepts all as objects. The confusion made
-especially attractive that each object has a proper name
+especially attractive by Leibniz' doctrine that each object has a proper name
 (_characteristica universalis_ ???? this is the name of the language)
 
 Is an object simply its object concept. The echo of this monad in that monad
