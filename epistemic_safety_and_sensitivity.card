@@ -23,7 +23,7 @@ In the original formulation, safety was defined as follows: <br>
    | *S's belief in P is safe Df.<-> If S were to believe P, P would be true* |
 (this is the contrapositive of [[#sensitivity]])
 
-Combined with a Lewis analysis of counterfactuals this is interdeducible with: <br>
+Combined with a Lewis analysis of counterfactuals this is inter-deducible with: <br>
 <q>In the nearest possible world in which S believes P, P is true.</q> <br>
 This has the immediate implication that all true beliefs are safe.
 
@@ -35,14 +35,13 @@ S's belief that P is epistemically sensitive
 iff
 if P were false S then would not believe that P
 
-It is tempting to combine this with David Lewis's analysis of counter-factuals
+It is tempting to combine this with David Lewis's analysis of counterfactuals
 to produce the claim that :!2:
 
 
-=== abominable conjunctions ===
-The term abominabkle conjunction is from
-DeRose 1995
-DeRose, Keith, 1995, “Solving the Skeptical Problem”, The Philosophical Review, 104(1): 1–52. doi:10.2307/2186011
-The most commonly given reason for rejecting 
-dreadful conjunction
-
+=== objections ===
+==== abominable conjunctions ====
+Abominable conjunctions are the most commonly given reason for rejecting sensitivity
+The term abominable conjunction is from [[local:zz.texts/deRose1995-solvingSkepticalProblem.pdf|_Solving the Skeptical Problem_]]
+(de Rose, 1995).
+There is a paper in this :!8: In defence of abominable conjunctions

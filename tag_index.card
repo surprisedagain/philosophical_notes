@@ -33,6 +33,7 @@
     - [[zagzebsky2003-sourceOfEpistemicGood#!1]]
 
 == !2 ==
+    - [[epistemic_safety_and_sensitivity#!2]]
     - [[fodor1964-onKnowingWhatWeWouldSay#!2]]
     - [[knowledge#!2]]
 
@@ -64,12 +65,13 @@
 
 == agree0 ==
     - [[duck-rabbit_illusion]]
-    - [[moschovakis2017-senseDenotationAlgorithmValue]]
     - [[shani2007-mythReductiveExtensionalism]]
+    - [[yablo1993-isConceivabilityAGuideToPossibility]]
 
 == agree1 ==
     - [[bealer2002-modalEpistemologyRationalistRenaissance]]
     - [[lipkind1979-russellOnNotionOfCause]]
+    - [[moschovakis2017-senseDenotationAlgorithmValue]]
     - [[zagzebsky2003-sourceOfEpistemicGood]]
 
 == agree2 ==
@@ -81,6 +83,7 @@
     - [[kripke1980-namingAndNecessity]]
 
 == agree4 ==
+    - [[putnam1975-meaningOfMeaning]]
     - [[tulodziecki2021-howNotToThinkAboutTheoryChange]]
 
 == agree5 ==
@@ -99,8 +102,9 @@
 == agreeX ==
     - [[dennett1991-consciousnessExplained]]
     - [[epistemological_original_sin]]
-    - [[lipkind1979-russellNotionOfCause]]
+    - [[hawke2011-vanInwagensModalSkepticism]]
     - [[putnam1968-logicOfquantumMechanics]]
+    - [[vanInwagen1998-modalEpistemology]]
 
 == ancient ==
     - [[aristotle-politics]]
@@ -114,17 +118,20 @@
     - [[dennett1976-areDreamsExperiences]]
     - [[dennett2017-historyOfQualia]]
     - [[fodor1964-onKnowingWhatWeWouldSay]]
+    - [[hawke2011-vanInwagensModalSkepticism]]
     - [[lewis1972-psychophysicalAndTheoreticalIdentifications]]
-    - [[lipkind1979-russellNotionOfCause]]
     - [[lipkind1979-russellOnNotionOfCause]]
     - [[moschovakis2017-senseDenotationAlgorithmValue]]
     - [[putnam1968-logicOfquantumMechanics]]
+    - [[putnam1975-meaningOfMeaning]]
     - [[putnam1982-whyReasonCantBeNaturalized]]
     - [[rovelli2023-orientedCausation]]
     - [[shani2007-mythReductiveExtensionalism]]
     - [[tulodziecki2021-howNotToThinkAboutTheoryChange]]
+    - [[vanInwagen1998-modalEpistemology]]
     - [[weir1985-againstHolism]]
     - [[williamson2014-transformationAnalyticPhilosophy]]
+    - [[yablo1993-isConceivabilityAGuideToPossibility]]
     - [[zagzebsky2003-sourceOfEpistemicGood]]
 
 == awful ==
@@ -150,10 +157,13 @@
 == causation ==
     - [[causation]]
     - [[consciousness]]
-    - [[lipkind1979-russellNotionOfCause]]
     - [[lipkind1979-russellOnNotionOfCause]]
     - [[philosophical_zombies]]
     - [[rovelli2023-orientedCausation]]
+
+== citedRLN ==
+    - [[vanInwagen1998-modalEpistemology#citedRLN]]
+    - [[yablo1993-isConceivabilityAGuideToPossibility#citedRLN]]
 
 == confirmation ==
     - [[belief-cause_vs_justification]]
@@ -193,9 +203,12 @@
     - [[bias]]
     - [[duck-rabbit_illusion]]
     - [[epistemological_original_sin]]
+    - [[hawke2011-vanInwagensModalSkepticism]]
     - [[leibniz]]
+    - [[putnam1975-meaningOfMeaning]]
     - [[scientific_method]]
     - [[second_law_of_thermodynamics]]
+    - [[yablo1993-isConceivabilityAGuideToPossibility]]
 
 == draft0.1 ==
     - [[benYami2015-descartesPhilosophicalRevolution]]
@@ -207,10 +220,10 @@
     - [[grue_problem]]
     - [[kant-critiqueOfPureReason]]
     - [[kripke1980-namingAndNecessity]]
-    - [[lipkind1979-russellNotionOfCause]]
     - [[nietzsche_pragmatism_postmodernism]]
     - [[putnam1968-logicOfquantumMechanics]]
     - [[representation_requires_epistemic_access]]
+    - [[vanInwagen1998-modalEpistemology]]
     - [[weir1985-againstHolism]]
     - [[wittgenstein]]
     - [[zagzebsky2003-sourceOfEpistemicGood]]
@@ -222,7 +235,6 @@
     - [[lipkind1979-russellOnNotionOfCause]]
     - [[putnam1982-whyReasonCantBeNaturalized]]
     - [[quinean_reasoning]]
-    - [[sensitivity_and_safety]]
     - [[shani2007-mythReductiveExtensionalism]]
     - [[solid_objects]]
     - [[the_academic_conclusion]]
@@ -248,9 +260,6 @@
 
 == empiricism ==
     - [[belief-cause_vs_justification]]
-
-== epistemology ==
-    - [[conceivability_and_possibility]]
 
 == essay ==
     - [[nietzsche_pragmatism_postmodernism#essay]]
@@ -285,6 +294,7 @@
 == hub ==
     - [[behaviourism]]
     - [[causation]]
+    - [[conceivability_and_possibility]]
     - [[knowledge]]
     - [[semantic_holism]]
 
@@ -300,7 +310,6 @@
     - [[rovelli2023-orientedCausation#influence]]
 
 == influence1 ==
-    - [[lipkind1979-russellNotionOfCause]]
     - [[lipkind1979-russellOnNotionOfCause]]
 
 == influence2 ==
@@ -329,15 +338,19 @@
 == influence8 ==
     - [[duck-rabbit_illusion]]
     - [[lewis1972-psychophysicalAndTheoreticalIdentifications]]
+    - [[yablo1993-isConceivabilityAGuideToPossibility]]
 
 == influence9 ==
     - [[gettier_counterexamples]]
     - [[grue_problem]]
     - [[kripke1980-namingAndNecessity]]
+    - [[putnam1975-meaningOfMeaning]]
 
 == influenceX ==
     - [[dennett1991-consciousnessExplained]]
     - [[epistemological_original_sin]]
+    - [[hawke2011-vanInwagensModalSkepticism]]
+    - [[vanInwagen1998-modalEpistemology]]
 
 == introspection ==
     - [[dennett1976-areDreamsExperiences]]
@@ -351,6 +364,7 @@
     - [[direction_of_time]]
     - [[epistemic_internalism_vs_externalism]]
     - [[philosophical_zombies]]
+    - [[quinean_reasoning]]
     - [[quinean_reasoning]]
 
 == justification ==
@@ -367,7 +381,6 @@
     - [[knowledge]]
     - [[putnam1982-whyReasonCantBeNaturalized]]
     - [[semantic_holism]]
-    - [[sensitivity_and_safety]]
     - [[whats_good_about_knowledge]]
     - [[zagzebsky2003-sourceOfEpistemicGood]]
 
@@ -379,19 +392,21 @@
     - [[leibniz]]
     - [[shani2007-mythReductiveExtensionalism]]
 
+== modal-epistemology ==
+    - [[conceivability_and_possibility]]
+    - [[hawke2011-vanInwagensModalSkepticism]]
+    - [[vanInwagen1998-modalEpistemology]]
+    - [[yablo1993-isConceivabilityAGuideToPossibility]]
+
 == modality ==
     - [[bealer2002-modalEpistemologyRationalistRenaissance]]
     - [[chisholm1987-truths_of_reason]]
-    - [[conceivability_and_possibility]]
     - [[fodor1964-onKnowingWhatWeWouldSay]]
     - [[kripke1980-namingAndNecessity]]
     - [[lewis1986-pluralityOfWorlds]]
     - [[semantic_holism]]
     - [[tractatus#theses#modal isomorphism]]
     - [[williamson2014-transformationAnalyticPhilosophy]]
-
-== my-position ==
-    - [[causation#my position]]
 
 == naturalism ==
     - [[belief-cause_vs_justification]]
@@ -425,7 +440,6 @@
 
 == presentable ==
     - [[a_grue_solution#presentable]]
-    - [[causation#my position]]
     - [[nietzsche_pragmatism_postmodernism#presentable]]
     - [[philosophical_zombies#presentable]]
 
@@ -441,12 +455,12 @@
 
 == quality0 ==
     - [[duck-rabbit_illusion]]
-    - [[moschovakis2017-senseDenotationAlgorithmValue]]
     - [[shani2007-mythReductiveExtensionalism]]
 
 == quality1 ==
-    - [[lipkind1979-russellNotionOfCause]]
     - [[lipkind1979-russellOnNotionOfCause]]
+    - [[moschovakis2017-senseDenotationAlgorithmValue]]
+    - [[yablo1993-isConceivabilityAGuideToPossibility]]
 
 == quality2 ==
     - [[rovelli2023-orientedCausation#quality2]]
@@ -469,6 +483,7 @@
 
 == quality7 ==
     - [[benYami2015-descartesPhilosophicalRevolution]]
+    - [[putnam1975-meaningOfMeaning]]
 
 == quality9 ==
     - [[fodor1964-onKnowingWhatWeWouldSay]]
@@ -479,6 +494,11 @@
     - [[dennett1991-consciousnessExplained]]
     - [[epistemological_original_sin]]
     - [[grue_problem]]
+    - [[hawke2011-vanInwagensModalSkepticism]]
+    - [[vanInwagen1998-modalEpistemology]]
+
+== quote ==
+    - [[lipkind1979-russellOnNotionOfCause#Russell on the notion of cause#we slice the world into objects]]
 
 == reasoning ==
     - [[a_grue_solution]]
@@ -495,6 +515,7 @@
     - [[fodor1964-onKnowingWhatWeWouldSay]]
     - [[lewis1972-psychophysicalAndTheoreticalIdentifications]]
     - [[moschovakis2017-senseDenotationAlgorithmValue]]
+    - [[putnam1975-meaningOfMeaning]]
     - [[representation_requires_epistemic_access]]
     - [[tractatus#theses#modal isomorphism]]
 
@@ -506,7 +527,6 @@
 
 == rough-notes ==
     - [[dennett1976-areDreamsExperiences#rough-notes]]
-    - [[lipkind1979-russellNotionOfCause#rough-notes]]
 
 == semantic_holism ==
     - [[quinean_reasoning]]
@@ -531,6 +551,9 @@
     - [[causation]]
     - [[conceivability_and_possibility]]
     - [[consciousness]]
+
+== underdetermination ==
+    - [[lipkind1979-russellOnNotionOfCause#Russell on the notion of cause#we slice the world into objects]]
 
 == undisputed ==
     - [[conceivability_and_possibility#main#history]]

@@ -21,6 +21,10 @@ s/href="[^"]*zz.texts[^"]*\/carnap1926-derAufbauDerWelt\.pdf"/href="https:\/\/n2
 # chalmers1996-consciousMind.pdf https://n2t.net/ark:/13960/t8qd06x64
 s/href="[^"]*zz.texts[^"]*\/chalmers1996-consciousMind\.pdf"/href="https:\/\/n2t\.net\/ark:\/13960\/t8qd06x64"/g
 
+# deRose1995-solvingSkepticalProblem.pdf https://doi.org/10.2307/2186011
+s/href="[^"]*zz.texts[^"]*\/deRose1995-solvingSkepticalProblem\.pdf"/href="https:\/\/doi\.org\/10\.2307\/2186011"/g
+
+
 # kirk1974-sentienceAndBehaviour.pdf https://doi.org/10.1093/mind/LXXXIII.329.43
 s/href="[^"]*zz.texts[^"]*\/kirk1974-sentienceAndBehaviour\.pdf"/href="https:\/\/doi\.org\/10\.1093\/mind\/LXXXIII\.329\.43"/g
 
