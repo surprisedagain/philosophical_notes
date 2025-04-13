@@ -1,5 +1,5 @@
-:hub:causation:topic: <br>
-:knowledge:consciousness:
+:hub:topic:causation: <br>
+:knowledge:mind:consciousness:
 = causation =
 ====== short ======
 Are there causal relationships between events/objects/processes and what
@@ -11,7 +11,6 @@ inextricably bound up with misleading associations as to make its complete
 extrusion from the philosophical vocabulary desirable</q>. i.e. Our best
 theories of the world do not contain any term that might be translated into
 English as <q>cause</q>.
-
 
 ====== related to ======
 anti: [[rovelli2023-orientedCausation]]+, [[local:zz.texts/russell1917-mysticismAndLogic.pdf|_On the Notion of Cause_]]+++
@@ -30,17 +29,17 @@ Of course this is related to qualia because qualia are supposed to be
 epiphenomenal - having no _causal_ effect on physical states/systems.
 
 = my position =
-:my-position:presentable:
-In [[local:zz.texts/russell1917-mysticismAndLogic.pdf|_On the Notion of Cause_]]
-I agree with Russell's claim that causation is an obsolete notion that can be
-dropped from our theories of the world. In modern jargon this appears to be
-what David Lewis means by a <q>Humean</q> view of causation.
+:my-position:presentable: <br>
+I agree with Russell's claim in [[local:zz.texts/russell1917-mysticismAndLogic.pdf|_On the Notion of Cause_]] that causation is an
+obsolete notion that can be dropped from our theories of the world. In modern
+jargon this appears to be what David Lewis means by a <q>Humean</q> view of
+causation.
 
 === Russell's argument from contiguity ===
 In [[local:zz.texts/russell1917-mysticismAndLogic.pdf|_On the Notion of Cause_]] Russell claims that causes must be temporally
 contiguous with their effects. For if they are not, then there is some interval
-between them and <q>However short we make the interval, something may happen
-during this interval which prevents the expected result.</q>
+between causes and effects and <q>However short we make the interval, something
+may happen during this interval which prevents the expected result.</q>
 
 Hence the cause in question does not <q>necessitate</q> its effects and is
 therefore not the 'total' cause (i.e. it does not completely determine the
@@ -66,9 +65,9 @@ after existing placidly for some time, should suddenly explode into the effect,
 when it might just as well have done so at any earlier time, or have gone on
 unchanged without producing its effect.</q> This claim can be somewhat refined 
 if we reject action at a distance. If we take the rejection of action at a
-distance to be
-Whatever effect a distant
-object/point/event/instant has must be mediated through intermediate.
+distance to be 
+Whatever effect a distant object/point/event/instant has must be
+mediated through intermediate.
 
 We, can for instance imagine, gradually heating up a sealed can until it
 ruptures. Although the heating up process 
@@ -96,7 +95,7 @@ by the state of things in the relevant sphere. (Though there is a caveat here
 which we will discuss when we return to indeterministic causation below.)
 
 ==== however does apply at a given point ====
-At for a specific point in space Russell's argument does apply.
+For any specific point in space Russell's argument does apply.
 At a given point in space the cause is simultaneous with its effect.
 At a given instant, and again given no action at a distance
 
