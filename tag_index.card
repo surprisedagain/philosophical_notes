@@ -45,12 +45,11 @@
 
 == !6 ==
     - [[nietzsche_pragmatism_postmodernism#Nietzsche pragmatism postmodernism#short]]
+    - [[quinean_reasoning#main#Assessing vegan replacements]]
 
 == !7 ==
     - [[dennett1976-areDreamsExperiences]]
     - [[kripke1980-namingAndNecessity]]
-    - [[philosophical_zombies#!7]]
-    - [[philosophical_zombies#philosophical zombies#connection with epistemological original sin]]
     - [[representation_requires_epistemic_access#main#case of the isolated astronaut]]
 
 == !8 ==
@@ -62,10 +61,13 @@
     - [[cant_learn_langauge_from_pure_truth#main]]
     - [[dennett2017-historyOfQualia#RLN]]
     - [[duck-rabbit_illusion#RLN]]
+    - [[philosophers_dogmatism#RLN]]
+    - [[philosophers_dogmatism#RLN]]
 
 == agree0 ==
     - [[duck-rabbit_illusion]]
     - [[shani2007-mythReductiveExtensionalism]]
+    - [[singh2021-fitnessBeatsTruth]]
     - [[yablo1993-isConceivabilityAGuideToPossibility]]
 
 == agree1 ==
@@ -100,19 +102,23 @@
     - [[fodor1964-onKnowingWhatWeWouldSay]]
 
 == agreeX ==
+    - [[00#agreeX]]
     - [[dennett1991-consciousnessExplained]]
     - [[epistemological_original_sin]]
     - [[hawke2011-vanInwagensModalSkepticism]]
+    - [[lipkind1979-russellNotionOfCause]]
     - [[putnam1968-logicOfquantumMechanics]]
     - [[vanInwagen1998-modalEpistemology]]
 
 == ancient ==
     - [[aristotle-politics]]
+    - [[plato]]
 
 == aristotle ==
     - [[aristotle-politics]]
 
 == article ==
+    - [[00]]
     - [[bealer2002-modalEpistemologyRationalistRenaissance]]
     - [[chisholm1987-truths_of_reason]]
     - [[dennett1976-areDreamsExperiences]]
@@ -120,6 +126,7 @@
     - [[fodor1964-onKnowingWhatWeWouldSay]]
     - [[hawke2011-vanInwagensModalSkepticism]]
     - [[lewis1972-psychophysicalAndTheoreticalIdentifications]]
+    - [[lipkind1979-russellNotionOfCause]]
     - [[lipkind1979-russellOnNotionOfCause]]
     - [[moschovakis2017-senseDenotationAlgorithmValue]]
     - [[putnam1968-logicOfquantumMechanics]]
@@ -127,8 +134,10 @@
     - [[putnam1982-whyReasonCantBeNaturalized]]
     - [[rovelli2023-orientedCausation]]
     - [[shani2007-mythReductiveExtensionalism]]
+    - [[singh2021-fitnessBeatsTruth]]
     - [[tulodziecki2021-howNotToThinkAboutTheoryChange]]
     - [[vanInwagen1998-modalEpistemology]]
+    - [[vanInwagen2010-wereRightTheyreWrong]]
     - [[weir1985-againstHolism]]
     - [[williamson2014-transformationAnalyticPhilosophy]]
     - [[yablo1993-isConceivabilityAGuideToPossibility]]
@@ -141,11 +150,13 @@
     - [[behaviourism]]
 
 == bit ==
+    - [[00]]
     - [[the_academic_conclusion]]
     - [[theories_as_suits_of_armour]]
     - [[tomb_of_the_mistaken_scientist]]
 
 == book ==
+    - [[00]]
     - [[aristotle-politics]]
     - [[benYami2015-descartesPhilosophicalRevolution]]
     - [[dennett1991-consciousnessExplained]]
@@ -157,6 +168,7 @@
 == causation ==
     - [[causation]]
     - [[consciousness]]
+    - [[lipkind1979-russellNotionOfCause]]
     - [[lipkind1979-russellOnNotionOfCause]]
     - [[philosophical_zombies]]
     - [[rovelli2023-orientedCausation]]
@@ -191,6 +203,7 @@
     - [[fodor1964-onKnowingWhatWeWouldSay#discord-presentable]]
 
 == discord-reading ==
+    - [[00#discord-reading]]
     - [[rovelli2023-orientedCausation]]
 
 == discord-reading-group ==
@@ -199,6 +212,7 @@
     - [[tulodziecki2021-howNotToThinkAboutTheoryChange]]
 
 == draft0.0 ==
+    - [[00#draft0.0]]
     - [[actually_learning_another_langauge]]
     - [[bias]]
     - [[duck-rabbit_illusion]]
@@ -220,7 +234,9 @@
     - [[grue_problem]]
     - [[kant-critiqueOfPureReason]]
     - [[kripke1980-namingAndNecessity]]
+    - [[lipkind1979-russellNotionOfCause]]
     - [[nietzsche_pragmatism_postmodernism]]
+    - [[plato]]
     - [[putnam1968-logicOfquantumMechanics]]
     - [[representation_requires_epistemic_access]]
     - [[vanInwagen1998-modalEpistemology]]
@@ -233,8 +249,10 @@
     - [[epistemic_safety_and_sensitivity]]
     - [[fodor1964-onKnowingWhatWeWouldSay]]
     - [[lipkind1979-russellOnNotionOfCause]]
+    - [[philosophers_dogmatism]]
     - [[putnam1982-whyReasonCantBeNaturalized]]
     - [[quinean_reasoning]]
+    - [[sensitivity_and_safety]]
     - [[shani2007-mythReductiveExtensionalism]]
     - [[solid_objects]]
     - [[the_academic_conclusion]]
@@ -256,6 +274,7 @@
     - [[whats_good_about_knowledge]]
 
 == draft1.0 ==
+    - [[singh2021-fitnessBeatsTruth]]
     - [[theories_as_suits_of_armour]]
 
 == empiricism ==
@@ -278,11 +297,11 @@
 == good3 ==
     - [[cant_learn_langauge_from_pure_truth]]
 
-== good7 ==
-    - [[philosophical_zombies#good7]]
-
 == good_point ==
     - [[a_grue_solution]]
+
+== historical_trail ==
+    - [[plato]]
 
 == history ==
     - [[benYami2015-descartesPhilosophicalRevolution]]
@@ -292,13 +311,16 @@
     - [[williamson2014-transformationAnalyticPhilosophy]]
 
 == hub ==
+    - [[00]]
     - [[behaviourism]]
     - [[causation]]
     - [[conceivability_and_possibility]]
     - [[knowledge]]
+    - [[philosophers_dogmatism]]
     - [[semantic_holism]]
 
 == idea ==
+    - [[00]]
 
 == important8 ==
     - [[representation_requires_epistemic_access]]
@@ -310,6 +332,7 @@
     - [[rovelli2023-orientedCausation#influence]]
 
 == influence1 ==
+    - [[lipkind1979-russellNotionOfCause]]
     - [[lipkind1979-russellOnNotionOfCause]]
 
 == influence2 ==
@@ -323,6 +346,7 @@
 
 == influence4 ==
     - [[fodor1964-onKnowingWhatWeWouldSay]]
+    - [[singh2021-fitnessBeatsTruth]]
 
 == influence5 ==
     - [[dennett1976-areDreamsExperiences]]
@@ -347,6 +371,7 @@
     - [[putnam1975-meaningOfMeaning]]
 
 == influenceX ==
+    - [[00#influenceX]]
     - [[dennett1991-consciousnessExplained]]
     - [[epistemological_original_sin]]
     - [[hawke2011-vanInwagensModalSkepticism]]
@@ -360,11 +385,11 @@
     - [[fodor1964-onKnowingWhatWeWouldSay]]
 
 == issue ==
+    - [[00]]
     - [[belief-cause_vs_justification]]
     - [[direction_of_time]]
     - [[epistemic_internalism_vs_externalism]]
     - [[philosophical_zombies]]
-    - [[quinean_reasoning]]
     - [[quinean_reasoning]]
 
 == justification ==
@@ -381,6 +406,7 @@
     - [[knowledge]]
     - [[putnam1982-whyReasonCantBeNaturalized]]
     - [[semantic_holism]]
+    - [[sensitivity_and_safety]]
     - [[whats_good_about_knowledge]]
     - [[zagzebsky2003-sourceOfEpistemicGood]]
 
@@ -391,6 +417,9 @@
     - [[extensional]]
     - [[leibniz]]
     - [[shani2007-mythReductiveExtensionalism]]
+
+== mind ==
+    - [[causation]]
 
 == modal-epistemology ==
     - [[conceivability_and_possibility]]
@@ -422,6 +451,7 @@
 
 == person ==
     - [[leibniz]]
+    - [[plato]]
     - [[wittgenstein]]
 
 == phil-science ==
@@ -434,11 +464,8 @@
 == post-modernism ==
     - [[nietzsche_pragmatism_postmodernism]]
 
-== potential ==
-    - [[philosophical_zombies#philosophical zombies#connection with epistemological original sin]]
-    - [[philosophical_zombies#potential]]
-
 == presentable ==
+    - [[00#presentable]]
     - [[a_grue_solution#presentable]]
     - [[nietzsche_pragmatism_postmodernism#presentable]]
     - [[philosophical_zombies#presentable]]
@@ -456,8 +483,10 @@
 == quality0 ==
     - [[duck-rabbit_illusion]]
     - [[shani2007-mythReductiveExtensionalism]]
+    - [[singh2021-fitnessBeatsTruth]]
 
 == quality1 ==
+    - [[lipkind1979-russellNotionOfCause]]
     - [[lipkind1979-russellOnNotionOfCause]]
     - [[moschovakis2017-senseDenotationAlgorithmValue]]
     - [[yablo1993-isConceivabilityAGuideToPossibility]]
@@ -491,6 +520,7 @@
     - [[lewis1972-psychophysicalAndTheoreticalIdentifications]]
 
 == qualityX ==
+    - [[00#qualityX]]
     - [[dennett1991-consciousnessExplained]]
     - [[epistemological_original_sin]]
     - [[grue_problem]]
@@ -504,6 +534,7 @@
     - [[a_grue_solution]]
     - [[bealer2002-modalEpistemologyRationalistRenaissance]]
     - [[chisholm1987-truths_of_reason]]
+    - [[philosophers_dogmatism]]
     - [[putnam1968-logicOfquantumMechanics]]
     - [[putnam1982-whyReasonCantBeNaturalized]]
     - [[quinean_reasoning]]
@@ -519,6 +550,9 @@
     - [[representation_requires_epistemic_access]]
     - [[tractatus#theses#modal isomorphism]]
 
+== represetation ==
+    - [[singh2021-fitnessBeatsTruth]]
+
 == response ==
     - [[chisholm1987-truths_of_reason]]
 
@@ -527,6 +561,10 @@
 
 == rough-notes ==
     - [[dennett1976-areDreamsExperiences#rough-notes]]
+    - [[lipkind1979-russellNotionOfCause#rough-notes]]
+
+== roughNotes ==
+    - [[vanInwagen2010-wereRightTheyreWrong#roughNotes]]
 
 == semantic_holism ==
     - [[quinean_reasoning]]
@@ -537,6 +575,7 @@
     - [[a_grue_solution#significant]]
 
 == thesis ==
+    - [[00]]
     - [[a_grue_solution]]
     - [[identity_of_indiscernables]]
     - [[representation_requires_epistemic_access]]
@@ -545,17 +584,21 @@
 == todo ==
     - [[kant-critiqueOfPureReason#cutting room floor#philosophers dogmatism]]
     - [[kant-critiqueOfPureReason#todo]]
+    - [[plato#todo]]
 
 == topic ==
+    - [[00]]
     - [[behaviourism]]
     - [[causation]]
     - [[conceivability_and_possibility]]
     - [[consciousness]]
+    - [[philosophers_dogmatism]]
 
 == underdetermination ==
     - [[lipkind1979-russellOnNotionOfCause#Russell on the notion of cause#we slice the world into objects]]
 
 == undisputed ==
+    - [[00#undisputed]]
     - [[conceivability_and_possibility#main#history]]
     - [[epistemic_internalism_vs_externalism#main#externalism]]
     - [[epistemic_safety_and_sensitivity]]

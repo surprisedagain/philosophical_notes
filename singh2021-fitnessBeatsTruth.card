@@ -1,0 +1,65 @@
+:article:represetation: <br>
+:quality0:influence4:agree0:draft1.0:
+= fitness beats truth =
+[: [[local:zz.texts/singh2021-fitnessBeatsTruth.pdf]], https://doi.org/10.1007/s10441-020-09400-0 :]
+====== short ======
+An unacceptably simplistic mathematical model is used in an attempt to show that
+representing the world doesn't pay off.
+
+====== related to ======
+So bad its not worth relating to anything at this point. If it becomes popular
+it may be worth linking to those later mentions
+
+= brief criticism =
+
+=== no point representing such a simple world ===
+The model/case they imagine is ridiculously restrictive. So There is not need to
+represent objects or structures out in the world because there are no objects
+interacting with each other - in fact nothing happens in the world at all. So
+the creatures are in such a simple world that there is no point/survival value
+is representing what goes on in the world. 
+
+That was my main objection - but that criticism (though I think it still
+correct) is not the best I have heard - there was someone else on the server who
+did a great job of dismantling it. let me try and remember:
+
+=== real problem is binary thinking ===
+To translate the situation modelled in the paper into ordinary language: there
+are these creatures who eat apples. There are two colours of apple: red and
+green. Red apples come in two varieties: common nothing burgers (nothing
+apples?) and very rare but highly nutritious apples. Green apples are always
+somewhat more nutritious than nothing apples.
+
+Creatures are given a selection of red and green apples and must choose one to
+eat.
+
+"Truth seekers" see a red apple and concludes that it is a nothing apple since
+they are far more common. Thus given a choice they will choose green apples.
+
+"Fitness seekers" in a sense don't care whether red apples are nothing apples or
+highly nutritious - they just know that they are rewarded for eating red apples
+(because the occasional nutritious red more than makes up for all the lost
+opportunities in eating nothing apples).
+
+This is not a choice between <q>truth</q> and <q>fitness</q>. Its a choice
+between those who can, in a sense form the belief that there is a 10% (or
+whatever) chance of red apples being highly nutritious, and those how can only
+form binary beliefs - creatures who can only believe <q>Its a nothing apple</q>
+<q>Its a nutritious apples</q>.  The <q>truth seekers</q> can only form
+binary/absolute beliefs. They are unable to unable to form the belief "there is
+a 20% chance its highly nutritious and 80% chance its a nothing apple".
+
+If you are that kind of creature then it probably IS a good idea not to form
+beliefs about the world. But WE are NOT that sort of creature so meh - who
+cares. The take home message is, I suppose, sufficiently stupid creatures in
+sufficiently simple worlds shouldn't bother having beliefs. (Though even that is
+generous - perhaps the real take home is - having degrees of belief is good.)
+
+The whole paper is kind of awful - the key info about their mathematical model is
+buried in an appendix which is far away from the rest of the description of
+the thought experiment - making it needlessly (perhaps deliberately?)
+difficult to understand. The numbers of the example of very carefully chosen.
+The probability notation is wrong in a few key places, and there is just a lot
+of misdirection to distract from how bad the basic maths/example really is. A
+terrible paper that may go beyond mere incompetence to being actively
+deceptive.
