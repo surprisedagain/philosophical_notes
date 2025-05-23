@@ -1,6 +1,6 @@
-:issue:consciousness:draft0.3: <br>
-:causation:
-:presentable:good-point:
+:issue:consciousness:causation: <br>
+:draft0.3: <br>
+:presentable:my-good-point:
 = philosophical zombies =
 
 ====== short ====== 
@@ -11,9 +11,11 @@ structure gives rise to their behaviour, that behaviour will be
 indistinguishable from that of humans who have experiences.
 
 ====== related to ====== 
+[[epistemological_original_sin]]++,
 [[consciousness]], [[causation]],
-[[epistemological_original_sin]]!!,
 [[dennett2017-historyOfQualia]]-,
+
+[[wn.rLN:introspection_not_a_source_of_theoretical_knowledge]]-
 
 [[local:zz.texts/chalmers1996-consciousMind.pdf]]+++,
 [[local:zz.texts/kirk1974-sentienceAndBehaviour.pdf]]++,
@@ -29,7 +31,7 @@ conscious experience in his article [[local:zz.texts/kirk1974-sentienceAndBehavi
     Can it make sense to say that something indistinguishable from a man might
     still be different in the radical way imagined? Even if the description can
     be adequately clarified, doesn't it involve contradictions or conceptual
-    absurdities?
+    absurdities? <br>
     <br>
     My aim is to show that it is indeed logically possible for there to be
     organisms answering to the description I have given (Zombies, for short). My
@@ -50,7 +52,8 @@ zombies lack of conscious experience, is from Iris Murdoch's book
 [[https://doi.org/10.4324/9781315887524|_The Sovereignty of Good_]] (1970).
 
 == connection with epistemological original sin ==
-:potential:!7: connection with [[introspection_not_admissible_scientific_evidence]]
+:develop:!7: connected with [[epistemological_original_sin]]
+iand with [[wn.rLN:introspection_not_a_source_of_theoretical_knowledge]]
 
 Philosophical zombies were thought up as a argument against functionalism.
 
@@ -70,8 +73,7 @@ The intuition we are exploring here is that these two views are because
 
 
 == argument concerning lone experiences ==
-:good7:
-:!7: consciousness and causal structure
+:develop:!7: consciousness and causal structure
 An awful lot hinges on the conceivability of philosophical zombies. And the
 general argument
 
@@ -86,14 +88,14 @@ are a special case)
 
 but even pain, philosophers exemplary example of a mental state (more louche
 modern philosophers consider orgasm). And the reason for these banal choices 9as
-oppsed to anguish, delight, despair, schadenfraude, lust, hope, nervous anxiety,
-deep resentment, misery. For some of are obvsiouly complicated by virtue of
-having an element of representational content.  One is [[delighmed]] _by_ something
+opposed to anguish, delight, despair, schadenfraude, lust, hope, nervous anxiety,
+deep resentment, misery. For some of are obviously complicated by virtue of
+having an element of representational content.  One is delighted _by_ something
 or some state of affairs, lusts _for_ someone (or something or some
 act to be performed), hopes for something to happen (or not happen). But it is
-far from clear that they _all_ must always involve . One can be miserable
-_about_ something, but sometimes it at least seems that one is just miserable.
-Even in the cases 
+far from clear that they _all_ must always involve content orrelations to other
+objects. One can be miserable _about_ something, but sometimes it at least seems
+that one is just miserable.  Even in the cases 
 
 Misery requires a constellation of attitudes, emotional states, aptitudes and
 desires and tendencies to form such even if it is not misery about somethig or
@@ -109,7 +111,7 @@ It is precisely because they wrap themselves around these causally structured
 physical objects that they are the mental states they are. Qualia are, so to
 speak, whisper thin. One may wonder whether the connection
 
-The connection with causla roles is not accidental. The question of whether it
+The connection with causal roles is not accidental. The question of whether it
 is itself causal necessary, or discernable by metaphysical or conceptual
 analysis, is itself
 
@@ -176,7 +178,7 @@ attacking thin qualia
 
 === knowledge of qualia insensitive ===
 connects with [[epistemic_safety_and_sensitivity]]
-:potential:
+:develop:
 ???? THIS COULD BE VALUABLE AND INCOPORATED INTO RLN ????
 Just because Dennett's objection to qualia (the lack of scope for their causal
 influence) is misplaced, that doesn't imply that there are qualia or even that

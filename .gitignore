@@ -1,15 +1,16 @@
 .DS_Store
+
+# vi files
 .vimwiki_tags
+Session.vim
+*.swp
+*.swo
+# all vi autobackups (made on startup)
+.bkp/
+
 00.card
 01.card
-Session.vim
+commitNotes
 
 zz.texts
 zz.discordReadingGroup
-
-# vi swp files
-*.swp
-*.swo
-
-# all vi autobackups (made on startup)
-.bkp/

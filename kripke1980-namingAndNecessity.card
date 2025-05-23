@@ -1,4 +1,4 @@
-:book:modality: <br>
+:book:modality:representation: <br>
 :quality6:influence9:agree3:draft0.1:!7: <br>
 :key-opposition:
 = Naming and Necessity =
@@ -17,7 +17,7 @@ Perhaps the most influential exposition of the new modal actualism.
 == rigid designation akin to scope ==
 The whole rigid designator issue is a kind of scope error.
 
-I = the person who utters this statement = ∃x utters this statement . . . 
+I = the person who utters this statement = ∃x x utters this statement . . . 
 
 Of course the <q>this</q> is still indexical. It may be that the ancients were
 wrong and indexicals are ineliminable. But the relationship that holds between
@@ -28,15 +28,18 @@ scope, non-rigid is wide scope.
 
 == theses / foundations ==
 === the importance of identity ===
-It seems the fundamental principle that 
+It seems the fundamental principle that
+see end of next section for Quinean version of the requirement of identity and
+Kripke's disruption of the fundamental computational/inferential role of
+identity (substitution always guarantees truth).
 
 = notes on first reading by section =
 == preface ==
     The model theory made this completely clear, though it should have been
     clear enough on the intuitive level. Waiving fussy considerations deriving
     from the fact that x need not have necessary existence, it was clear from
-    (x) NN (x = x) and Leibnitz's law that identity is an 'internal' relation:
-    (x) (y) (x = y => NN x = y). (What pairs (x, y) could be counterexamples?
+    (x) ☐  (x = x) and Leibnitz's law that identity is an 'internal' relation:
+    (x) (y) (x = y => ☐ x = y). (What pairs (x, y) could be counterexamples?
     Not pairs of distinct objects, for then the antecedent is false; nor any
     pair of an object and itself, for then the consequent is true.) If 'a' and
     'b' are rigid designators, it follows that 'a = b', if true, is a necessary
@@ -48,13 +51,13 @@ controversial (but less clearly said by Leibniz) indiscernability of identicals
 (see [[identity_of_indiscernables#Leibnizs law]]):
 |----------------------------------|
 | (x)(y)( x = y =>. F(x) => F(y) ) |
-In this case the open formula in place of F(...) is: NN ( x = ... ) producing:
-|--------------------------------------------|
-| (x)(y)( x = y =>. NN(x = x) => NN(x = y) ) |
+In this case the open formula in place of F(...) is: ☐ ( x = ... ) producing:
+|------------------------------------------|
+| (x)(y)( x = y =>. ☐(x = x) => ☐(x = y) ) |
 
-from that and (z)NN(z = z) it may be inferred that
-|------------------------------|
-| (x)(y)( x = y => NN(x = y) ) |
+from that and (z)☐(z = z) it may be inferred that
+|-----------------------------|
+| (x)(y)( x = y => ☐(x = y) ) |
 
 This pattern of inference involves
 two points:
@@ -62,7 +65,7 @@ two points:
 At first glance this appears to be a beautiful explication of internal
 relations. It is at least prima facie appealing that a relation R is internal
 iff:
-    (x) (y) ( x R y => NN x R y )
+    (x) (y) ( x R y ⊃ ☐ x R y )
 But what gives this the sense of substance is the universal quantification of x
 and y.  Does it really have to be the case that if a relationship is internal
 for one pair of objects then it is internal for all the pairs of objects for
@@ -70,14 +73,14 @@ which it obtains? (And likewise for properties, if it is internal for one
 object/type of object must be be internal for all??). That is the claim made in
 that Kripke's suggested explication of <q>internal property</q>.
 
-But consider the table in my kitchen and the table in my
+However, consider the table in my kitchen and the table in my
 living room. I presume that it is not necessarily true that my kitchen table is
 longer than my living room table. If I dub my kitchen table <q>Alia</q> and my
 living room table <q>Beethoven</q> so that they are <q>rigidly designated</q> by
 these names then I presume (sadly I seem to lack the relevant modal intuitions)
-it is not necessarily the case that Alia is longer than Beethoven. Hence the
-relationship of being longer than is not an internal relationship by Kripke's
-definition.
+that it is not necessarily the case that Alia is longer than Beethoven. Hence
+the relationship of being longer than is not an internal relationship by
+Kripke's definition.
 
 But, to build upon an example Kripke presents in [[#lecture 1]], consider
 the relationship between 2 metres and 1 metre (if you are uncomfortable reifying
@@ -89,7 +92,7 @@ kind of object?
 
 A natural suggestion is to can relativise internal relationships to types of
 object.  Relation R is internal for objects of type T iff:
-    (x)(y) (T(x) and T(y) and x R y .=> NN x R y)
+    (x)(y) (T(x) and T(y) and x R y .⊃ ☐ x R y)
 In this manner we may recognise Being longer than, as an internal relationship
 for lengths, but not for tables.  But this won't seem to do:
 
@@ -107,36 +110,63 @@ designates Ali.
 Now it is not true that <q>Necessarily the red car on my street is the Holden on
 my street</q> but it is true that <q>Necessarily, the object designated by 'the
 red car on my street' is identical to the object designated by 'the Holden on
-my street'</q>. So within the scope of a NN replacing a name <q>N</q> with
-<q>the object referred to be 'N'</q> does not always preserve truth.
+my street'</q>. So within the scope of a ☐ replacing a name <q>N</q> with
+<q>the object referred to by the phrase 'N'</q> does not always preserve truth.
 
-More generally <q>NN P(the object referred to by 'Name')</q> may be true and yet
-<q>NN P(Name)</q> be false. (We don't have to consider P as just a predicate
-here, but as any closed formula.) It is, I suppose, true that <q>Necessarily the
-object designated by 'the red car on my street' was built in China.</q> but
-false that <q>Necessarily the red car on my street was built in China.</q> but 
+More generally <q>☐ P(the object referred to by 'Name')</q> may be true and yet
+<q>☐ P(Name)</q> be false. (We don't have to consider P as just a predicate
+here, but as any closed formula.) It is, apparently, true by Kripke's standards
+(given his later claims that objects have thier origins essentially) that
+<q>Necessarily the object designated by 'the red car on my street' was built in
+China.</q> but false that <q>Necessarily the red car on my street was built in
+China.</q>
 
-We have not quite broken the principle that substituting any name for both
-instances of 'N' in <q>'N' designates N</q> produces a truth. (A principle that
+This does not break the principle that substituting any name for both
+instances of 'N' in <q>'N' denotes N</q> produces a truth. (A principle that
 seems seems every bit as non-negotiable as <q>'P' is true iff P</q>.) But we do
-have a startling failure of substitutivity that comes close.
+have a startling failure of substitutivity that comes close – a strange breach
+of referential disquotation.
 
-Naively one would have thought that quotation marks around a term (name or
-definite description) and <q>the object refered to by ...</q>, would express
-kind of inverse operations. Just as quotation marks applied to sentences and
-<q>is true</q>. When one applies <q>is true</q> to a quoted sentence one gets
-another that is true just in case the quoted original is true.  Indeed this is
-what (I thought) the disquotational theory of truth was all about.
-(See [[disquotational_truth]])
+Naively one would have thought that quotation
+marks around a term (name or definite description) and <q>the object denoted by
+by ...</q>, would express kind of inverse operations. Just as quotation marks
+applied to sentences and <q>is true</q>. When one applies <q>is true</q> to a
+quoted sentence one gets another that is true just in case the quoted original
+is true.  Indeed this is what (I thought) the disquotational theory of truth was
+all about.  (See [[disquotational_truth]]) but this
 
-So a sentence containing <q>Necessarily</q> can go from false to true by
-replacing <q>the red car on my street</q> with <q>the object designated by 'the
-red car on my street'</q>
+This is a high price to pay. For non rigid designators within the scope
+of necessity operators substitutivity fails. Breaking the complexity of the
+underlying logic.
 
-This seems quite a high price to pay. For non rigid designators within the scope
-of necessity operators substitutivity fails.
+If substitutivity fails _in this case_, if one can't even substitute <q>the object
+designated by 'P'</q> for 'P', without changing truths to falsehoods then there
+is surely no hope for some criteria for transworld identity (which would amount
+to a standard for new transworld entities). We could tell when two terms refer
+to the same entity, and when they do not.
+
+Viewed from the point of view of computational complexity
+
 
 == lecture 1 ==
+
+Phase 1 of this lecture sets about the task of refreshing readers' memory of
+Fregean/Russellian accounts of (ordinary) names as (analysable into) definite
+descriptions. (Ordinary names of objects that are not, in Russell's terminology,
+known by acquaintance.) Then this is widened to include more somewhat more
+complex (and perhaps more vague, though Kripke doesn't bring that into the
+picture) then a widening of this account into clusters or families.
+
+At this point Kripke confuses two different accounts of names - he describes
+both as <q>What we really associate with the name is a family of
+descriptions.</q> But takes this as describing both Frege's account that <q>In
+the case of genuinely proper names like 'Aristotle' opinions as regards their
+sense may diverge.</q> According to which different speakers use the name
+<q>Aristotle</q> to express different senses – but <q>As long as the nominatum
+remains the same, these fluctuations in sense are tolerable</q>
+
+And he takes it as describing a more or less Wittgensteinian
+
 === rigid designators ===
 
 

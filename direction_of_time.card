@@ -1,6 +1,6 @@
-:issue:physics-problems:draft0.2:
+:issue:physics-problem: <br>
+:draft0.2:
 = direction of time =
-
 ====== short ======
 What are the features which allow us to determine which direction in time is the
 future and which is the past?
@@ -29,14 +29,14 @@ or other doesn't apply in the probabilistic case may be legitimate.
 
 Now on the one hand laws of physics are time symmetric, travel in either
 direction along these trajectories is permitted by the laws of physics. A
-trajectory from StateA to StateB is just as much a trajectory from StateB to
+trajectory from StateA to StateB is equally a trajectory from StateB to
 StateA.
 
 But on the other hand the second law of thermodynamics says that entropy in this
 (total) system is monotonically increasing. That for all t,,1,, and t,,2,, if
-t,,2,, is after t,,1,, the entropy of the system at t,,1,, is less than or equal
-to the entropy of the system as t,,2,,.
-[AAt,,1,,, t,,2,, (Earlier(t,,1,,,  t,,2,,) =>. E(S, t,,1,,) <= E(S, t,,2,,) )]
+t,,2,, is after t,,1,, the entropy of the system at t,,2,, is greater than or equal
+to the entropy of the system as t,,1,,.
+[ ∀t,,1,,, t,,2,,(Later(t,,2,,,  t,,1,,) =>. E(S, t,,2,,) >= E(S, t,,1,,)) ]
 
 Now the puzzle is set - according to the laws of physics entropy decreasing
 paths are just as physically possible/likely as entropy increasing, but
@@ -47,7 +47,7 @@ There are many fewer low entropy states than there are high entropy states.
 
 This solution feels rather Bayesian. OK the number/likelihood of
 high entropy -> low paths is exactly the same as that of low -> high entropy
-paths, but (the Bayesian says, as they always do) you are ignoring the base
+paths but, the Bayesian says (as they always do) this is to ignore the base
 rate. The vast majority of paths are high -> high entropy states.
 
 _Given_ that you have a path with one low entropy end, the odds
@@ -81,7 +81,7 @@ high entropy state. While not a <q>new rationale for skepticism</q> it is a
 _reductio ad absurdum_ of this explanation for (future) increasing entropy.
 
 == local time direction ==
-:todo:
+:!3:
 Some philosophers, such as Huw Price, seem to take seriously the possibility
 that time's arrow does not point in the same direction in all aprts of the
 universe. This seems preposterous to me, but since others 

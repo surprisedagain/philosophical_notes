@@ -10,7 +10,7 @@
 
 %% :T <tagname>    # opens locationlist with matching tags
 %% :S <term>       # opens locationlist with matching terms
-%% !grep -ho ':\w*:' * | sort | uniq	# list all tags
+%% ~/bin/tags *    # list all tags in * files
 
 === idiosyncratic tags ===
 - *bit:* - Informal. An amusement, a funny thing to say, a bit of business.
@@ -120,7 +120,7 @@
 == article ==
     - [[00]]
     - [[bealer2002-modalEpistemologyRationalistRenaissance]]
-    - [[chisholm1987-truths_of_reason]]
+    - [[chisholm1966-truthsOfReason]]
     - [[dennett1976-areDreamsExperiences]]
     - [[dennett2017-historyOfQualia]]
     - [[fodor1964-onKnowingWhatWeWouldSay]]
@@ -429,7 +429,7 @@
 
 == modality ==
     - [[bealer2002-modalEpistemologyRationalistRenaissance]]
-    - [[chisholm1987-truths_of_reason]]
+    - [[chisholm1966-truthsOfReason]]
     - [[fodor1964-onKnowingWhatWeWouldSay]]
     - [[kripke1980-namingAndNecessity]]
     - [[lewis1986-pluralityOfWorlds]]
@@ -533,7 +533,7 @@
 == reasoning ==
     - [[a_grue_solution]]
     - [[bealer2002-modalEpistemologyRationalistRenaissance]]
-    - [[chisholm1987-truths_of_reason]]
+    - [[chisholm1966-truthsOfReason]]
     - [[philosophers_dogmatism]]
     - [[putnam1968-logicOfquantumMechanics]]
     - [[putnam1982-whyReasonCantBeNaturalized]]
@@ -554,7 +554,7 @@
     - [[singh2021-fitnessBeatsTruth]]
 
 == response ==
-    - [[chisholm1987-truths_of_reason]]
+    - [[chisholm1966-truthsOfReason]]
 
 == rough ==
     - [[putnam1968-logicOfquantumMechanics]]

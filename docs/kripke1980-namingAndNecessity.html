@@ -10,7 +10,7 @@
 <body>
 
 <p>
-<span id="-book"></span><span class="tag" id="book"><a href="tag_index.html#book">book</a></span> <span id="-modality"></span><span class="tag" id="modality"><a href="tag_index.html#modality">modality</a></span> <br>
+<span id="-book"></span><span class="tag" id="book"><a href="tag_index.html#book">book</a></span> <span id="-modality"></span><span class="tag" id="modality"><a href="tag_index.html#modality">modality</a></span> <span id="-representation"></span><span class="tag" id="representation"><a href="tag_index.html#representation">representation</a></span> <br>
 <span id="-quality6"></span><span class="tag" id="quality6"><a href="tag_index.html#quality6">quality6</a></span> <span id="-influence9"></span><span class="tag" id="influence9"><a href="tag_index.html#influence9">influence9</a></span> <span id="-agree3"></span><span class="tag" id="agree3"><a href="tag_index.html#agree3">agree3</a></span> <span id="-draft0.1"></span><span class="tag" id="draft0.1"><a href="tag_index.html#draft0.1">draft0.1</a></span> <span id="-!7"></span><span class="tag" id="!7">!7</span> <br>
 <span id="-key-opposition"></span><span class="tag" id="key-opposition"><a href="tag_index.html#key-opposition">key-opposition</a></span>
 </p>
@@ -41,7 +41,7 @@ The whole rigid designator issue is a kind of scope error.
 </p>
 
 <p>
-I = the person who utters this statement = ∃x utters this statement . . . 
+I = the person who utters this statement = ∃x x utters this statement . . . 
 </p>
 
 <p>
@@ -56,7 +56,10 @@ scope, non-rigid is wide scope.
 <div id="observations-theses / foundations"><h2 id="theses / foundations" class="header"><a href="#observations-theses / foundations">theses / foundations</a></h2></div>
 <div id="observations-theses / foundations-the importance of identity"><h3 id="the importance of identity" class="header"><a href="#observations-theses / foundations-the importance of identity">the importance of identity</a></h3></div>
 <p>
-It seems the fundamental principle that 
+It seems the fundamental principle that
+see end of next section for Quinean version of the requirement of identity and
+Kripke's disruption of the fundamental computational/inferential role of
+identity (substitution always guarantees truth).
 </p>
 
 <div id="notes on first reading by section"><h1 id="notes on first reading by section" class="header"><a href="#notes on first reading by section">notes on first reading by section</a></h1></div>
@@ -65,8 +68,8 @@ It seems the fundamental principle that
 The model theory made this completely clear, though it should have been
 clear enough on the intuitive level. Waiving fussy considerations deriving
 from the fact that x need not have necessary existence, it was clear from
-(x) NN (x = x) and Leibnitz's law that identity is an 'internal' relation:
-(x) (y) (x = y &sup; NN x = y). (What pairs (x, y) could be counterexamples?
+(x) ☐  (x = x) and Leibnitz's law that identity is an 'internal' relation:
+(x) (y) (x = y &rArr; ☐ x = y). (What pairs (x, y) could be counterexamples?
 Not pairs of distinct objects, for then the antecedent is false; nor any
 pair of an object and itself, for then the consequent is true.) If 'a' and
 'b' are rigid designators, it follows that 'a = b', if true, is a necessary
@@ -81,26 +84,26 @@ controversial (but less clearly said by Leibniz) indiscernability of identicals
 <table>
 <tr>
 <td>
-(x)(y)( x = y &sup;. F(x) &sup; F(y) )
+(x)(y)( x = y &rArr;. F(x) &rArr; F(y) )
 </td>
 </tr>
 </table>
-In this case the open formula in place of F(&hellip;) is: NN ( x = &hellip; ) producing:
+In this case the open formula in place of F(&hellip;) is: ☐ ( x = &hellip; ) producing:
 <table>
 <tr>
 <td>
-(x)(y)( x = y &sup;. NN(x = x) &sup; NN(x = y) )
+(x)(y)( x = y &rArr;. ☐(x = x) &rArr; ☐(x = y) )
 </td>
 </tr>
 </table>
 </p>
 
 <p>
-from that and (z)NN(z = z) it may be inferred that
+from that and (z)☐(z = z) it may be inferred that
 <table>
 <tr>
 <td>
-(x)(y)( x = y &sup; NN(x = y) )
+(x)(y)( x = y &rArr; ☐(x = y) )
 </td>
 </tr>
 </table>
@@ -117,7 +120,7 @@ relations. It is at least prima facie appealing that a relation R is internal
 iff:
 </p>
 <blockquote>
-(x) (y) ( x R y &sup; NN x R y )
+(x) (y) ( x R y ⊃ ☐ x R y )
 </blockquote>
 <p>
 But what gives this the sense of substance is the universal quantification of x
@@ -129,14 +132,14 @@ that Kripke's suggested explication of <q>internal property</q>.
 </p>
 
 <p>
-But consider the table in my kitchen and the table in my
+However, consider the table in my kitchen and the table in my
 living room. I presume that it is not necessarily true that my kitchen table is
 longer than my living room table. If I dub my kitchen table <q>Alia</q> and my
 living room table <q>Beethoven</q> so that they are <q>rigidly designated</q> by
 these names then I presume (sadly I seem to lack the relevant modal intuitions)
-it is not necessarily the case that Alia is longer than Beethoven. Hence the
-relationship of being longer than is not an internal relationship by Kripke's
-definition.
+that it is not necessarily the case that Alia is longer than Beethoven. Hence
+the relationship of being longer than is not an internal relationship by
+Kripke's definition.
 </p>
 
 <p>
@@ -154,7 +157,7 @@ A natural suggestion is to can relativise internal relationships to types of
 object.  Relation R is internal for objects of type T iff:
 </p>
 <blockquote>
-(x)(y) (T(x) and T(y) and x R y .&sup; NN x R y)
+(x)(y) (T(x) and T(y) and x R y .⊃ ☐ x R y)
 </blockquote>
 <p>
 In this manner we may recognise Being longer than, as an internal relationship
@@ -182,47 +185,82 @@ designates Ali.
 Now it is not true that <q>Necessarily the red car on my street is the Holden on
 my street</q> but it is true that <q>Necessarily, the object designated by 'the
 red car on my street' is identical to the object designated by 'the Holden on
-my street'</q>. So within the scope of a NN replacing a name <q>N</q> with
-<q>the object referred to be 'N'</q> does not always preserve truth.
+my street'</q>. So within the scope of a ☐ replacing a name <q>N</q> with
+<q>the object referred to by the phrase 'N'</q> does not always preserve truth.
 </p>
 
 <p>
-More generally <q>NN P(the object referred to by 'Name')</q> may be true and yet
-<q>NN P(Name)</q> be false. (We don't have to consider P as just a predicate
-here, but as any closed formula.) It is, I suppose, true that <q>Necessarily the
-object designated by 'the red car on my street' was built in China.</q> but
-false that <q>Necessarily the red car on my street was built in China.</q> but 
+More generally <q>☐ P(the object referred to by 'Name')</q> may be true and yet
+<q>☐ P(Name)</q> be false. (We don't have to consider P as just a predicate
+here, but as any closed formula.) It is, apparently, true by Kripke's standards
+(given his later claims that objects have thier origins essentially) that
+<q>Necessarily the object designated by 'the red car on my street' was built in
+China.</q> but false that <q>Necessarily the red car on my street was built in
+China.</q>
 </p>
 
 <p>
-We have not quite broken the principle that substituting any name for both
-instances of 'N' in <q>'N' designates N</q> produces a truth. (A principle that
+This does not break the principle that substituting any name for both
+instances of 'N' in <q>'N' denotes N</q> produces a truth. (A principle that
 seems seems every bit as non-negotiable as <q>'P' is true iff P</q>.) But we do
-have a startling failure of substitutivity that comes close.
+have a startling failure of substitutivity that comes close – a strange breach
+of referential disquotation.
 </p>
 
 <p>
-Naively one would have thought that quotation marks around a term (name or
-definite description) and <q>the object refered to by &hellip;</q>, would express
-kind of inverse operations. Just as quotation marks applied to sentences and
-<q>is true</q>. When one applies <q>is true</q> to a quoted sentence one gets
-another that is true just in case the quoted original is true.  Indeed this is
-what (I thought) the disquotational theory of truth was all about.
-(See <a href="disquotational_truth.html">disquotational_truth</a>)
+Naively one would have thought that quotation
+marks around a term (name or definite description) and <q>the object denoted by
+by &hellip;</q>, would express kind of inverse operations. Just as quotation marks
+applied to sentences and <q>is true</q>. When one applies <q>is true</q> to a
+quoted sentence one gets another that is true just in case the quoted original
+is true.  Indeed this is what (I thought) the disquotational theory of truth was
+all about.  (See <a href="disquotational_truth.html">disquotational_truth</a>) but this
 </p>
 
 <p>
-So a sentence containing <q>Necessarily</q> can go from false to true by
-replacing <q>the red car on my street</q> with <q>the object designated by 'the
-red car on my street'</q>
+This is a high price to pay. For non rigid designators within the scope
+of necessity operators substitutivity fails. Breaking the complexity of the
+underlying logic.
 </p>
 
 <p>
-This seems quite a high price to pay. For non rigid designators within the scope
-of necessity operators substitutivity fails.
+If substitutivity fails <em>in this case</em>, if one can't even substitute <q>the object
+designated by 'P'</q> for 'P', without changing truths to falsehoods then there
+is surely no hope for some criteria for transworld identity (which would amount
+to a standard for new transworld entities). We could tell when two terms refer
+to the same entity, and when they do not.
 </p>
+
+<p>
+Viewed from the point of view of computational complexity
+</p>
+
 
 <div id="notes on first reading by section-lecture 1"><h2 id="lecture 1" class="header"><a href="#notes on first reading by section-lecture 1">lecture 1</a></h2></div>
+
+<p>
+Phase 1 of this lecture sets about the task of refreshing readers' memory of
+Fregean/Russellian accounts of (ordinary) names as (analysable into) definite
+descriptions. (Ordinary names of objects that are not, in Russell's terminology,
+known by acquaintance.) Then this is widened to include more somewhat more
+complex (and perhaps more vague, though Kripke doesn't bring that into the
+picture) then a widening of this account into clusters or families.
+</p>
+
+<p>
+At this point Kripke confuses two different accounts of names - he describes
+both as <q>What we really associate with the name is a family of
+descriptions.</q> But takes this as describing both Frege's account that <q>In
+the case of genuinely proper names like 'Aristotle' opinions as regards their
+sense may diverge.</q> According to which different speakers use the name
+<q>Aristotle</q> to express different senses – but <q>As long as the nominatum
+remains the same, these fluctuations in sense are tolerable</q>
+</p>
+
+<p>
+And he takes it as describing a more or less Wittgensteinian
+</p>
+
 <div id="notes on first reading by section-lecture 1-rigid designators"><h3 id="rigid designators" class="header"><a href="#notes on first reading by section-lecture 1-rigid designators">rigid designators</a></h3></div>
 
 

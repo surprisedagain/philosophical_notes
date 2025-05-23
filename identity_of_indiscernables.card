@@ -5,7 +5,7 @@ The thesis that any objects instantiating exactly the same properties must
 be identical.
 
 ====== related to ======
-[[kripke1980-namingAndNecessity]],
+[[kripke1980-namingAndNecessity]]+,
 [[extensional]],
 [[local:zz.texts/quine1961-fromALogicalPointOfView.pdf]] (<q>identification of
 indiscernables</q>, <q>Giorgione</q>)
@@ -35,7 +35,7 @@ identity of indiscernibles.
 == principle of substitution ==
 Leibniz also states something akin to a principle of substitution:
     Eadem sunt quorum unum in alterius locum substitui pote salva veritate<br>
-    (Gerhardt, _Die Philosophischen Schriften von G. W. Leibniz_ Vol. VII)
+    (Gerhardt, _Die Philosophischen Schriften von G. W. Leibniz_, Vol. VII)
 which has been translated as:
     Things are the same (or identical), one of which can be substituted in place
     of the other with preservation of truth
