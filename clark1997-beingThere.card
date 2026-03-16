@@ -1,0 +1,94 @@
+:book:representation:cognition: <br>
+:quality7:influence7:agree6: <br>
+:draft0.1:
+
+= being there: putting brain, body and world together again  =
+[: [[local:zz.texts/clark1997-beingThere.pdf]], https://doi.org/10.7551/mitpress/1552.001.0001 :]
+
+====== short ======
+Maybe an influential rejection of representational theories of mind?
+
+====== related to ======
+-[[dennett2017-historyOfQualia]]
+
+= main =
+
+== notes on first reading ==
+=== preface ===
+fp. 10 Representation vs symbolic representation
+    But ... a version of the old opposition between matter and mind
+    persists. It persists in the way we study brain and mind, excluding as
+    "peripheral" the roles of the rest of the body and the local environment.
+    It persists in the tradition of modeling intelligence as the production of
+    symbolically coded solutions to symbolically expressed puzzles. 
+
+This old opposition is the implicit <q>bad guy</q> of the picture which we are
+about to overcome. I agree that _symbolic_ representations (i.e. in language or
+language like symbols) are not the be-all and and end-all [or even the
+foundation] of cognition/reasoning. However, are we setting up to throw the
+representational baby out with the symbolic bathwater?
+
+fp. 11:
+    to abandon the idea of neat dividing lines between perception, cognition,
+    and action
+I think my view aligns neatly with this
+
+=== introduction ===
+very first paragraph, fp. 15:
+    Where are the artificial minds promised by 1950s science fiction and 1960s
+    science journalism? Why are even the best of our "intelligent" artifacts
+    still so unspeakably, terminally dumb? One possibility is that we simply
+    misconstrued the nature of intelligence itself. We imagined mind as a kind
+    of logical reasoning device coupled with a store of explicit data—a kind of
+    combination logic machine and filing cabinet.
+
+This has aged, if not poorly, then at least strangely.  It's not just that AI
+(or LLMs) have had an unexpected breakthrough. Its that this breakthough has
+been achieved by the very disembodied, inactive, purely language focused
+approach that Clark spends the next five pages decrying. Clark might argue (and
+I might agree) that the flaws of these LLMs (hallucinations, ludicrous errors
+etc.,) are ineliminable using current techniques, and are the result of the
+language focused approach he is complaining of. He is also right that this
+breakthrough was, at least partly, the result of abandoning attempts to encode
+logical (or even probabilistic) inferential relations between sentences (and
+instead focusing on the statistical relations between linguistic tokens in the
+streams produced by competent speakers). Still, if the failures of the old
+language-centric attempts to build "intelligent" artifacts counted against that
+approach, then surely its successes must count for it.
+
+More specifically, fp. 17:
+    CYC looks set to become a bigger, fancier, but still fundamentally brittle
+    and uncomprehending "expert system." Adding more and more knowledge to CYC
+    will not remedy this. 
+
+This is kind of the most shocking thing. All the clever people developing clever
+theories about minds and cognition didn't get that far. The successes
+of LLM's are not, primarily, due to the cleverness of their training algorithms
+(though there is room for some). The real driver of their successes is the huge
+quantity of data that has been fed into them. Just </q>Adding more and more
+knowledge</q>, more and more strings of symbols, *succeeded* in
+producing flexible, responsive and often reasonable conversational partners.
+
+=== 1.3 minds without models ===
+
+So there are at least two distinct themes (<q>morals</q>) that Clark extracts
+from the parade of robots that takes up the beginning of the books body:
+
+The first is lack of symbolic representation, the second is the lack of a
+<q>central planner</q>. Clark explicitly links the two:
+
+    The trouble with the central planner is that is profoundly impractical. It
+    introduces what Rodney Brooks aptly termed a "representational bottleneck"
+    blocking fast, real-time response. The reason is that the incoming sensory
+    information must be converted into a single symbolic code so that such a
+    planner can deal with it. And the planners' output will itself have to be
+    converted from its propriety code into the various formats needed to control
+    various types of motor response. These steps of translation are time-
+    consuming and expensive.
+
+==== lack of central planning ====
+The lack of central planning, but rather a range of competing (or at least
+interacting) subsystems, is very very reminiscent of Dennett's account of mental
+representational processes (see [[dennett2017-historyOfQualia]] and perhaps
+[[dennett1991-consciousnessExplained]]).
+

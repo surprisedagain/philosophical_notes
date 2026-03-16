@@ -1,0 +1,64 @@
+:modality: <br>
+:issue: <br>
+= contingent a posteriori and necessary a priori =
+====== short ======
+examples of the cases. An explanation of how they arise, and consideration of
+their relationship to indexicals/indexical like structures (variation of truth
+conditions due to different context of utterance or evaluation).
+
+====== related to ======
+[[kripke1980-namingAndNecessity]]++, [[putnam1975-meaningOfMeaning]]++
+
+++[[local:zz.texts/williamson1986-theContingentAPrioriHasItAnythingToDoWithIndexicals.pdf]]
+-> [[local:zz.texts/williamson11988-theContingentAPrioriAReply.pdf]] (a defence of the previous paper against a particular attack)
+
+== necessary a posteriori ==
+    All water is H2O.
+
+This statement, made in some contexts of utterance, is true in every possible
+world.
+Meaning ~= mapping (context of utterance) -> (truth conditions).
+In this possible world (the real world) the truth conditions that sentence is
+mapped to is the set of all possible worlds.
+
+There is no possible world in which water is not H,,2,,O. But there are possible
+worlds in which the term <q>water</q> (by people in some sense speaking the same
+language as us) denotes a different natural kind.
+
+In a world where the potable, transparent, wet stuff <q>around here</q> is XYZ
+and not water then <q>All water is H,,2,,O</q> is false. (Its truth conditions,
+as uttered in that possible world, are the empty set.)
+
+== contingent a priori ==
+Kripke's most famous example (from [[kripke1980-namingAndNecessity|_Naming and Necessity_]]) is:
+    The standard metre bar is one metre long at t₀.
+
+another example is:
+    I am here.
+
+In each (or at least many) world/context of utterance in which these statements
+are uttered their truth conditions are not all possible worlds.
+However, in each world/context in which it is uttered it is true.
+
+Another example in which is generally explained as turning on an indexical
+element, but in which the indexical is not overt:
+    'If anyone uniquely invented the zip, Julius did', where by stipulation
+    'Julius' rigidly designates the inventor of the zip (if there is one)
+    (from Davies 1981 via [[local:zz.texts/williamson1986-theContingentAPrioriHasItAnythingToDoWithIndexicals.pdf]])
+
+
+Rigid designators give rise to the same issues as indexicals since which object
+is designated by a rigid designator depends upon the world in which the name is
+bestowed.
+
+=== non-indexical examples ===
+Williamson's non-indexical example is:
+    There is at least one believer.
+and claims that this is knowable _a priori_ because
+This is *self-evident* but not necessary.
+
+This is silly. It is true in every world in which it is uttered but not true in
+every possible world. I can know it on the basis of my own existence (a la the
+[[descartes#cogito|cogito]]) and hence be certain of it.
+
+

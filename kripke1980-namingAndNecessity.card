@@ -93,7 +93,7 @@ kind of object?
 A natural suggestion is to can relativise internal relationships to types of
 object.  Relation R is internal for objects of type T iff:
     (x)(y) (T(x) and T(y) and x R y .⊃ ☐ x R y)
-In this manner we may recognise Being longer than, as an internal relationship
+In this manner we may recognise Being_Longer_Than, as an internal relationship
 for lengths, but not for tables.  But this won't seem to do:
 
 === weirdness with non-rigid designators ===
@@ -110,13 +110,14 @@ designates Ali.
 Now it is not true that <q>Necessarily the red car on my street is the Holden on
 my street</q> but it is true that <q>Necessarily, the object designated by 'the
 red car on my street' is identical to the object designated by 'the Holden on
-my street'</q>. So within the scope of a ☐ replacing a name <q>N</q> with
-<q>the object referred to by the phrase 'N'</q> does not always preserve truth.
+my street'</q>. So within the scope of a ☐ replacing a denoting phrase <q>N</q>
+with <q>the object referred to by the phrase 'N'</q> does not always preserve
+truth.
 
 More generally <q>☐ P(the object referred to by 'Name')</q> may be true and yet
 <q>☐ P(Name)</q> be false. (We don't have to consider P as just a predicate
 here, but as any closed formula.) It is, apparently, true by Kripke's standards
-(given his later claims that objects have thier origins essentially) that
+(given his later claims that objects have their origins essentially) that
 <q>Necessarily the object designated by 'the red car on my street' was built in
 China.</q> but false that <q>Necessarily the red car on my street was built in
 China.</q>
@@ -133,7 +134,7 @@ by ...</q>, would express kind of inverse operations. Just as quotation marks
 applied to sentences and <q>is true</q>. When one applies <q>is true</q> to a
 quoted sentence one gets another that is true just in case the quoted original
 is true.  Indeed this is what (I thought) the disquotational theory of truth was
-all about.  (See [[disquotational_truth]]) but this
+all about.  (See [[disquotational_truth]]) But this
 
 This is a high price to pay. For non rigid designators within the scope
 of necessity operators substitutivity fails. Breaking the complexity of the
@@ -157,15 +158,35 @@ known by acquaintance.) Then this is widened to include more somewhat more
 complex (and perhaps more vague, though Kripke doesn't bring that into the
 picture) then a widening of this account into clusters or families.
 
-At this point Kripke confuses two different accounts of names - he describes
-both as <q>What we really associate with the name is a family of
-descriptions.</q> But takes this as describing both Frege's account that <q>In
-the case of genuinely proper names like 'Aristotle' opinions as regards their
-sense may diverge.</q> According to which different speakers use the name
-<q>Aristotle</q> to express different senses – but <q>As long as the nominatum
-remains the same, these fluctuations in sense are tolerable</q>
+At this point Kripke somewhat carelessly mixes two different accounts of names -
+describing both as <q>What we really associate with the name is a family of
+descriptions.</q> But takes this as describing both
+	1) Frege's account that <q>In the case of genuinely proper names like
+	   'Aristotle' opinions as regards their sense may diverge.</q> According to
+	   which different speakers use the name <q>Aristotle</q> to express
+	   different senses – but <q>As long as the nominatum remains the same,
+	   these fluctuations in sense are tolerable</q>. I.e. each competent
+	   speaker uses 'Aristotle' in a different sense, but so long as those
+	   diverse senses are (uniquely?) true of the same person (i.e. Aristotle)
+	   uses each counts as using the name correctly.
+AND
+	2) The more or less Wittgensteinian view that the name expresses a kind of
+	   weighted cluster or family of descriptions. Few or none of them must be
+	   true of the object referred to by the relevant name. But a sufficient
+	   collection of them is required to be true of the named object (otherwise
+	   the named object does not exist/the name fails to refer).
 
-And he takes it as describing a more or less Wittgensteinian
+Kripke *does* justify the shift to (2) on the grounds that <q>even a single
+speaker when asked 'What description are you willing to substitute for the
+name?' may be quite at a loss. In fact, he may know many things about him; but
+any particular thing that he knows he may feel clearly expresses a contingent
+property of the object</q>. But his way of shifting from one to the other may
+mislead a less than scrupulous reader into confusing the two. He describes them
+both as ways of explaining how names don't express a simple shared definite
+description. (But Frege gives up shared, while Wittgenstein gives up simple.)
+Note: :my-thesis: of :non-linguistic-representation: solves this problem.
+
+Then he distinguishes between these (clusters of)
 
 === rigid designators ===
 

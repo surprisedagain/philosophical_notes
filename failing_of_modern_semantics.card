@@ -1,0 +1,56 @@
+:representation: <br>
+:idea:bit:RLN: <br>
+:draft0.0:
+:undisputed:discord-reading:presentable:
+= common failoing of semantic =
+====== short ======
+
+====== related to ======
+https://plato.stanford.edu/entries/dynamic-semantics/
+
+= main =
+We consider a situation in which a sentence might have different
+<q>meanings</q>. In this condition or in this context this sentence is true (or
+better yet grammatical) but in this context the setnece is clearly false (or
+better yet ungrammatical)
+
+One, purely lingusitic change of context is exemplified by the first example
+from the article:
+https://plato.stanford.edu/entries/dynamic-semantics/
+
+    Mary met a student yesterday. He needed help.
+
+In this (somehow annoyingly trivial) example the meaning of <q>He needed
+help.</q> depends upon its context which includes the sentence preceeding it.
+Another only half remembered example was <q>He passed the ball forwards</q>
+or something similar - was it the different meanings of passed, and the specific
+standard in the context of rugby - or was it aome jargon term of soccer which
+changes meaning in context.
+
+We then invent a theory of semantics AND OF HIDDEN SEMANTIC STRUCTURE (or in the
+case of <q>dynamic semantics</q> a hidden process).
+
+It reminds me of the Dalai Lama's rejection of psychotherapy - on the grounds
+that it sometimes leaves out what happens in a past life. The problem isn't
+caused by just what has happened to this body/life, and if you only look there
+you are unduly restricting yuour attention. Now obviously I don't beleive in
+re-incarnation (or at least not in a way that what happened in a previous life
+can affect ones
+
+
+There is a reasonable gounds to insist that syntax, and the mapping from syntax
+to parse tree, or other semantic structures should be decidable.
+
+
+There is more fittin into existing theory. and that theory is too rich to be
+captured in the semantic structure of the de-contextualised sentence.
+
+The is dea that we can come up with the (or even a) semantic structure which has
+this meaning in this context and that meaning in that context and that the job
+will be done when every way it unpacks in every context is accounted for (or
+nver done becasue it can never be accounted for) is a silly and unhelpfully
+distracting theory.
+
+This way does not lie wisdom but trivia.
+
+=== Somewhat contrarian pushback ===
