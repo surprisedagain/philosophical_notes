@@ -1,8 +1,8 @@
 :book:draft0.1:
 = critique of pure reason =
 === short ===
-[[local:zz.texts/kant1787-critiqueOfPureReason.Pluhar.trans.pdf]]<br>
-by [[kant]], published 1781/87 Pluhar Translation
+[[local:zz.texts/kant1787-critiqueOfPureReason.pluharTrans.pdf]]<br>
+published 1781/87
 
 = notes on first reading =
 == preface to second edition ==
@@ -19,10 +19,10 @@ What do the supposed <q>revolutions</q> in geometry, physics/science and
     . . . what necessarily follows from what he has himslef set into it in
     accordance with his concept.
 This supposed resemblance between the (newly proposed correct method of)
-metaphysics and geometry is the least strained.  Here Kant is hining at
-the felt defectiveness of Euclid's Elements  to the
-Euclid's elements (in a handful of key points) upon 
-
+metaphysics and geometry is the least strained.  Here Kant is hinting at
+the felt defectiveness of Euclid's Elements (in a handful of key points)
+where it relies upon visualisations / evident truths that can readily be
+readily discerned in the diagram.
 
 ==== science ====
 (the most tenuous of the three)<br>
@@ -44,11 +44,11 @@ Ah in all cases our reasoning, or at least the production of knowledge by
 reason, relies upon sensitivity to what we have <q>put into</q> the subject of
 enquiry. The science example is the least plausible. Is it really the claim that
 it is in principle impossible to make scientific advances in ethnography or
-astronomy where experiment cannot or are not conducted?
+astronomy where experiments are not or cannot be conducted?
 
 We may view it as a method of introducing the <q>copernican revolution</q> in
 metaphysics which Kant is championing without placing much, if any, weight upon
-it. The claim is: it is plauisble that previous fields of enquiry languished
+it. The claim is: it is plausible that previous fields of enquiry languished
 until we realised that we must focus upon/be sensitive to/
 
 === division between logic and metaphysics ===
@@ -68,16 +68,16 @@ _a priori_ or empirical</q>.
 
 One wonders what Kant means by <q>formal</q>, surely not the modern view of
 rules specified purely in terms of the shapes and sequences of symbols without
-reliance unpon their meanings. <q>Strict proof</q> is also somewhat unclear, or
+reliance upon their meanings. <q>Strict proof</q> is also somewhat unclear, or
 at least foreign to modern logic - how might one _prove_ an axiom of logic,
-or offer it any greater cfeedence than it already has? (inference to best
-explanation, or because of the fruitfulness of its consequences is urely not
+or offer it any greater credence than it already has? (inference to best
+explanation, or because of the fruitfulness of its consequences is surely not
 what Kant has in mind.)
 
 metaphysical claims one must suppose, are by contrast those in which the
 validity of the reasoning, or the necessity of the claim, depends upon the content
 content (i.e. the actual predicate occupying a place) and not merely the form. 
-i.e.  logical laws are those that remain valid when a concept is consistently
+i.e. logical laws are those that remain valid when a concept is consistently
 replaced with another, wheras such substitution can change a metaphysical
 necessity into a falsehood.
 
@@ -92,12 +92,13 @@ containment of logical structure, but that seems implausible).
 
 Here we have the ancient refusal to distinguish between causal(/nomological)
 necessity and conceptual(/analytic/logical) necessity.
+
 === hint of argument against idealism ===
 Kant repeatedly displays his awareness of the threat of self-contradiction in
 asserting that we positively know of the existence of objects about which we can
 know nothing.
 
-Why posit noumena? We need a positive reasom. In the introduction the closest we
+Why posit noumena? We need a positive reason. In the introduction the closest we
 come is
     (Bxxvi) But our further contention must be duly borne in mind namely that
     though we cannot _know_ these objects as things themselves we must yet be in
@@ -107,9 +108,9 @@ come is
 
 This first hint, at least, is not particularly promising. It seems to hinge
 a definitional stop. If these things we experience are not
-appearances (and hence have some external/noumenal obejects that they are
+appearances (and hence do not have some external/noumenal objects that they are
 appearances of) then let us call them something else. The question then simply
-becomes what reason do we have for thinking that our ewxperienfes are
+becomes what reason do we have for thinking that our experiences are
 appearances, and to this, as yet, Kant has ventured no answer
 
 == introduction ==
@@ -130,8 +131,8 @@ grounds that <q>alteration is a concept which can be derived only from
 experience</q>. This <q>derivation</q> suggests that we cannot form the concept
 and hence, presumably, not form the judgement <q>Every alteration has its
 cause</q> without experience, regardless of whether or not we would have any
-justification for believing or disbelieving it. This distinction between _a
-priori_ and _a posteriori_ *concepts* is thus far very dubious and we have no
+justification for believing or disbelieving it. This distinction between
+_a priori_ and _a posteriori_ *concepts* is thus far very dubious and we have no
 guide apart from this sole example on how to draw it.
 
 Still the very fact that this is distinguished as an impure _a priori_
@@ -139,8 +140,8 @@ proposition, goes further to suggest that it is justification that is in
 question. It appears that Kant/the translators can be only criticised for lack
 of clarity on this point and that on reflection it must be that _a priori_
 truths are those of which knowledge can be justified without experience. This is
-taken for granted, or as a definitional stipulation, in most modern ENglish
-speaking introductions to philosophy and it is merely of interest that it is put
+taken for granted, or as a definitional stipulation, in most modern English
+language introductions to philosophy and it is merely of interest that it is put
 so unclearly in its most influential early exposition.
 
 ==== criterion ====
@@ -157,11 +158,22 @@ possibility only in the sense that they are evidence for the actual and the
 actual is always possible).
 
 === the limits of a priori knowledge ===
-One suspects that this is at least partly the scope ofreason - that this lies
+One suspects that this is at least partly the scope of reason - that this lies
 behind Kant's claims that pure reason is its own subject matter. That the
 proper(?) enquiry of reason is the limits of reason.
 
-First hint of the antimomies concerning God, freedom and immortality.  Here we
+    I mean the hitherto rarely attempted dissection of the power of
+    understanding itself. The purpose of this dissection is to explore the
+    possibility of a priori concepts, by locating them solely in the
+    understanding, as their birthplace, and by analyzing the understanding's
+    pure use as such. For this exploration is the proper task of a
+    transcendental philosophy; the rest is the logical treatment of concepts
+    in philosophy generally.
+    (fp. 179)
+
+
+
+First hint of the antimonies concerning God, freedom and immortality.  Here we
 also have (for the first time?? hmm introduction, at least clearer/less
 metaphorically) the rejection of judgements that <q>go beyond all limits of
 experience</q> 

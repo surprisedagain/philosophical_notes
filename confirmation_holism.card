@@ -1,0 +1,178 @@
+:topic:holism:confirmation:my_thesis: <br>
+:draft0.3:
+= confirmation holism =
+====== short ====== 
+Confirmation holism is a thesis about the types of things that are related to
+each other by the relationship of confirmation.
+
+====== related to ====== 
+[[confirmation]]+, ++[[computer_exemplification]], +++[[semantic_holism]]
+
+[[local:zz.texts/morrison2008-justHowControversialEvidentialHolism.pdf]]
+[[local:zz.texts/morrison2017-evidentialHolism.pdf]]
+[[glymour1980-theoryAndEvidence]]
+
+= thesis =
+:RLN:
+Confirmation is a relationship between at least two entities. On one side of
+this relationship is the entity that is confirmed, and on the other is the
+entity that confirms it. Whatever it is that is confirmed might only be
+confirmed to some degree, in which case confirmation is a relationship between
+three entities – the thing confirmed, the thing confirming it, and the degree to
+which it is confirmed (perhaps this last entity is a real number or some other
+quantity). There may be further entities, such that the entities that are
+confirmed are only confirmed _relative to_ those further entities. Oft suggested
+candidates for these further entities include background hypotheses, prior
+probabilities and theories.  Confirmation holism, at least in the sense 
+intended in this work, does not carry any commitment to the nature of
+existence of any of these further entities.
+
+In any case confirmation is a relationship between
+(at least) entities that are confirmed and the entities that confirm them.
+
+The things that are confirmed are representations, things that can be true or
+false,
+
+for if an entity is confirmed then we are justified in believing it to be
+true (to whatever degree, and relative to whatever background assumptions or
+other relata it is confirmed). Sentences, beliefs, theories and other forms of
+representation are among the _prima facie_ candidates for confirmation
+
+depending on whether or not the things they represent are as they
+represent them to be. Sentences, beliefs, theories and perhaps other forms of representation 
+
+If they are confirmed then we are justified, or perhaps only justified to a
+greater degree, in believing it to be true, i.e. that the things they represent
+are as they represent them to be.
+
+According to the traditional theory of knowledge the maximal degree with which
+something may be confirmed
+
+Confirmation holism is the thesis that whole theories are among the objects
+confirmed _primarily_
+whole theories. There may be other entities that are confirmed derivatively
+
+== practical vindication ==
+Not very long ago, confirmation holism was regarded as an <q>unexceptional
+observation</q>
+sober1993-MathematicsIndispensibility.pdf
+
+There was a time when confirmation holism was viewed
+The seems to be widespread confusion over just what confirmation holism is, and
+even those who argue that the doctrine is confused, self-contradictory or
+incoherent. For that reason let us begin 
+
+Since then it appears to have fallen on hard times. It is not so much
+discredited but as unclear. Furthermore it is also unclear how this is
+supposed to support the various radical consequences such as the
+indeterminacy of translation
+
+will defer the question of how theories are connected with their con/infirmation
+conditions until
+
+It would, therefore, be disingenuous to count the fact that [[semantic_holism]]
+and the accompanying doctrine of indeterminacy of translation are both widely
+held to be either false, self-contradictory or incoherent as a tribulation for
+those, like myself, who espouse the doctrine. 
+
+What does irritate somewhat, however, is that the very tools which critics use
+to formulate their claims that semantic holism is incoherent or
+self-contradictory, demonstrate the falsehood of their claims. For those tools
+provide beautifully clear examples of semantic holism in action, and are
+produced by means which exemplify the indeterminacy of translation. The
+computers and programs that nearly all of us use to write our essays and
+articles provide perfectly clear practical exemplars of both semantic and
+confirmation holism, and thereby demonstrate the coherence of the very doctrines
+that the critics use them to decry.
+
+ Let us begin by lowering expectations. The chief purpose of this essay is to
+make perfectly clear . We cannot pass over the fact that these seemingly
+abstruse doctrines of the philosophy of langauge are vividly and concretely
+true.
+clarify first then argue for subsequently.
+It remains. AT the risk of getting ahead of ourselves
+Although the chief purpose of this essay is merely to present a clear and 
+The purpose of this essay is to clarify not to argue directly for either semantic or
+confirmation holism. Of course, at the risk of getting ahead of our argument, 
+
+why these fundamental semantic principles have been unwittingly discovered and
+exemplified by programmers accounts of 
+
+that choice of interpretation being, as QUine would be the first to admit,
+arbitrary (since doctrines 
+
+
+=== further features exemplified ===
+not only is confirmation holism exemplified by computer programming languages,
+but so too are many of the supposed controvertial consequences, whose connection
+with confirmation holism is so doubted by many philosphers (there is no argument
+from confirmation holism to indeterminacy of translation or the lack of an
+analyrtic synthetic distinction).
+
+== argument for ==
+via computational complexity.
+
+1) the class of statements is recursively decidable.
+This is a familiar requirement from formal logic - the class of well formed
+formulae must be recursive.
+
+2) the class of observable sequences that fulfil a given purely observation
+   statement is also recursive. One can decide whether or not it is fulfilled
+Why?
+building from fundamentally decidable
+there would be statements which one could not decide if they were confirmed or
+not. This defeats the point of observable statements
+
+another way to put this is that there
+as Fodor puts it <q>the merest ripple in cat infested waters might
+serve to confirm an ascription of cathood</q>
+[[local:zz.texts/fodor1998-concepts.pdf]] (in [[local:zz.texts/fodor1992-aTheoryOfContent.pdf]]
+its <q>cow infested waters</q>)
+there is no limit to the rube goldberg like contraption that one might use as a
+cow detector
+
+
+we should observe that many of the 
+
+
+The connection between the two is widely supposed to be obscure and dubious, as
+is each of the doctrines by themselves.
+
+=== argument against holism from compactness ===
+[[local:zz.texts/morrison2017-evidentialHolism.pdf]]
+p.4.1, 5.1, 5.2
+there is a trivial refutation and perhaps a deeper refutation
+==== trival ====
+The same thing is wrong as with the following argument. Turing machines are not
+of any greater complexity than DFA. A finite tape TM is = = DFA. Any computation
+that is performed can be performed using only a finite amount of tape therefor
+only a finite amount of tape is required
+
+Suppose we have the set of sentences describing a run through or a program. It is
+true that those sentences . As is discussed in ??{semantic holism}?? ??{what is
+evidence}?? ??{Quine's errors#not only observation sentences have empirical
+content}??
+
+
+
+===============
+
+
+===============
+Why to be is to be the value of a variable
+
+Another notaable annoyance is that
+This is often tediously misunderstood as an analysis of the notion of existence.
+Thye assumption 
+
+
+=========
+If you think of observational content as a kind of content, and you want to
+provide an account of language according to which different people speak the
+same language then you will want an account according to which different people
+can assert sentences (observational ones) with the _same_ content. You want an
+intersubjective standard of observational content. This is perhaps the
+motivation behind Quine's proposed distinction between highly observational.
+
+
+

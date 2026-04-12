@@ -1,0 +1,186 @@
+:semantic_holism:
+= computer analogy =
+====== short ======
+A practical demonstration of the coherence of semantic holism
+
+====== related to ======
+[[semantic_holism]]+++
+[[confirmation_holism]]+++
+
+= main =
+== introduction ==
+Occasionally I feel anxious that I will die before being able to explain
+[[semantic_holism]] sufficiently clearly to do this beautiful semantic principle
+justice. Of course, any philosopher worth their salt would be delighted to have
+good reasons for believing a principle that is at once so clear, profound,
+elegant, and (not least important) true, and yet so widely disbelieved.  After
+all one of the chief joys of philosophy is the license it gives for largely
+unsuccessful attempts to foist one's opinions on more or less innocent passers
+by. The field is thus apt to attract those who enjoy the the painless suffering
+of being a lone voice in the wilderness, and I am no exception.
+
+It would, therefore, be disingenuous to count the fact that [[semantic_holism]]
+and the accompanying doctrine of indeterminacy of translation are both widely
+held to be either false, self-contradictory or incoherent as a tribulation for
+those, like myself, who espouse the doctrine. 
+
+Let us begin by noting just how far fetched, it appears that any direct examples
+of indeterminacy of translation will ever be produced in practice.
+
+Let us begin, however, by emphasising just how far-fetched it seems  for
+semantic holism implausible it seems that the doctrine of
+confirmational holism (and thence semantic holism) and the under-determinacy of
+translation is to have any direct and straightforward exemplars. Confirmation
+holism is the doctrine that whole theories are the primary objects of
+confimation (and infirmation) - and that some sentences (in perfectly good
+linguistic standing) do not have confirmation (or infirmation) conditions at
+all. If one holds that 
+
+What does irritate somewhat, however, is that the very tools which critics use
+to formulate their claims that semantic holism is incoherent or
+self-contradictory, demonstrate the falsehood of their claims. For those tools
+provide beautifully clear examples of semantic holism in action, and are
+produced by means which exemplify the indeterminacy of translation. The
+computers and programs that nearly all of us use to write our essays and
+articles provide perfectly clear practical exemplars of both semantic and
+confirmation holism, and thereby demonstrate the coherence of the very doctrines
+that the critics use them to decry.
+
+Let us begin by lowering expectations. The chief purpose of this essay is to
+make perfectly clear . We cannot pass over the fact that these seemingly
+abstruse doctrines of the philosophy of language are vividly and concretely
+true.
+clarify first then argue for subsequently.
+It remains. AT the risk of getting ahead of ourselves
+Although the chief purpose of this essay is merely to present a clear and 
+The purpose of this essay is to clarify not to argue directly for either semantic or
+confirmation holism. Of course, at the risk of getting ahead of our argument, 
+
+why these fundamental semantic principles have been unwittingly discovered and
+exemplified by programmers accounts of 
+
+that choice of interpretation being, as QUine would be the first to admit,
+arbitrary (since doctrines 
+Many current philosophers hold that Semantic holism, and many of the raft of
+doctrines associated with it, such as the indeterminacy of translation,
+confirmation holism.
+
+While I hope to provide a clear statements of these doctrines, and arguments for
+them, it would be helpful to provide a practical examples os langauges,
+theories,
+
+discussing them purely in the abstract. If, for instance, 
+
+Such an example would immediately establish that it the doctrine is both
+coherent.
+
+This makes it all the more astonishing and satisfying that there are in fact a
+plethora of practical examples. Indeed these doctrines are exemplified by the
+very devices that most critics have used to formulate their
+
+One of the complaints commonly voiced against indeterminacy of translation is
+that it is simply a rehashed form of Cartesian skepticism. (Which is, it is
+tacitly suggested, a disorder we all recovered from in 2nd year courses in
+epistemology.) 
+
+Computer languages exemplify all these doctrines. 
+
+The langauges we are concerned with contain statements that are _about_ objects
+on the far side of epistemic bottlenecks.
+
+the interface of a computer is an epistemic bottleneck. It is not a perfect
+bottleneck. We can open up the computer, take x-ray images of it. Or more
+prosaicly we may have a good idea of the current state of technology and thereby
+know that electrical circuits are involved,
+background knowledge concerning the consturction of computers (e.g. we might
+know that computers contain electrical circuits) or have
+read a manual which specifies the internal circuitry or otherwise concerned some
+background knowledsge concerning the computers internal components.
+
+Now although this is intended to show that confirmation holism, the
+indeterminacy of translation is coherent. And hence we need not show that the
+claims that we shall use as premises of our argument
+
+== computer interfaces are epistemic bottlenecks ==
+The relevant epistemic bottleneck.
+
+Perhaps if all we know, of a computer were its input and output, what sorts of
+beliefs about the objects on the far side could we know
+
+the input/output that a program 
+
+== computer programs are theories ==
+not only are they theories but they are theories concerning obejcts on teh far
+saide of the epsitemic bottleneck
+
+== compilation is translation ==
+compilation conversion of a computer program from one langauge to another 
+is a form of translation.
+
+
+= doctrines exemplified by computer programs =
+== confirmation holism ==
+
+== indeterminacy of translation ==
+[[semantic_holism]]
+What does irritate somewhat, however, is that the very tools which critics use
+to formulate their claims that semantic holism is incoherent or
+self-contradictory, demonstrate the falsehood of their claims. For those tools
+provide beautifully clear examples of semantic holism in action, and are
+produced by means which exemplify the indeterminacy of translation. The
+computers and programs that nearly all of us use to write our essays and
+articles provide perfectly clear practical exemplars of both semantic and
+confirmation holism, and thereby demonstrate the coherence of the very doctrines
+that the critics use them to decry.
+
+Let us begin by lowering expectations. The chief purpose of this essay is to
+make perfectly clear . We cannot pass over the fact that these seemingly
+abstruse doctrines of the philosophy of langauge are vividly and concretely
+true.
+
+why these fundamental semantic principles have been unwittingly discovered and
+exemplified by programmers accounts of 
+
+that choice of interpretation being, as QUine would be the first to admit,
+arbitrary (since doctrines 
+
+Why, _prima facie_, no practical examples are ??{to be expected}??
+
+
+The connection between the two is widely supposed to be obscure and dubious, as
+is each of the doctrines by themselves.
+
+=== argument against holism from compactness ===
+[[local:zz.texts/morrison2017-evidentialHolism.pdf]]
+p.4.1, 5.1, 5.2
+there is a trivial refutation and perhaps a deeper refutation
+==== trival ====
+The same thing is wrong as with the following argument. Turing machines are not
+of any greater complexity than DFA. A finite tape TM is = = DFA. Any computation
+that is performed can be performed using only a finite amount of tape therefor
+only a finite amount of tape is required
+
+Suppose we have the set of sentences describing a run through or a program. It is
+true that those sentences . As is discussed in ??{semantic holism}?? ??{what is
+evidence}?? ??{Quine's errors#not only observation sentences have empirical
+content}??
+
+
+===============
+Why to be is to be the value of a variable
+:annoyance:
+
+Another notable annoyance is that
+This is often tediously misunderstood as an analysis of the notion of existence.
+The assumption 
+
+
+=========
+
+
+using this example
+
+
+
+= other related cards =
+

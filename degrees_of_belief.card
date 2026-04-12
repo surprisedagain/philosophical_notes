@@ -1,0 +1,87 @@
+:issue:subjective_probability:belief:confirmation: <br>
+:my_thesis:
+= degrees of belief =
+====== short ======
+Are or ought credences to be governed by the laws of probability
+
+====== related to ======
+??[[confirmation_holism]]
+++[[confirmation]]
+
+[[local:zz.texts/lewis1980-subjectivistsGuideObjectiveChance.pdf]]
+[[local:zz.texts/kyburg1978-subjectiveProbabilityCriticismsReflectionsProblems.pdf]]
+
+= main =
+Fine we don't actually walk around with real valued credences in our beliefs all
+the time.
+
+== for ==
+=== credences are connected to belief in probabilities ===
+    A certain coin is scheduled to be tossed at noon today. You are sure that
+    this chosen coin is fair: it has a 50% chance of falling heads and a 50%
+    chance of falling tails. You have no other relevant information. Consider
+    the proposition that the coin tossed at noon today falls heads. To what
+    degree should you now believe that proposition? <br>
+    [[local:zz.texts/lewis1980-subjectivistsGuideObjectiveChance.pdf]]
+More generally, if one believes that there is a N% probability of E occurring,
+then ones confidence in the belief that E will occur simply is (barring
+confusion, limit cognitive resources etc.) N%.
+
+Anyone who thinks there is a N% chance of E, but believes that E will occur with
+a different credence is either
+A) likely to have their expectations falsified (if they are right about the N% chance)
+B) unable to reason probabilistically (if their credence generates likely expectations)
+
+Artificial examples with balls in urns or decks of cards, seem to work
+beautifully. The anti-subjective probability
+
+
+=== dutch book ===
+Apparently this line of argument is due to frank Ramsey, or at least he used
+it.
+The traditional argument is that it is <q>irrational</q> to hold beliefs with
+credences that allow a dutch book to be made against them. But the Dutch book is
+just a way of codifying that things do not go as the subject expects. They make
+each bet (supposedly) in the expectation of making a profit. In a dutch book we
+can demonstrate that those expectations are not fulfilled. Thus the appeal of
+having probabilities drop out altogether. But the point is really that one's
+expectations are likely to (or if there is a dutch book, are certain to) be
+mistaken.
+
+== against ==
+=== betting odds affected by factors other than confidence ===
+value of risk/risk avoidance, doubt concerning payoff
+(insurance is a bet in which the expected return is negative but the risk is
+considerably lowered)
+
+=== not empirically supported ===
+probability theory makes poor predictions about human behaviour. But we expect
+people to use heuristics
+
+betting acceptance is not a pure measure of credence. There are other factors
+such as risk aversion which may affect the bets one is willing to make.
+
+One can fail to observe the laws of probability in ways that don't lead to a
+dutch book. e.g. being more confident (willing to bet on) $A ∧ B$ than $A$.
+Um... so? These are other ways of forming credences that are likely to lead you
+wrong but unlike the Dutch books they don't guarantee having unexpected
+outcomes.
+
+
+
+=== vagueness ===
+:my_thesis: [[confirmation_holism]]
+
+It is so arbitrary to put numbers on our degrees of belief - how likely is there
+to be a red car on the street when I next walk along it?  The numbers feel
+palpably arbitrary. I don't seem able to distinguish between believing such a
+claim with 70% confidence and with 72% confidence (let alone 72.5). I think
+things are pretty likely, very likely, near certain (perhaps beyond reasonable
+doubt? So certain that I need not bother checking further before acting?) or
+absolutely certain. But why no numbers?
+
+Because we dont really model things we consider to be very unlikely. We dont
+waste the mental/neurological resources to model unlikely events. So say we
+actively model (develop expectations for) a range of expectations that we are
+confident will occur.
+

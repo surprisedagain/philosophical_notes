@@ -11,7 +11,7 @@ asymmetry in physical laws (and which temporal direction is the future can be
 determined with regard to that asymmetry) or something else?
 
 ====== related to ======
-[[grue*]] [[rovelli2023-orientedCausation]]
+[[grue_problem]] [[rovelli2023-orientedCausation]]
 
 == the puzzle ==
 Consider any one of the standard entropy exemplary systems. Boltzman's
@@ -21,11 +21,11 @@ solar system is also good.
 The laws of physics determine the trajectories through the state space of this
 system. If the laws are determinate then these trajectories are continuous
 threads which contain one point in phase space at each moment, one point leading
-on to the next (and coming from the one before). If the laws of physics are
-probabilistic then each point throws a mist of probability concerning what point
-in the phase space it will occupy after a time &Delta;t.  For simplicity we will
-focus on the deterministic case, but bear in mind that objections that something
-or other doesn't apply in the probabilistic case may be legitimate.
+on to the next (and coming from the one before). If the laws are probabilistic
+then each point throws a mist of probability concerning what point in the phase
+space it will occupy after a time Δt.  For simplicity we will focus on the
+deterministic case, but bear in mind that objections that something or other
+doesn't apply in the probabilistic case may be legitimate.
 
 Now on the one hand laws of physics are time symmetric, travel in either
 direction along these trajectories is permitted by the laws of physics. A
@@ -34,8 +34,8 @@ StateA.
 
 But on the other hand the second law of thermodynamics says that entropy in this
 (total) system is monotonically increasing. That for all t,,1,, and t,,2,, if
-t,,2,, is after t,,1,, the entropy of the system at t,,2,, is greater than or equal
-to the entropy of the system as t,,1,,.
+t,,2,, is after t,,1,, the entropy of the system at t,,2,, is greater than or
+equal to the entropy of the system at t,,1,,.
 [ ∀t,,1,,, t,,2,,(Later(t,,2,,,  t,,1,,) =>. E(S, t,,2,,) >= E(S, t,,1,,)) ]
 
 Now the puzzle is set - according to the laws of physics entropy decreasing
@@ -83,5 +83,6 @@ _reductio ad absurdum_ of this explanation for (future) increasing entropy.
 == local time direction ==
 :!3:
 Some philosophers, such as Huw Price, seem to take seriously the possibility
-that time's arrow does not point in the same direction in all aprts of the
-universe. This seems preposterous to me, but since others 
+that time's arrow does not point in the same direction in all parts of the
+universe. This seems preposterous to me, but since others appear to take it
+seriously, lets try to consider it.

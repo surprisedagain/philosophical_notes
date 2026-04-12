@@ -1,0 +1,180 @@
+:topic:my_thesis: <br>
+:undisputed:discord-reading:presentable:RLN:
+= confirmation =
+====== short ======
+What is a scientific theory
+
+====== related to ======
+[[confirmation_holism]]
+[[degrees_of_belief]]
+
+[[glymour1980-theoryAndEvidence]]+++
+
+= main =
+When one conducts an experiment to test a hypothesis. There is a division
+between the rules of the theory that are taken to be, at least provisionally,
+necessary. ~~(That was a misguided and misleading way of putting it)~~. We, at
+least provisionally, take some part of the theory as beyond question. If things
+go badly and in attempting to determine whether of hypothesis is true (e.g. the
+value of a particular quantity or constant has no solution - i.e. no value will
+satisfy the constraints of our theory and our observations) then we may cast
+doubt on the theory itself, but if things go well we simply rely on the theory
+to compute the truth value(/quantitative value) In the extreme (and paradigmatic
+case) they are taken to be nomologically necessary (and hence, at least, true at
+all times and places[[#*1]]) but they may simply be invariant between
+experiment instances.
+====== *1 ======
+That this is not so much as assumption of the regularity of nature, as
+an attempt to discern whatever it is that is regular/invariant. We do not
+optimistically assume that the laws we discover are invariant, but look for
+whatever it is that is invariant and call them laws.
+
+It is these invariant, nomologically necessary (which is to say _regarded_ or
+_held to be_ nomologically necessary principles) which constitute the relevant
+<q>scientific theory</q>. Newton's theory of gravitation, or the theory of
+quantum mechanics, or general relativity are theories in this sense. Consisting
+purely of principles that are taken to be true at all times and places. In
+general this is what is meant by a scientific theory. And when we talk of a
+scientific theory being confirmed it is such theories that provide the
+paradigmatic examples.
+
+But, of course, there are scientific theories about particulars too.
+The big bang theory or the theory that the [[https://en.wikipedia.org/wiki/Vinland_Map|Vinland map]] is a forgery, or the
+theory that humans first non-seasonal settlements predate the development of
+agriculture.
+
+These are at best second rate theories. They are apt to be called hypotheses
+rather than theories, or once strongly confirmed called discoveries rather than
+theories. They are applications of the invariant theory, plus particular
+observations to determine other particulars. In the worst case they may lead to
+revision of a proper invariant theory when no hypotheses regarding the further
+particulars can explain/fit with the observed evidence.
+
+= ad hoc hypotheses =
+:my_thesis:problem:
+Ad hoc means "for this" and refers to something created or done for a specific
+purpose or problem, often on a temporary basis.
+
+An Ad hoc hypothesis allows one to maintain a theory without modification in
+the face of conflicting evidence. So theory T predicts that we will observe O.
+We don't observe O but we don't change our confidence in T or
+our expectations of the future observations it predicts.
+
+Now we might have an explanation of why the predictions didn't come off in this
+case that are not ad hoc. Perhaps the switch was off, or a fuse had burnt out.
+But then we can investigate and make observations to independently confirm this
+extraneous factor. And we will lose credence in our theory if that factor
+doesn't occur in future and the prediction still don't come off. The ad hoc
+assumption becomes an enthymeme in hindsight.
+
+= is it confirmation if we dont know it yet? =
+[[confirmation_holism]]
+:RLN: Suppose that someone hasn't worked out that observation or other
+is a deductive consequence of a theory.
+
+We don't even need to engage the machinery of hypothetico-deductivism to
+describe such a situation.  Suppose there is some observable thing that,
+once it _has been_ worked out, is widely taken as very strong evidence for
+believing the theory in question, but was known for some time before the
+connection was worked out.
+
+One supposes that something like this must have occurred in the development of
+general relativity. Certainly, that general relativity explained (/retrodicted)
+the advance in mercury's perehelion was given by Einstein as a reason to believe
+general relativity and for many people this may be one of the first things they
+are told about general relativity, so that there is no period of time in which
+they understand the theory but do not know that it has this consequence.
+But, at least for Einstein himself, surely the situation was otherwise. There
+must, of course, have been a period in which he _suspected_, but was not
+absolutely sure that general relativity explained this phenomena. He must have
+been motivated to try to explain Mercury's perehelion, _prior_ to actually
+coming up with the explanation. But even before this - surely there was a time
+when he was aware of the theory of relativity but had not yet connected it with
+Mercury's perehelion.
+Surely we have good (though not conclusive) reason for beleiving that there
+was a time _after_ Einstein first formulated the theory of general relativity,
+but _before_ he considered whether there was a connection between the two.
+~~Actually no explaiing the advance perehelion may have been one of his~~
+~~initial reasons for developing general relativity in the first place~~
+~~but it doesnt matter - the mere possibility is enough, though difficult~~
+~~for a modal skeptic to build upon~~
+
+===== key question =====
+Does that evidence confirm the theory or not. No one actually has increased
+their confidence/credence in the theory. No one has realized the connection
+between the evidence and the theory yet. (Even though some people had observed
+the relevant phenomena.)
+
+If we say it is confirmed then it seems surely we are using <q>confirmed</q> in
+a normative way.  That evidence _ought_ at least once one considers it,
+confirm one's belief in the theory. 
+
+In the other direction we say that XYZ observation confirmed belief in a theory.
+Say the observation of the deflection of starlight around the Sun in 1919. Until
+the observation ws made and it caused people confidence in T to increase.
+
+This is not unusual - a kind of transitivity of predicates. Things that are apt
+to cause 
+
+This is sort of connected with Quine's distinction between eternal and occasion
+sentences. Is <q>XYZ confirms T</q> false before a time when people first made
+the connection and true afterwards. Or is it an eternal sentence, one whose
+truth value we did not _know_ before but which was true all along despite our
+ignorance.
+
+We don't need to say that one of these usages is correct and the other one wrong.
+
+
+It seems like the dispositionalist/naturalist has a hard time here, if they want
+to claim that 
+
+[[quinean_reasoning]] doesnt seem to help very much
+Many presumed competnet speakers of the target language assert XYZ and yet deny
+T, so the conditional is not part of what the linguist observes
+There is (or at least may be) a chain of obvious truths. A range of
+conditionals that all competent spoeakers assent to _when prompted_
+
+Thus if we consider the linguist as adopting a quasi-socratic method,
+largely consisting of asking leading questions, then we can see both that the
+linguists questions may lead subjects to alter their verdicts, and for that
+very reason they may be more of a philosopher than we had realised.
+
+Still, there may not be any such chain. There may be a time when many erstwhile
+competent speakers accept both XYZ and not T, even once their attention is
+drawn to it. It would be implausibly optimistic to believe that those who
+correctly judge the connection between evidence and hypothesis are always in
+the majority. Or is history simply written by the victor and whatever theory
+does in fact gain the majority of believers viewed as being confirmed by the
+evidence that did in fact confirm in hindsight?
+
+
+== objection: it ought to be categorical ==
+If one provides <q>one ought to reaons well if one wants to manifest the
+structure of their beliefs in words</q> of <q>if they want to maintain a
+unchanging connection between their linguistic expressions and their
+non-linguistic models</q> then this is wrong.
+
+One ought to reason well FULL STOP
+One does not reason well to achieve this or that objective. And the person who
+reasons badly is doing something wrong or incorrect – not merely something that
+does not lead to outcomes that they desire.
+
+This is silly - we do not know why we do it, what goal it fulfilled. But this
+isn't to say that there is one. We can in hindsight say that it was, in some
+sense, assumed that everyone _should_ maintain a consistent mapping between
+linguistic and non-linguistic representations, or perhaps that everyone _should_
+be able to explain themselves and their motivations (consider the teachers anger
+when a student says they don't know why they misbehaved). But this was simply an
+ignorant and mistaken theory. There was some benefit in doing so, but one that
+(ironically enough) we could not articulate and so we simply said God requires
+it, or in some other way it is simply virtuous to do this.
+
+We are disagreeing with the holders of those views. We have a different account
+of what reasoning is . But that difference alone does not guarantee that they
+are right and we are wrong. We ought not, at least if we are to reason well,
+dismiss all non-normative accounts of reasoning simply because the ancients
+though reasoning well was an end in itself.
+
+One may as well say, it is an essential part of reasoning that it is mysterious
+why we should reason well. Therefore no unmysterious explanation of reasoning
+can ever be correct
