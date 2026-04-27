@@ -12,8 +12,8 @@ problem is that the suggested algorithms only reflect the logical structure
 sentences. The result is that by the suggested standard, logically equivalent
 sentences with different logical structures are judged to be not synonymous, and
 sentences which can be changed to one another by the substitution of
-co-extensive predicates (e.g. <q>There exists a cordate.</q> and <q>There exists
-a renate.</q>) are judged to be synonymous.
+co-extensive predicates (e.g. “There exists a cordate.” and “There exists
+a renate.”) are judged to be synonymous.
 
 [: Does contain an interesting suggestion for liars paradox and other issues of
 self-reference, connecting truth gaps with non-terminating algorithms. :]
@@ -31,8 +31,8 @@ The central claim (though it is unclear if the author realises this) is that if
 we view sentences as expressing (/having as meanings) algorithms for determining
 their truth value, then this will allow us to define sentence synonymy. Among
 the proposed solution's chief faults, the easiest to identify is that it is
-extensional. By the proposed standard <q>There exists a cordate</q> is
-synonymous with <q>There exists a renate</q>. (Game over.)
+extensional. By the proposed standard “There exists a cordate” is
+synonymous with “There exists a renate”. (Game over.)
 
 Somewhat akin to a computational version of Tarski's truth definition. Just as
 Tarski's definitions only define truth given the extension of each
@@ -50,7 +50,7 @@ Though it is somewhat concealed by technical details and the authors blithe
 confidence, the paper claims that all and only pairs of statements that can be
 produced from FOL schema by systematically replacing predicate placeholders with
 extensionally equivalent predicates or by changing the order of conjuncts or
-disjuncts (e.g. changing <q>A and B</q> to <q>B and A</q>) are synonymous. This
+disjuncts (e.g. changing “A and B” to “B and A”) are synonymous. This
 is wrong in both directions.
 
 The basis for claiming that the algorithms associated with statements by the
@@ -64,8 +64,8 @@ with eminent satisfaction:
     (fp. 6) as one might expect, (φ & ψ) and (ψ & φ) are intensionally
     equivalent with the standard interpretation of & but ¬¬φ has a more complex
     intension than φ.
-A more humble mind might have been worried by the conclusion that <q>¬¬φ</q> and
-<q>φ</q> aren't synonymous, but the author is blessedly free from such doubts.
+A more humble mind might have been worried by the conclusion that “¬¬φ” and
+“φ” aren't synonymous, but the author is blessedly free from such doubts.
 It is usually thought that logically equivalent statements are synonymous since
 they have the same truth conditions.
 
@@ -83,16 +83,16 @@ There is no reason to treat this proposal as an account of synonymy, apart from
 its interesting treatment of liar paradox and other supposed instances of
 truth-value gaps. On the one hand it treats as synonymous statements that are
 not (e.g. produced by substituting co-extensive but non-synonymous predicates
-such as <q>cordate</q> and <q>renate</q>). On the other it treats logically
+such as “cordate” and “renate”). On the other it treats logically
 equivalent statements as non-synonymous. All conveyed with a kind of blithe
 bewilderment at why everyone apart from the author found this simple problem of
 sentence meaning so difficult to solve!
 
 == the good idea ==
 The papers best and most interesting suggestion is that the liar's paradox (and
-truth teller and <q>forms a falsehood when appemded to its own quotation</q>)
+truth teller and “forms a falsehood when appemded to its own quotation”)
 and others that are sometimes thought to give rise to truth value gaps are
-somehow connected with non-terminating <q>algorithms</q>. (Yes, on some
+somehow connected with non-terminating “algorithms”. (Yes, on some
 technical definitions algorithms must always halt, but that is the least of our
 problems.)
 
@@ -118,7 +118,7 @@ possible world. It over-estimates the paper to bring up this issue.)
 That last caveat appears to be the key. Taken in a strong sense, does one
 need to get the right answer in possible worlds in which there are married
 bachelors. (That we rule out such possible worlds, and that such ruling out is
-not done by the <q>algorithms</q> on offer shows we are relying upon something
+not done by the “algorithms” on offer shows we are relying upon something
 else to set the standard of synonymy.)
 
 Trying to see how the author deals with this problem reveals a more pressing
@@ -130,21 +130,21 @@ reminiscent of Quine's main method for determining validity(/inconsistency) of
 quantificational schema (see [[#potential problem 2]]). Like the Tarskian truth
 definition it captures the contribution of the logical machinery to the truth of
 whole sentences, but it takes the parts for granted. It is a standard for
-identifying overt logical structure  - treating statements as <q>synonymous</q>
+identifying overt logical structure  - treating statements as “synonymous”
 provided they have the same logical structure (apart from the order of conjuncts
 and disjuncts) and the unstructured predicates occupying the same positions
 within these structures have the same extension.
 
 One particular manifestation of this lack, is that the suggestion on offer is
-*extensional*.  _Pace_ the introductory example χ on fp2. <q>If we know nothing
+*extensional*.  _Pace_ the introductory example χ on fp2. “If we know nothing
 about R and Q but their extensions, there is basically only one way to determine
-the truth value of χ</q>. If we know nothing about R and Q but their extensions
+the truth value of χ”. If we know nothing about R and Q but their extensions
 we cannot tell if they are synonymous predicates, or merely co-extensive. Unless
 we can make this distinction then the algorithm for determining the truth of
-<q>(EEx) x is a cordate</q> is the same algorithm as for determining the truth
-of <q>(EEx) x is a renate</q>. This problem is set in stone when the author 
-latter explicitly enjoins us to <q>agree to view an m-ary relation on a set X as
-a function which assigns a truth value to each m-tuple in X</q>. Functions which
+“(EEx) x is a cordate” is the same algorithm as for determining the truth
+of “(EEx) x is a renate”. This problem is set in stone when the author 
+latter explicitly enjoins us to “agree to view an m-ary relation on a set X as
+a function which assigns a truth value to each m-tuple in X”. Functions which
 are extensionally equivalent (in this case which map the same tuples to the same
 truth values) are the same function! Not so, we learnt at both our mothers and
 Quine's knees, for relations.
@@ -189,7 +189,7 @@ onto sentences held false.
 Thus there seem to be two problems. (1) The analogy is really between algorithms
 and whole theories not algorithms and individual sentences (2) the algorithm
 expressed by a program is indeterminate - good compilation, like other forms of
-good translation preserves input/output conditions but not the <q>meanings</q>
+good translation preserves input/output conditions but not the “meanings”
 of individual statements.
 
 === notes on first reading by section ===
@@ -201,18 +201,18 @@ of individual statements.
     suppose at first, for simplicity that A is finite. If we know nothing about
     R and Q but their extensions, there is basically only one way to determine
     the truth value of χ, by the following procedure.
-the follows an <q>algorithm</q> (for loop) for checking each c ∈ Domain to see
+the follows an “algorithm” (for loop) for checking each c ∈ Domain to see
 if Q(c) (right hand side of disjunct) and a nested loop for checking the left
 hand side of the disjunct.
 
 ===== potential problem 1 =====
-But of course, one never does <q>know nothing about R and Q but their
-extensions</q> or in the extreme case where the objects that R and Q are true of
+But of course, one never does “know nothing about R and Q but their
+extensions” or in the extreme case where the objects that R and Q are true of
 are given by enumeration, one doesn't check for each object in Domain to see if
 it is on the list of Rs or Qs. Consider the way in which one proves Fermat's
 last theorem - it is not the algorithm that consists of checking each triple of
 natural numbers. To select one of these methods of determining the truth as
-<q>the correct algorithm</q> (which captures/expresses/mimics the sense of the
+“the correct algorithm” (which captures/expresses/mimics the sense of the
 sentence in question) seems problematic.
 
 This problem develops into an extensional standard of synonymy.
@@ -233,7 +233,7 @@ truth get into the picture - AH! only through the extensions of the fundamental
 predicates! How that is determined is left out of the picture isn't it?
 
 This problem develops into only grouping statements into equivalence classes (of
-supposed <q>synonyms</q>) by their logical structure (and the extension of the
+supposed “synonyms”) by their logical structure (and the extension of the
 predicates that are thus combined). Logically equivalent sentences with
 different logical structure will turn out not to by synonyms by this standard.
 
@@ -247,9 +247,9 @@ If these are different algorithms then which one is the meaning of χ ? But that
 seems silly. Perhaps all those algorithms are equivalent and it is the
 equivalence class of them that is the meaning.  Is what is doing the heavy
 lifting here the truth conditions of χ rather than the algorithm. That the
-algorithm <q>encodes</q> or is sensitive to the meaning is the result of the
+algorithm “encodes” or is sensitive to the meaning is the result of the
 fact that. But it is those truth conditions (and not the method of determining
-them) that are the <q>meanings</q> of the relevant sentences.
+them) that are the “meanings” of the relevant sentences.
 
 This is the most serious problem, but the paper doesn't even develop to a point
 where it becomes manifest.
@@ -270,13 +270,13 @@ What is being assumed in this paper (in the other direction) is that
 
 
 ==== 1.2 Algorithms are relatively effective ====
-The author is apparently worried that we will dismiss his <q>algorithms</q> as
+The author is apparently worried that we will dismiss his “algorithms” as
 not being algorithms at all, since the traditional (computer science) textbook
 definition of algorithm requires them to always halt. Hence they are prepared to
 take it a as relatively effective - i.e. relative to the basic operation of
 determining whether an existentially quantified statement is true. While this 
 
-As I (admittedly vaguely) recall the <q>higher type recursion</q> is achieved
+As I (admittedly vaguely) recall the “higher type recursion” is achieved
 (or at least studied) by the use of oracle machines which decide (in one step as
 it were) an undecidable (but enumerable) problem of the lower level of recursion.
 E.g. the standard method of getting to the recursive level one step above
@@ -295,8 +295,8 @@ avoided.)
 
 It is true that the algorithms are always relative to their basic
 operations (and methods of combining them which is where the recursive comes in
-to recursive procedure/method) and one may take <q>determine the truth of an
-existentially quantified statement</q> to be a basic operation.
+to recursive procedure/method) and one may take “determine the truth of an
+existentially quantified statement” to be a basic operation.
 
 Just as to assume that there is an oracle for determining whether or not a
 turning machine halts is *not* to provide an algorithm for determining whether
@@ -309,7 +309,7 @@ attempting to do so.
 
 
 ==== 1.3 self-referential sentences ====
-So on this view self-referential sentences express <q>divergent</q> i.e. non
+So on this view self-referential sentences express “divergent” i.e. non
 halting algorithms.
 
 Yes I once thought that you could side-step the halting problem by claiming that
@@ -335,14 +335,14 @@ possible world and nothing is said in this paper to address this.
 This is the key claim - that we can define synonymy in terms of the identity of
 these algorithms.
 
-<q>A & B</q> and <q>B & A</q> are <q>intentionally equivalent</q> but
-<q>~~A</q> <q>has a more complex intension</q> than <q>A</q>. Does this mean
-that <q>A</q> and <q>~~A</q> are not synonymous by the proposed standard?
+“A & B” and “B & A” are “intentionally equivalent” but
+“~~A” “has a more complex intension” than “A”. Does this mean
+that “A” and “~~A” are not synonymous by the proposed standard?
  
 
 ==== 2 ====
 ok - by now we have a sense of the key defect (its algorithms only reflect the
-logical structure of sentences, not the <q>meanings</q> of their predicates they
+logical structure of sentences, not the “meanings” of their predicates they
 contain, and hence does not distinguish co-extensive from synonymous
 predicates). Lets look to see if we can find where this manifests itself in the
 technical details:
@@ -358,16 +358,16 @@ First paragraph: (rough quote) If these things are variables then the string
 (14) is a formula.
 
 it just doesn't look like the author actually wants to claim that (14) is a
-formula of LPCR. (14) has tri-bar, <q>~=</q> and other symbols that were never
+formula of LPCR. (14) has tri-bar, “~=” and other symbols that were never
 seen before. This _could_ be treated as introducing these symbols into the
 langauge, but I suspect the author only wants to introduce the symbols
-<q>where</q> <q>{</q>, <q>}</q> and <q>~=</q>.
+“where” “{”, “}” and “~=”.
 
 Hence for instance when the author writes:
     the formal LPCR versions of the direct liar and truthteller intended by (6)
     and (7) are: <br>
         _liar_ ≡ P() where {P() ~= ¬P()},
-I suspect the author does not wish to claim that <q>_liar_</q> is a token that
+I suspect the author does not wish to claim that “_liar_” is a token that
 occurs to the left of tribar in some well formed formulae of LPCR. I suspect the
 author wishes to say:
     the formal LPCR version of the diretc liar paradox is expressed by: <br>
@@ -379,31 +379,31 @@ for the fundamental problems.
 
 Even if we have got this as a formula, however, we have no way of determining
 its truth value. In particular we have not determined which pairs of objects
-<q>~=</q> is true of.
+“~=” is true of.
 
 ===== 2.3 PARTIAL FUNCTIONS =====
     Let us first agree to view an m-ary relation on a set X as a function which
     assigns a truth value to each m-tuple in X. 
 And there we have it ladies and gentlemen, relations are functions which are
-identified extensionally, therefore <q>cordate</q> is synonymous with <q>renate</q>, the
+identified extensionally, therefore “cordate” is synonymous with “renate”, the
 problem of synonymy is solved (and all true statements are necessarily true).
 
-fp. 10 still using <q>~=</q> without having defined it yet
+fp. 10 still using “~=” without having defined it yet
 
 the only hint we got was the paraphrase back in 2.2
     ... {P(x)≃¬P(x)} ... (16)<br>
     ... asserts that the relationship which is always equivalent to its
     negation...
-perhaps this is why the definition of <q>~=</q> is so conspicuous by its absence
+perhaps this is why the definition of “~=” is so conspicuous by its absence
 it assumes a relationship of equivalence (synonymy equivalent) between
 relationships.
 
 ===== 2.4 =====
-from bad to worse, now the meanings of <q>=, ¬, ∀, etc.</q> are included in the
+from bad to worse, now the meanings of “=, ¬, ∀, etc.” are included in the
 structures tuple without further ado. What is the object that is the meaning of
-<q>∀</q>, that in can be included in this tuple?
+“∀”, that in can be included in this tuple?
 
-use vs mention has now turned to reification - since <q>∀</q> is meaningful
+use vs mention has now turned to reification - since “∀” is meaningful
 there must be some thing that is it meaning. Tedious.
 
 ===== 2.7 =====
@@ -451,7 +451,7 @@ really clear what an algorithm is at all.
     quoted sentence possibly mean if there is no such thing as “the mergesort
     algorithm?”
 
-What can <q>he told the same story she did</q> possibly _mean_ if there are no
+What can “he told the same story she did” possibly _mean_ if there are no
 such things as stories (and they are distinct from the letter by letter [or
 phoneme by phoneme] sequences of symbols that express them). Oh if only life
 were so easy! (What can they mean they did it for the sake of love, if there is

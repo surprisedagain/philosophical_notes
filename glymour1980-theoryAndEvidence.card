@@ -4,7 +4,7 @@
 = Theory and Evidence =
 [: [[local:zz.texts/glymour1980-theoryAndEvidence.pdf]], https://n2t.net/ark:/13960/s20jkv2j314 :]
 ====== short ======
-A major work critically engaging with confirmation holism
+a major work critically engaging with confirmation holism
 
 ====== related to ======
 [[confirmation_holism]]++
@@ -20,7 +20,7 @@ captured as believing that ¬A ⊃ B, since that only requires believing A
 
 = notes on first reading =
 == chapter 2 ==
-*problems with hypothetico-deductivism and fellow travellers*
+*problems with hypothetico-deductivism and other well known approaches*
 Technically correct but uninspiring criticisms of earlier attempts to demarcate
 the conditions under which evidence E supports/confirms hypothesis H.  While it
 does accurately point out the flaws in various hypothetico-deductive accounts it
@@ -98,7 +98,7 @@ Glymour avoid it?
 
 (fp. 19) Anti-Carnap: this is (3) above
 Both theoretical claims and the observation claims to which they are reduced are
-synthetic. But the sentneces that effect this reduction by connecting
+synthetic. But the sentences that effect this reduction by connecting
 theoretical and observational terms are _analytic_. True by stipulation.
 (a la Wittgensteinian criteria). The Quinean position is that we cannot
 distinguish criteria from common knowledge.
@@ -129,11 +129,11 @@ the first clause fixes the references of the theoretical terms, but doesn't
 include A[v] which is couched in terms from the theory _T_ but does not
 contribute to the reference fixing. Still relys on uniqueness.
 
-[!Interesting that Glymour leans heavily on validity and rationality. Precisely
-the things I wish to abandon.!]
+[!Interesting that Glymour leans heavily on validity and rationality here.
+Precisely the things I wish to abandon.!]
 
 === deOccamized theories ===
-As Glymour expects I have no problem with these theories.
+As Glymour expects, I have no problem with these theories.
 
 The challenge is to explain why simplicity is a guide to truth (and steers
 away from false theories) when they are not empirically equivalent. Objects
@@ -192,17 +192,17 @@ also uninspiring - lets get to the positive proposal
 == chapter 3 ==
 *problems with Bayesianism*
 === probabilistic arguments rare in history of science ===
-<q>Copernicus, Newton, Kepler, none of them give probabilistic arguments for
+“Copernicus, Newton, Kepler, none of them give probabilistic arguments for
 their theories, nor does Maxwell or Kelvin or Lavoisier or Dalton or Einstein or
-Schrodinger or ...</q>
+Schrodinger or ...”
 
 On the other hand there are jokes about experimental physicists being in the job
 of manufacturing error bars. Even Kepler may be viewed as making a probabilistic
 argument about the eight arc-minute discrepancy in observations of Mar's
-position (Kepler: <q>If I had believed we could ignore these eight minutes, I
+position (Kepler: “If I had believed we could ignore these eight minutes, I
 would have patched up my hypothesis. But since it was not permissible to ignore,
 those eight minutes pointed the road to a complete reformation of
-astronomy.</q>)
+astronomy.”)
 
 There is an implicit understanding that observations are subject to extraneous
 noise, and how far off an observation can be from predicted values before it
@@ -267,8 +267,8 @@ observing the old evidence doesn't really make sense.
 
 == chapter 4 ==
 *problems for Kuhn's followers*
-(since Kuhn does not address <q>the question of what makes evidence relevant to
-theory [or] what makes for better evidence</q> he has no account of confirmation
+(since Kuhn does not address “the question of what makes evidence relevant to
+theory [or] what makes for better evidence” he has no account of confirmation
 to be questioned or refuted. Still Kuhn can (I think) be regarded as attempting
 to develop a account of confirmation based upon the observed history of science.
 (What did scientists do that convinced others to accept their claims/theories?)
@@ -375,16 +375,16 @@ part of the theory or the theory as a `whole.
 === there must be evidence which confutes ===
 [[if_some_experiences_confirm_others_must_infirm]]
 Going back a step, Glymour adds an additional requirement for a set of
-observations to confirm a theory. To confirm a theory(/hypothesis) a set of observations must allow the
-computation of various theoretical quantities (quantities that cannot simply be
-<q>read-off</q> [in some sense] from observations) which fulfill/satisfy that
-theory(/hypothesis). *However*, in addition the Cartesian product of possible
-measurements must include some combinations that would falsify the
-theory/hypothesis.
+observations to confirm a theory. To confirm a theory(/hypothesis) a set of
+observations must allow the computation of various theoretical quantities
+(quantities that cannot simply be “read-off” [in some sense] from
+observations) which fulfill/satisfy that theory(/hypothesis *AND* the Cartesian
+product of possible measurements must include some combinations that would
+falsify the theory/hypothesis.
  
-[[confirmation]] [[confirmation_holism]]
-:RLN:important7: first set up the space of possibilities - only against that
-space can we speak of a hypothesis/theory being confirmed at all
+[[confirmation]] [[confirmation_holism]] :RLN:important7: first set up the space
+of possibilities - only against that space can we speak of a hypothesis/theory
+being confirmed at all
 
 *a related problem*
 ==== what is the same method ====
@@ -394,29 +394,42 @@ from the same kind of system
 
 this is where tacking might come into account.
 
-
 === the bootstrapping condition ===
 *This is the technical heart of Glymour's positive account*
-The tie to Hempel's satisfaction condition si supposed to be replaceable.
+
+*first the equation version:*
+    For a set of values of quantities to confirm an equation with respect to a
+    theory consisting of a set of equations, then, all of the following should
+    obtain: the set of values should be consistent with the theory; from the
+    values for the initial quantities, a value for each quantity in the
+    equation tested should be computable; the computation should involve only
+    equations in the theory or their consequences; the equation that represents
+    the hypothesis tested for the set of computations used should not be a
+    mathematical identity; and the values obtained from the computations should
+    constitute a solution to the equation that is tested.
+
+*The (non-technical summary of) full first order logic version:*
+(The tie to Hempel's satisfaction condition is supposed to be replaceable.)
 
 Let E and H be sentences, T a consistent, deductively closed collection of
 sentences. E confirms H with respect to T if:
 i) T is consistent with H & E.
-ii) The second condition says, in effect, that every quantity occurring in the
-	hypothesis can be computed from the evidence, using the theory. 
+ii) The second condition says, in effect, that every quantity (open atomic
+	sentence) occurring in the hypothesis can be computed from the evidence,
+	using the theory. 
 iii) Hempel's satisfaction condition
 iv) is little more than the requirement that the computations not guarantee that
-	the hypothesis will te confirmed (or at least not disconfirmed), whatever
+	the hypothesis will be confirmed (or at least not disconfirmed), whatever
 	the evidence might say.
 v) is needed in order to ensure that the computations do not guarantee part of
    what the hypothesis asserts, only testing a remainder.
 
 === supposed virtues ===
-==== scientific anti-holism ====
-(relevance)
+==== relevance ====
+(*scientific anti-holism*)
 :good-point: Glymour's account does seem to give a good sense of why scientists
-may feel holism is at odds with their normal practice. I don't <q>test the whole
-theory</q> when I determine the mass of my car, nor even of Mars. I use some of
+may feel holism is at odds with their normal practice. I don't “test the whole
+theory” when I determine the mass of my car, nor even of Mars. I use some of
 the theory to determine the value of some qualities and when they give me
 inconsistent values or values that do not satisfy the theoretical constraints
 then they cast doubt on _the part of the theory_ used to compute(/deduce) those
@@ -427,3 +440,138 @@ theory used to compute those values); and if they do not satisfy the hypothesis
 then the evidence upon which the computation was based infirm it (again plus
 the fragment of supporting theory, though the drop in credence need not be
 the same).
+
+The particular example to which Glymour repeatedly returns is Kepler's three
+[[https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion|laws of planetary motion]].
+    To test Kepler’s third law we need estimates of the periods and mean
+    distances from the sun of at least two planets, but from the observations of
+    one planet alone we cannot compute, using Kepler’s laws and their
+    consequences, the parameters of the orbit of any other planet. 
+
+I believe Glymour captures a common intuition among scientists. But I also
+believe that he is wrong. There is a certain pragmatic attitude that is part of
+the norms of science: if it can be checked and hasn't yet been checked then
+don't trust it (until i has). There seem to be a wide range of experiments which
+are simply new ways of verifying already well established
+principles(/laws/hypotheses).  (This ties directly into variety the next
+section.) So certainly if Kepler's third law _hadn't_ been verified there would
+be a strong appetite for doing so, and doing so would increase our confidence in
+Kepler's third law (seemingly reasonably enough).
+
+However, surely we could develop a Newtonian (or relativistic) understanding of
+in a solar system with a single planet. Perhaps it would be difficult, but we
+could, apparently, be justified in believing Kepler's first two laws on the
+basis of observations of a single planet, and from that (and other
+observations) develop a theory according to which the motion of this single
+planet was due to the gravitational attraction of the sun, and from that derive
+Kepler's third law.
+
+There is always the possibility of something we don't know. Something of which
+we cannot yet conceive (i.e. which is not matched between linguistic and
+non-linguistic models) that might be the case. Hence the (unquantifiable!) value 
+of novel methods of confirming established principles. Precisely because we have
+not yet put in the effort to develop a linguistic counterpartr to that 
+
+Bayesianism (Glymour claims) cannot explain the relevance of observtions to some
+elements of the theory rather than others, and to the limited extent it can it
+relies upon a distribution of prior probabilities that it not itself explained.
+
+==== variety ====
+Variety includes
+* evidence that provides [independent] tests of multiple hypotheses of the theory
+* hypotheses tested in different ways - “What makes one way of
+  testing relevantly different from another is that the hypotheses used in one
+  computation are different from the hypotheses used in the other
+  computation.”
+  A variety of evidence serves to separate hypotheses
+
+GLymous acknowledges other forms of variety that are not captured by his account:
+* testing hypotheses on systems that possess and lack relevant features (?)
+
+==== simplicity ====
+Glymour claims that his account explains the distaste for theories that contain
+“redundant” or “unobervable” qualities.
+
+e.g Newtonian absolute space - our absolute position in space cannot be
+determined by any empirical measurements.
+
+but more extreme versions are easily imaginable - that there are indetectable
+ghosts passing through us – that occupy the same space but have only causal
+influences on each other but not on objects on this “level”.
+
+According to Glymour such theories
+
+===== deoccamised theories =====
+:RLN:my_idea: [[confirmation_holism]] [[semantic_holism]] theories with superfluous elements
+So when in combination – P1(x)∧P2(x)∧...∧Pn(x) – the theory does make
+predictions. But there are a whole range of alternative distributions of these
+properties that are not combined - e.g. does object O, which does not possess
+all of Pn() possess just (P1 and P3) or (P1, P2 and P50)? No observable would
+discriminate between these two theories or between any theories that are
+supersets of the original differing only in the non-combined distributions of
+these properties.
+
+Now according to [[semantic_holism]] we might say that each of these deoccamised
+alternatives has the probability of the original – regarding this as a
+degenerate form of indeterminacy, each one is as probable as the original true
+if we hold it and the sum of their justifiable credences is greater than 1; OR
+we might say that each is equiprobable (assuming there is no reason to prefer
+one over another) and that since there is no reason to choose between them they
+each have the probability of the original divided by the number of such
+alternatives. On this view the original may be regarded as a conjunct (i.e. P
+may be regarded as P1()∧...∧Pn, and ¬P as ¬P1()∨...∨¬Pn() ) hence having the sum
+of all these alternatives as its credence.
+
+Note also that Newtonian mechanics with its absolute space is also an example of
+the “mathematical multiplicity” (to use W's phrase - [[tractatus]]) of the
+model/system of representation outrunning that of the system represented.
+
+====== argument for high credibility ======
+The theories have the same confirmation conditions. Hence, if theories are
+the basic units of confirmation, and two theories have exactly the same
+confirmation conditions then they are confirmed to the same extent.
+[[wn.RLN:sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
+
+This is not true - we may imagine 
+
+
+But note that whichever theory we choose we are justified in believing it
+confidently – but we belive in our (the non-deoccamised version) and hence the
+others are false.
+
+====== argument for low credibility ====== fractional probability is based upon
+sum of P = 1 (or less) and we have no reason to prefer one over so we must
+divide the probability between them equally.
+
+There is also a problem of our epistemic (and hence semantic) access to these
+alternatives. 
+
+====== argument for non-credibility ======
+We don't have epistemic access to them so we can talk about them since semantic
+access requires epistemic access. If it were true then weculd not know it to be
+true, and furthermore we could not learn to talk about them. There is no
+[[wn.RLN:epistemic_triangle_of_language_learning]]
+
+====== The actual problem ======
+The issue isn't choosing between the original theory and one that determinately
+(albeit arbitrarily) assigns some combination of P1()...Pn()  to objects that do
+not possess all of those properties (the original P() ) but one that is
+agnostic between them. One that says they do have a determinate value but we
+just don't know what it is. Such a construction is certainly inelegant. Somewhat
+akin to a computer program with code that is not executed on any input.
+In terms of confirmation holism we cold take all those theories as confirmed but
+it is only the minimal set - the set that is common to all those and such that
+the additional superfluous statements do not lead to any additional theorems
+containing only the terminology of the original theory – all of the credences
+that are spread over. There are countably many such theories (since recursively
+axiomatisable, and the axioms (/axiom specifications) are discrete and orderable
+and hence countable)
+
+This is akin to the problem of tacking. T∧X is confirmed as well as T∧¬X so the
+only common component that is confirmed is T. (Provided P(E/T) = 1 and P(X/T) =
+P(X/¬T) = P(X) – hmm there is something extra here P(X/E) may still be different
+because in those worlds were T is false but E is still true X may be more/less
+likely
+
+*ok back to the book*
+

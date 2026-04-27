@@ -1,0 +1,59 @@
+:thesis:semantics: <br>
+:undisputed:history:
+= truth conditional semantics =
+====== short ======
+Semantic theories based upon the claim that meanings are truth conditions.
+now aka *possible worlds semantics*
+
+====== related to ======
+hub: [[influential_semantic_theories]]
+++[[Fregean_semantics]]
+++[[Russellian_semantics]]
+
+= main =
+The original naive version of this is sometimes expressed by early analytic
+philosophers (such as Russell) as the doctrine that the meaning of a sentence is
+its truth conditions. Or, to remain agnostic about the existence of meanings,
+sentences are _synonymous_ iff they are true under the same conditions (or in
+the same possible worlds).
+
+Consideration of indexicals and the realisation that the truth conditions of
+some sentences may vary depending upon their contexts of assertion and
+evaluation led to refinement and increased sophistication.
+
+On the modern view:
+Assertions (i.e. sentences asserted in a given context of assertion) are
+_synonymous_ iff they have the same truth-value with respect to every
+circumstance of evaluation.
+
+Or as the [[https://plato.stanford.edu/archives/win2025/entries/meaning/|Stanford Encyclopedia]] somewhat tendentiously puts it:
+    two sentences express the same proposition if and only if it is impossible
+    for them to differ in truth-value.
+(this is a modern version of [[Fregean_semantics#Freges criterion of synonymy]]
+hence that can be taken as a form of truth functional semantics - however senses
+complicate things)
+
+A function from possible worlds to truth values is sometimes called an
+intension in more recent (quasi-technical) literature.
+
+=== objections ===
+==== all necessary truths synonymous ====
+It seems implausible that all necessary truths assert the same proposition
+despite being true in the same possible worlds (i.e. all of them).
+
+e.g. It seems that
+    1)    2 + 2 = 4
+    2)    There are infinitely many prime numbers
+have different meanings despite being true in exactly the same possible worlds
+(i.e. all of them).
+
+==== propositional attitudes ====
+[[propositional_attitudes]]
+If sentence meanings are also the objects of belief (i.e. they are both
+propositions) and the sentences (1) and (2) are synonymous, then the belief
+ascriptions:
+    Mary believes that 2 + 2 = 4
+    Mary believes that there are infinitely many prime numbers
+should also be synonymous. But it seems possible for them to differ
+in truth value and hence they are _not_ synonymous (according to truth
+conditional semantics itself).

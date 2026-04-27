@@ -10,14 +10,16 @@ terms.
 
 ====== related to ======
 [[confirmation_holism]]
-??lewis1970-howToDefineTheoreticalTerms??
+[[Fregean_semantics]]/[[Russellian_semantics]](supplying complex definite descriptions that avoid some objections)
+
+??lewis1970-howToDefineTheoreticalTerms??+++
 
 == concerns ==
 === predicates ===
 Although it is a completely convincing account of how to define theoretical
 *terms* it gives no clear guidance as to how to define theoretical *predicates*.
 
-How, for instance, does one introduce the predicate <q>charged</q>? 
+How, for instance, does one introduce the predicate “charged”? 
 
 Lewis appears to think this is a well solved problem, he may well be right:
     (End of §1) It may seem atypical: the T-terms are names, not predicates or
@@ -29,8 +31,9 @@ Lewis appears to think this is a well solved problem, he may well be right:
     sets, attributes, species, states, functions, relations, magnitudes,
     phenomena or what have you; but they are still names.
 
-But this only works if we take predicates as designating properties.
-In particular it requires allowing quantification over predicates
+But this only works if we take predicates as denoting properties (i.e. standing
+in a naming relationship to a universal).  In particular it requires allowing
+quantification over predicates
 e.g.:
     (∃P,x) x is P
 (This is why the language requires a copula [_is_].) This is a Quinean nono.
@@ -44,8 +47,8 @@ literature review would turn up some leads.
 
 === causal roles ===
 If one is nervous about causality (as I am) then this is going to be a problem.
-Lewis assumes, in effect, that the term <q>causes</q> is already a part of the O
-language. Both the problem apply to introducing the term <q>causes</q> and hence
+Lewis assumes, in effect, that the term “causes” is already a part of the O
+language. Both the problem apply to introducing the term “causes” and hence
 to the notion of _causal role_ which lewis relies upon.
 
 == summary ==

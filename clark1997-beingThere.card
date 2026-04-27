@@ -22,7 +22,7 @@ fp. 10 Representation vs symbolic representation
     It persists in the tradition of modeling intelligence as the production of
     symbolically coded solutions to symbolically expressed puzzles. 
 
-This old opposition is the implicit <q>bad guy</q> of the picture which we are
+This old opposition is the implicit “bad guy” of the picture which we are
 about to overcome. I agree that _symbolic_ representations (i.e. in language or
 language like symbols) are not the be-all and and end-all [or even the
 foundation] of cognition/reasoning. However, are we setting up to throw the
@@ -65,17 +65,17 @@ This is kind of the most shocking thing. All the clever people developing clever
 theories about minds and cognition didn't get that far. The successes
 of LLM's are not, primarily, due to the cleverness of their training algorithms
 (though there is room for some). The real driver of their successes is the huge
-quantity of data that has been fed into them. Just </q>Adding more and more
-knowledge</q>, more and more strings of symbols, *succeeded* in
+quantity of data that has been fed into them. Just ”Adding more and more
+knowledge”, more and more strings of symbols, *succeeded* in
 producing flexible, responsive and often reasonable conversational partners.
 
 === 1.3 minds without models ===
 
-So there are at least two distinct themes (<q>morals</q>) that Clark extracts
+So there are at least two distinct themes (“morals”) that Clark extracts
 from the parade of robots that takes up the beginning of the books body:
 
 The first is lack of symbolic representation, the second is the lack of a
-<q>central planner</q>. Clark explicitly links the two:
+“central planner”. Clark explicitly links the two:
 
     The trouble with the central planner is that is profoundly impractical. It
     introduces what Rodney Brooks aptly termed a "representational bottleneck"

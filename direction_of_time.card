@@ -40,7 +40,7 @@ equal to the entropy of the system at t,,1,,.
 
 Now the puzzle is set - according to the laws of physics entropy decreasing
 paths are just as physically possible/likely as entropy increasing, but
-according to the <q>second law</q> we will only see entropy increasing paths.
+according to the “second law” we will only see entropy increasing paths.
 
 === solution 1 ===
 There are many fewer low entropy states than there are high entropy states.
@@ -60,24 +60,24 @@ entropy earlier and high entropy later. And this problem can be considerably
 sharpened as follows:
 
 === Boltzmann brains ===
-If I know that the system is within a <q>ball</q> in statespace (since all my
+If I know that the system is within a “ball” in statespace (since all my
 observations/measurements have error bars) at this moment. And I know the laws
 of physics (i.e. the permitted statespace trajectories) so I also know that most
-of the trajectories passing through that <q>ball</q> of low entropy states 
+of the trajectories passing through that “ball” of low entropy states 
 go on (in future) to high entropy states. Thus I am justified in believing that
 the entropy of the system will increase in future.
 
 *But* exactly the same line of reasoning leads me to believe that the entropy of
 the system will increase in past as well.
 
-The puzzle, on this view, is _not_ merely <q>Why is entropy so low at the start
-of the universe?</q> but <q>How can I be justified in believing that entropy is
-low at the start of the universe?</q>. i.e. Why does my justification for
+The puzzle, on this view, is _not_ merely “Why is entropy so low at the start
+of the universe?” but “How can I be justified in believing that entropy is
+low at the start of the universe?”. i.e. Why does my justification for
 believing that entropy increases in future not also justify me in believing 
 that it increases in past.
 
 The conclusion is that you/(your brain) is the minimal divergence from a very
-high entropy state. While not a <q>new rationale for skepticism</q> it is a
+high entropy state. While not a “new rationale for skepticism” it is a
 _reductio ad absurdum_ of this explanation for (future) increasing entropy.
 
 == local time direction ==

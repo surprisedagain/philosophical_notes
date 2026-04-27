@@ -1,0 +1,80 @@
+:thesis:semantics: <br>
+:history:
+= Russellian semantics =
+====== short ======
+The view at least intermittently held by Russell that propositions are composed
+of the “objects, properties and relations” that they represent.
+
+====== related to ======
+hub: [[influential_semantic_theories]]
+
+[[truth_conditional_semantics]]+++
+[[Fregean_semantics]]
+
+= main =
+Russellian semantics is basically [[Fregean_semantics]] (Frege's distinction
+between sense and reference) with the added claim that senses (at least the
+fundamental ones form which others are constructed) are (the same as)
+the properties(/relationships) of objects that they represent.
+
+Russellian semantics is the doctrine that meanings are composed of “objects, 
+properties, relations and function” (according to
+https://plato.stanford.edu/archives/win2025/entries/meaning/ )
+
+Note the similarity to the traditional (Aristotelian) account of representation
+(see
+[[wn.RLN:collapse_of_traditional_European_accounts_of_reasoning# second problem: the content of scientific theories]]
+)
+
+However, note that the objects and properties that are directly “named” by
+genuine names and predicates are sensibilia (sense data - but they can exist
+independently of any mind – these are the basic elements of Russell's
+metaphysics and ordinary physical objects are “logical constructions” from
+them) and their properties. We are directly acquainted with the property red,
+and it is impossible for us to form the judgement that we are seeing a red
+sensible without there being a red sensible. Our having the thought guarantees
+the existence of the property.
+
+All other properties are known by description (denoted by definite
+descriptions).
+
+== Russellian-Millian semantics ==
+The Millian addition is that the meaning of a “simple proper name” is the
+object to which it refers.
+
+=== objections ===
+==== informative identity statements ====
+Bizarrely (to my mind), the chief interesting objection(s) to Russellian-Millian
+semantics mentioned in the Stanford Encyclopedia is the problems of empty names
+and informative identities.
+3)    “Clark Kent is Clark Kent”
+4)    “Clark Kent is Superman”
+and of course the propositional attitude variants:
+    Lois believes that Clark Kent is Clark Kent
+    Lois believes that Clark Kent is Superman
+present the same problem as they do for
+[[truth_conditional_semantics#objections#propositional attitudes]]
+
+It seems that (3) and (4) differ in meaning. (3) is obviously true wheras (4)
+was (and perhaps can only be) discovered by empirical investigation. And of
+course the first propositional attitude ascription is true and the second is
+false (in the TV series and early comics).
+
+Bizarre because [[local:zz.texts/russell1905-onDenoting.pdf]] centered on
+providing a solution to this problem. On the view “Superman” (at least, but
+“Clark Kent” also) is not a “simple proper name” but really a hidden
+definite description. This was the solution to the “Millian problem” as
+well as meaningfulness of “The King of France is bald” despite the lack of
+French Kings.
+
+==== other objections ====
+I seem to remember an issue along the lines: if true propositions are facts then
+what are the false propositions? If the proposition that a statement expresses
+is “objects properties and relations” in a particular
+structure/arrangement/state of affairs then what about false statements. If
+there is no such arrangement then is the statement meaningless? If there is then
+is the statement true?
+
+This is one of the “museum theories” of language to which Quine so
+opposed. The indeterminacy of translation is the key objection to sentence
+meanings.

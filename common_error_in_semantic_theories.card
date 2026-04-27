@@ -1,8 +1,7 @@
 :representation: <br>
-:idea:bit:RLN: <br>
+:my_idea:bit:RLN: <br>
 :draft0.0:
-:undisputed:discord-reading:presentable:
-= common failoing of semantic =
+= common failing of semantic =
 ====== short ======
 
 ====== related to ======
@@ -10,8 +9,8 @@ https://plato.stanford.edu/entries/dynamic-semantics/
 
 = main =
 We consider a situation in which a sentence might have different
-<q>meanings</q>. In this condition or in this context this sentence is true (or
-better yet grammatical) but in this context the setnece is clearly false (or
+“meanings”. In this condition or in this context this sentence is true (or
+better yet grammatical) but in this context the setence is clearly false (or
 better yet ungrammatical)
 
 One, purely lingusitic change of context is exemplified by the first example
@@ -20,15 +19,15 @@ https://plato.stanford.edu/entries/dynamic-semantics/
 
     Mary met a student yesterday. He needed help.
 
-In this (somehow annoyingly trivial) example the meaning of <q>He needed
-help.</q> depends upon its context which includes the sentence preceeding it.
-Another only half remembered example was <q>He passed the ball forwards</q>
+In this (somehow annoyingly trivial) example the meaning of “He needed
+help.” depends upon its context which includes the sentence preceeding it.
+Another only half remembered example was “He passed the ball forwards”
 or something similar - was it the different meanings of passed, and the specific
 standard in the context of rugby - or was it aome jargon term of soccer which
 changes meaning in context.
 
 We then invent a theory of semantics AND OF HIDDEN SEMANTIC STRUCTURE (or in the
-case of <q>dynamic semantics</q> a hidden process).
+case of “dynamic semantics” a hidden process).
 
 It reminds me of the Dalai Lama's rejection of psychotherapy - on the grounds
 that it sometimes leaves out what happens in a past life. The problem isn't
@@ -38,7 +37,7 @@ re-incarnation (or at least not in a way that what happened in a previous life
 can affect ones
 
 
-There is a reasonable gounds to insist that syntax, and the mapping from syntax
+There is a reasonable grounds to insist that syntax, and the mapping from syntax
 to parse tree, or other semantic structures should be decidable.
 
 

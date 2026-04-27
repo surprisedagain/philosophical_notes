@@ -1,0 +1,26 @@
+:topic:my_idea:representation: <br>
+:draft0.0:
+:undisputed:discord-reading:presentable:RLN:
+= Tarski's definition of truth =
+====== short ======
+Fit for purpose - which was simply to define _*logical truth*_.
+
+====== related to ======
+[[attitudes_towards_logical_truth]]
+
+--[[influential_semantic_theories]]
+--[[moschovakis2017-senseDenotationAlgorithmValue]]
+
+= main =
+Tarski's definitions only define truth given the extension of each predicate and
+reflect only the logical structure by which those predicates are combined.  For
+Tarski's purpose, which was explicitly to define a notion of logical truth, this
+was adequate.  
+
+No account is offered as to how the extensions of those fundamental predicates
+are fixed. (Let them be fixed how you will, it doesn't matter for the purpose of
+defining _logical truth_.)
+
+Can easily (mis)lead into feeling that the problem is to determine those
+predicates extensions and that hence the approach to semantics should be bottom
+up. 

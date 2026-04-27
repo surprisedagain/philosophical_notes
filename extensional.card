@@ -4,7 +4,7 @@
 = extensional =
 ====== short ======
 The extension of a predicate is the class of objects of which it is true.
-The term <q>extension</q> is commonly used(/extended) to apply to names and
+The term “extension” is commonly used(/extended) to apply to names and
 relationships as well. 
 The extension of a name is the object it names/refers to.
 The extension of a relationship is the class of tuples of objects of which it is
@@ -14,7 +14,6 @@ An occurrence of a term (that has an extension) is *extensional* iff every
 replacement of that term with another that has the same extension (i.e. is true
 of the same tuples of objects) produces a sentence whose truth value is the
 same as the original.
-
 
 ====== related to ======
 [[lewis1986-pluralityOfWorlds]]

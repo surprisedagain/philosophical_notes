@@ -1,0 +1,166 @@
+:thesis:semantics: <br>
+:history:
+= Fregean semantics =
+====== short ======
+Meanings are senses which denote the opbjects that they refer to.
+
+====== related to ======
+hub: [[influential_semantic_theories]]
+
+[[truth_conditional_semantics]]+++
+++[[Russellian_semantics]]
+[[extensional]]+++
+
+= main =
+Frege maintained that there are things that stand in much the same relationship
+to (n-place) predicates (and sentences) that name stand in to objects. In each
+case there is the symbol, the sense that it expresses and the object that it
+denotes.
+
+Statements express intentions  and denote the truth values true and false.
+
+Just as names have sense and reference (the mode of presentation which singles
+out the object and the object denoted) sentences have a sense (an intension
+which is, or at least fixes, its truth conditions) and denote a truth value
+(true or false - somewhat akin to the way definite descriptions denote an
+object, but which object depends on how the world is)
+
+Note that just as substituting extensionally equivalent predicates (or
+descriptions) does not alter the truth value of [[extensional]] statements. So
+too substituting one sentential clause for another naming the same truth value
+will not change the truth value of a truth functional statement.
+
+=== Fregean senses ===
+Senses are both objective because they can be shared - you and I use the term
+“fire-engine” with the same sense (among other things it is true of the
+same objects) regardless of our personal ideas about fire engines.
+
+But they are subjective in that they are the “modes of presentation”
+by which external objects (and properties) are presented to the mind.
+
+To at least a first approximation, Fregean senses are concepts.
+
+In the case of names, this seems to amount to taking names to be hidden definite
+descriptions. But I would like to see an example of this attitude being taken to
+predicates (and the properties that their senses presumably present to the
+mind).
+
+*Freges criterion of synonymy*:
+    Two sentences S and S* differ in sense if and only if some rational agent
+    who understood both could, on reflection, judge that S is true without
+    judging that S* is true.<br>
+    (_A Brief Survey of my Logical Doctrines_, 1906)
+
+=== objections ===
+==== all necessary truths synonymous ====
+An immediate consequence of Frege's criterion of synonymy is that
+all necessary truths are synonymous (this is true of all forms of truth
+functional semantics; see [[truth_conditional_semantics#objections#necessary truths]] ).
+
+But Frege does seem to have a way out here. Even if two statements have the same
+truth conditions they may achieve those conditions by combining different
+senses. Meanings are structures that fix but are not the same as truth
+conditions. This means giving up the criteria above and replacing it with the
+following:
+{{{
+	S and S* differ in sense if some rational agent who understood both could
+	judge that S is true without judging that S* is true.
+    AND
+    If expressions E and E* differ in sense iff there is some sentence S which
+    contains E, and substituting E* for E in S produces a statement that a
+    rational agent could judge true without judging that S is true
+    AND
+	S and S* differ in sense iff they have different logical/intensional
+	structures or contain expressions with different senses in some position in
+	their logical/intensional structure.
+}}}
+
+==== Kripkes modal argument ====
+*against names as definite descriptions*
+Frege can appeal to the sense of names to explain how there are informative
+identity statements. (see [[Russellian_semantics#informative identity statements]] )
+
+But treating names as disguised definite descriptions seems to give rise to
+further problems:
+from: [[kripke1980-namingAndNecessity#lecture 1]]
+    1) Necessarily, if Aristotle exists, then Aristotle is Aristotle.
+    2) Necessarily, if Aristotle exists, then Aristotle is the greatest
+       philosopher of antiquity.
+
+If for each (meaningful) name there is a definite description (such as
+“greatest philosopher of antiquity”) expressing the same sense (at
+least for one subject or other) then replacing the name with that definite
+description should leave the meaning of the sentence unchanged. However,
+replacing the last “Aristotle” in (1) with the matching definite
+description produces (2) which seems to have a different truth value. It seems
+that no matter what definite description we put in its place the same problem
+will arise.
+
+However, Frege can maintain that “In the case of genuinely proper names like
+'Aristotle' opinions as regards their sense may diverge.” But, “As long as
+the nominatum remains the same, these fluctuations in sense are tolerable”. 
+
+Although this only frees Frege from claiming that there is some shared snese of
+the name he still appears to have to maintain that there is some such definite
+description/sense for each person who can use that name correctly.
+
+However, perhaps there is a sufficiently complex definite description that will
+do the job. Consider if Mary claims that Jesus didn't live in Palestine, didn't
+live during the 1st century CE, wasn't Jewish, wasn't male, didn't preach about
+compassion or service to others and was not crucified. Perhaps she believes
+that Jesus is the person who lives at the end of her street.  Perhaps she
+maintains that the person who lives at the end of her street is the messiah, the
+Son of God and the Son of Man; or that in some other way the man living at the
+end of her street possesses some of the properties (the most important ones)
+attributed to Jesus in the canonical accounts of him. But maybe she doesn't
+believe that anyone even approximately fulfills the description of Jesus given
+in the gospels and yet that the person at the end of her street is Jesus.
+
+It seems like a natural reaction is to ask “In what sense are they Jesus?”
+It does seem that there may be some truly complex definite description, some
+sort of weighted cluster of properties and relations such that if an object
+doesn't fulfill them then it is not possible for them to be Jesus (mutatis
+mutandis Aristotle). This seems like it could be combined with
+[[lewis1972-psychophysicalAndTheoreticalIdentifications]] – It is not possible
+for an object that does not come remotely near enough to fulfilling our theory
+of Jesus to be Jesus.
+
+If we combine this with the variability of the sense from one speaker to another
+it seems like we can get quite a reasonable defence going. The objection is now
+that no-one can give this complex definite description on request.
+
+other defences:
+	Plantinga, 1978, _The Boethian Compromise_
+	Dummett, 1981, _The Interpretation of Frege’s Philosophy_
+	Sosa, 2001, _Rigidity in the Scope of Russell’s Theory_
+counter:
+	Soames, 1998, _The Modal Argument: Wide Scope and Rigidified Descriptions_
+			2002, _Beyond Rigidity: The Unfinished Semantic Agenda of Naming and Necessity_
+	Caplan, 2005, _Against Widescopism_
+a further defence:
+	Rothschild, 2007, _Presuppositions and Scope_
+
+==== unknown synonyms ====
+from Salmon 1990 “A Millian Heir Rejects the Wages of Sinn”, in _Propositional Attitudes: The Role of Content in Logic, Language, and Mind_
+    3) Bob believes that catsup is catsup.
+    4) Bob believes that catsup is ketchup.
+The objection goes:
+(3) is true and (4) is false (by hypothesis Bob falsely believes that these are
+two different sauces). So it appears that Frege must deny that “catsup” and
+“ketchup” are synonymous. This suggests that terms(mass terms/predicates)
+are only synonymous if it is impossible to believe just one of them. It seems
+that Frege must multiply senses to an implausible degree. (“catsup” and
+“ketchup” are synonyms if anything is.)
+
+===== response =====
+Bob is using language improperly, or at least idiosyncratically. He doesn't have
+the concept “catsup” (or even “ketchup”) – which is to say he has no
+term that expresses the (identical) senses of those terms. Hence nether (7) nor
+(8) is true. Bob may believe that the condiment commonly called “catsup” is 
+commonly called “catsup” and (erroneously) that the condiment commonly called
+“catsup” is not commonly called “ketchup”, but he lacks the concepts.
+
+Bob is still of course an English speaker, and hence what he is doing is wrong.
+But his (norm breaching) error is to have matched up “catsup” with the
+wrong concept. He is making a (linguistic) error – but he still doesn't believe
+either (3) or (4).

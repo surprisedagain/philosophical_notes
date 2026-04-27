@@ -1,0 +1,33 @@
+:topic:hub:semantics: <br>
+:undisputed:history:
+= influential semantic theories =
+====== short ====== 
+brief recap of truth cuntional/possible worlds, Russellian, Russellian-Millian and
+Fregean semantics. Aristotelian semantics also deserves a guernsey.
+
+====== hub ======
+Aristotelian semantics: [[wn.RLN:collapse_of_traditional_European_accounts_of_reasoning# second problem: the content of scientific theories]]
+[[truth_conditional_semantics]]
+[[Fregean_semantics]]
+[[Russellian_semantics]]
+
+[[#Davidsons truth theories]]
+
+====== related to ====== 
+[[semantic_holism]]
+[[attitudes_towards_necessity]]
++[[kripke1980-namingAndNecessity]]
+
+:RLN: Alignment between propositions as the meanings of statements (hence fixing
+their truth conditions) and as objects of belief (John may believe that 2+2=4
+without believing that there are infinitely many prime numbers) is an ongoing
+problem once the Aristotelian account is rejected.
+
+
+
+=== Davidsons truth theories ===
+What do we want from a theory of semantics? (An explanation of how it is that
+some things represent other things?) Davidson claims that all we want is to
+capture sentences such as the following as theorems.
+	“Amelia sings” is T (in language L) if and only if Amelia sings.
+
