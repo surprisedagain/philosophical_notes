@@ -12,6 +12,7 @@
 
 
 
+
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 # START OF LIST !!!!!!!!!!!!!!!!
 
@@ -36,6 +37,10 @@ s/href="[^"]*zz.texts[^"]*\/russell1917-mysticismAndLogic\.pdf"/href="https:\/\/
 
 # quine1950-methodsOfLogic.pdf https://n2t.net/ark:/13960/s20gzfz2zbf
 s/href="[^"]*zz.texts[^"]*\/quine1950-methodsOfLogic\.pdf"/href="https:\/\/n2t\.net\/ark:\/13960\/s20gzfz2zbf"/g
+
+# quine1969-ontologicalRelativityAOE.pdf https://www.doi.org/10.7312/quin92204
+s/href="[^"]*zz.texts[^"]*\/quine1969-ontologicalRelativityAOE\.pdf"/href="https:\/\/www\.doi\.org\/10\.7312\/quin92204"/g
+
 
 # END OF LIST @@@@@@@@@@@@@@@@@@@@
 # @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

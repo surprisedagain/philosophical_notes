@@ -1,12 +1,11 @@
 :undisputed:knowledge: <br>
 :draft0.2:
 = epistemic safety and sensitivity =
-
 ====== short ======
-Both safety and sensitivity are suggested modal criteria for knowledge.<br>
-S's belief that P is sensitive iff (if P were false then S would not believe it
+Both safety and sensitivity are suggested modal criteria for knowledge.
+S's belief that P is sensitive iff (if P were false then S would not believe it).
 S's belief that P is safe iff (In all nearby worlds where S believes that P, P
-is not false.)<br>
+is not false.)
 
 ====== related to ======
 [[knowledge]], [[gettier_counterexamples]]
@@ -19,16 +18,15 @@ the requirements for knowledge in order to avoid [[gettier_counterexamples]].
 The term “epistemic safety” was first introduced in
 _How to Defeat Opposition to Moore_ (Sosa, 1999, https://doi.org/10.1111/0029-4624.33.s13.7).
 
-In the original formulation, safety was defined as follows: <br>
-   | *S's belief in P is safe Df.<-> If S were to believe P, P would be true* |
-(this is the contrapositive of [[#sensitivity]])
+In the original formulation, safety was defined as follows:
+    *S's belief in P is safe Df.<-> If S were to believe P, P would be true*
 
-Combined with a Lewis analysis of counterfactuals this is inter-deducible with: <br>
-“In the nearest possible world in which S believes P, P is true.” <br>
+Combined with a Lewis analysis of counterfactuals this is inter-deducible with:
+    In the nearest possible world in which S believes P, P is true.
 This has the immediate implication that all true beliefs are safe.
 
 Sosa appears to have intended the stronger and more interesting definition:
-  | *S's belief in P is safe Df.<-> In _all nearby_ possible worlds where S believes P, P is true.* |
+    *S's belief in P is safe Df.<-> In _all nearby_ possible worlds where S believes P, P is true.*
 
 == sensitivity ==
 S's belief that P is epistemically sensitive
@@ -36,12 +34,12 @@ iff
 if P were false S then would not believe that P
 
 It is tempting to combine this with David Lewis's analysis of counterfactuals
-to produce the claim that :!2:
-
+to produce the claim that:
+    In the nearest possible world in which P is false, S does not believe P.
 
 === objections ===
 ==== abominable conjunctions ====
-Abominable conjunctions are the most commonly given reason for rejecting sensitivity
-The term abominable conjunction is from [[local:zz.texts/deRose1995-solvingSkepticalProblem.pdf|_Solving the Skeptical Problem_]]
-(de Rose, 1995).
+Abominable conjunctions are the most commonly given reason for rejecting
+sensitivity as a sufficient criterion for knowledge.
+The term abominable conjunction is from [[local:zz.texts/deRose1995-solvingSkepticalProblem.pdf_]]
 There is a paper in this :!8: In defence of abominable conjunctions

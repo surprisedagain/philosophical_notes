@@ -2,14 +2,17 @@
 :undisputed:history:
 = influential semantic theories =
 ====== short ====== 
-brief recap of truth cuntional/possible worlds, Russellian, Russellian-Millian and
-Fregean semantics. Aristotelian semantics also deserves a guernsey.
+links to truth functional/possible worlds, Russellian, Russellian-Millian
+and Fregean semantics. Aristotelian semantics also gets a link. Some less
+central semantic theories briefly described.
 
 ====== hub ======
 Aristotelian semantics: [[wn.RLN:collapse_of_traditional_European_accounts_of_reasoning# second problem: the content of scientific theories]]
 [[truth_conditional_semantics]]
-[[Fregean_semantics]]
-[[Russellian_semantics]]
+[[fregean_semantics]]
+[[russellian_semantics]]
+
+[[evans_theory_of_names]]
 
 [[#Davidsons truth theories]]
 
@@ -23,11 +26,54 @@ their truth conditions) and as objects of belief (John may believe that 2+2=4
 without believing that there are infinitely many prime numbers) is an ongoing
 problem once the Aristotelian account is rejected.
 
-
-
 === Davidsons truth theories ===
 What do we want from a theory of semantics? (An explanation of how it is that
 some things represent other things?) Davidson claims that all we want is to
 capture sentences such as the following as theorems.
-	“Amelia sings” is T (in language L) if and only if Amelia sings.
+    1) “Amelia sings” is T (in language L) if and only if Amelia sings.
 
+Now clearly the “if and only if” is an truth functional connective, so if we
+replace either side of (1) with a sentence with the same truth value the truth
+value of (1) will not be changed. So
+    2) “Amelia sings” is T (in language L) if and only if grass is green.
+is true and just as good a way of specifying the truth value of (1)
+
+In cases where the interpreter (devisor of the semantic theory) knows that a
+statement of L is true(/false) the T theory may as well be something like:
+    “Amelia sings” is T in L
+
+But there will be many sentences of L whose truth value is unknown to the
+devisor of the theory, and even for them she needs to come up with some
+statement in the home language that she is justified in believing has the same
+truth value as the sentence of junglese.
+
+Davidson's claim is that we must have a systematic way of constructing these
+truth value matching theorems. And that any systematic way of doing so will have
+to get the meanings right.  We can match up a finite number of sentences of
+junglese and the home tongue by ad hoc means, but to be confident in the
+infinitely many matches of the theory is required to capture as theorems it will
+have to (in all but a finite number of cases[or types of case]) match sentences
+we normally view as having the same meaning.
+~~His justification for this claim is obscure to me.~~
+
+=== internalist semantics ===
+unknown to me - two major works are:
+
+Chomsky, Noam (2000) New Horizons in the Study of Language and Mind. 
+Pietroski, 2018, Conjoining Meanings: Semantics Without Truth Values, doi:10.1093/oso/9780198812722.001.0001
+
+There may be something compatible with my view, in that the construction of
+mental representations may be an undecidable task. Also may connect with
+[[common_error_in_semantic_theories]]
+
+=== inferentialist semantics ===
+==== problems ====
+How can we identify the same inference without identifying the same propositions
+they are between. We could identify overall inferential structure but no two
+people have the same inferential structure. Ee have the same difficulty in
+separating background knowledge (known to all speakers of the relevant language)
+and the meaning
+It appears that they have to rely upon a distinction between primitive
+inferences, and enthymemes
+
+Fundamental reason for rejecting is [[semantic_holism]]

@@ -1,0 +1,53 @@
+:thesis:mathematics:semantics: <br
+:history:
+= Fregean mathematics =
+====== short ======
+Frege's account of what numbers are.
+
+====== related to ======
+[[timeline_of_early_analytic_philosophers#Frege]]
+
+<->!!![[fregean_semantics]]
+<->!!!![[Fregean_logic]]
+
+[[local:zz.texts/frege1884-foundationsOfArithmetic.austinTrans.pdf]]
+
+= main =
+
+== foundations of arithmetic ==
+    In the enquiry that follows, I have kept to three fundamental principles:
+        * Always to separate sharply the psychological from the logical, the
+          subjective from the objective;
+        * never to ask for the meaning of a word in isolation, but only in the
+          context of a proposition;
+        * never to lose sight of the distinction between concept and object.
+			[[local:zz.texts/frege1884-foundationsOfArithmetic.austinTrans.pdf]]
+
+A (the?) key move is Frege's claim that for each equivalence relationship there
+is something (an object in the domain of quantification) that is what is common
+to the objects in that relationship to each other.
+
+equivalence relation (reflexive, symmetric and transitive)
+
+Examples: same length/pitch/mass, parallel, 
+
+
+aRb <=> x⃰(aRx) = x⃰(xRb)
+
+Now, precisely because R is supposed to be an
+Look at this as a way of eliminating x⃰
+
+Frege's method is to define the number 5 as what is common between all
+collections that are equinumerous with (say) the fingers on my left hand.
+
+
+=== objection ===
+==== is Julius Caesar the number 5? ====
+
+Frege's method of defining number as 'what is common between all objects that
+are related by an equivalence relation' (such as having a 1-1 mapping between
+them can define what the numbers are) doesn't settle the truth value of the
+claim “Julius Caesar is the number 5”.
+
+
+

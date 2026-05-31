@@ -1,17 +1,43 @@
 :person:history:logic:draft0.0:
-= leibniz =
+= Leibniz =
 ====== short ======
 Leibniz, Gottfried (1646-1716)
 
 ====== related to ======
-[[frege]], 
++![[fregean_semantics]]
++[[influential_semantic_theories]]
+
++++![[identity_of_indiscernables#Leibnizs law]]
++!![[identity_of_indiscernables#principle of substitution]]
 
 ====== works ======
+[[local:zz.texts/leibniz1716-essays.pdf]]
+[[local:zz.texts/leibniz1716-lettersAndPapers.pdf]]
 
 = main =
+== characteristica universalis == 
+== calculus ratiocinator ==
+
+
+== antecedent of eliminative definition ==
+Leibniz' treatment of infinitesimals in his development of calculus is a
+precursor of what would later be called eliminative definition (see
+[[russellian_semantics#eliminative definition]]
+
+Leibniz called infinitesimals “useful fictions” (fictiones utiles) and
+“well-founded fictions”; holding that they may be used in reasoning but results
+must be justifiable without them.
+
+This is extremely close to eliminability. In modern reconstructions (via
+limits), one shows that any result obtained using infinitesimals can be
+paraphrased into ε–δ language
+
+Leibniz doesn't have ε–δ, but he does insist that infinitesimal reasoning is
+legitimate because it can be grounded in ordinary finite quantities.
+
 == questions ==
 = influence before rediscovery? =
-Leibniz was clearly a well known to 18th and 19th century intellectuals.
+Leibniz was clearly well known to 18th and 19th century intellectuals.
 
 Perhaps only the monadology and theodicee were well known however.
 
@@ -23,8 +49,6 @@ The Theodicee was known, and Candide certainly presented his but to what extent
 were his views on logic, analyticity and necessity known?
 
 The algebraic approaches to logic were *not* generally known
-
-= other related cards =
 
 = rough notes =
 For almost 150 years after his death, however, Leibniz's views on logic,

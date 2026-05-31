@@ -1,0 +1,130 @@
+:technique:carnap: <br>
+:quality7:influence7:agree6:draft0.0:
+:undisputed:discord-reading:presentable:RLN:
+= Carnaps quasi-analysis =
+====== short ======
+Carnaps technique of quasi-analysis is a key part of both Russell's attempted
+reduction of mathematics to pure logic (rather than set theory) and
+Wittgenstein's account of propositions and symbols in the tractatus.
+
+====== related to ======
+++[[russellian_semantics#denoting phrases meaningless in isolation]]
+++[[tractatus]]
+
+–[[dennett2017-historyOfQualia]] (qualia without Cartesian theatre)
+
+[[local:zz.texts/carnap1926-derAufbauDerWelt.pdf]]!!!
+(see annotations in pdf)
+
+= main =
+== technique ==
+Carnap's initial description of “quasi-analysis” is cryptic:
+    Generally speaking . . .  quasi analysis is to achieve the following:
+    unanalyzable units of any kind, a pair list of which is presupposed, are to
+    be manipulated with the constructional ascension forms of class and relation
+    extension (i.e., with synthetic methods) in such a way that the result is a
+    formal substitution for proper analysis (i.e., the analysis into
+    constituents or properties), which cannot be carried out in this case.
+
+Lets consider an example from Carnap:
+Suppose we have a list of pairs of objects. In the cases we will be interested
+in these will be a list of pairs of objects that are like each other in some
+way. Each pair might have some property in common, but for whatever reason we
+are prevented from producing an analysis of these object's properties. All we
+know about these objects is which of pairs of them are on this list (i.e. we
+know the extension of the relationship “similar-to”).
+
+On this basis of this single relationship of “similar-to” we can define terms
+that behave like ascriptions of properties that these objects have in common.
+    Let there be altogether five different colors. Let us define the relation of
+    "color kinship" in such a way that it is to hold for two things if these
+    have at least one color in common. Let the things be individually
+    designated, for example, by numbers. Now let us assume that we do not know
+    of any of the things which colors it has. All we have is a pair list (i.e.,
+    we know only the extension of the relation of color kinship: we are told all
+    pairs for which this relation holds, but we are not told which color these
+    two things have in common). In other words, the extension of the relation of
+    color kinship is completely given. Now, our task consists in inferring from
+    these data the distribution of colors. We cannot proceed by choosing one of
+    the things at random and determining all its color kin on the basis of the
+    pair list, for it does not follow that all these are color akin to each
+    other.
+
+For instance, one object _A_ might be both partly red (and hence
+similar[/related by _colour kinship_] to other objects that are at least partly
+red) and partly green (and hence similar[/related by _colour kinship_] to other
+objects that are at least partly green).  But there may be two (or more) objects
+that are colour kin to _A_ but not colour kin to each other (e.g. one object
+that is purely green and another that is purely red).
+
+On the basis of this similarity relation, provided it is symmetric(:anything I am similar to is similar to me:) and
+reflexive(:each thing is similar to itself:) we can determine how many different colours there are, and identify
+the extension of each colour (i.e. the classes of objects that are partly that
+colour), though of course we cannot identify the colours themselves. We might,
+for instance, determine that there are 5 colours and that one colour is shared
+by objects A, B and C and another colour and B, C, D and E all share another
+colour, but we cannot work out which colour is red or green etc., (Carnap has a
+problem of free-loaders. If each partly blue thing is also partly red, the
+extension of colour-kinship will not allow us to distinguish blue from red.
+Wittgenstein does not have this problem since he is concerned with the space of
+possible propositions.)
+
+The two principles for assigning colours to objects (or rather objects to colour
+classes) are:
+    First of all, any two elements of a color class stand in the relation of
+    color kinship to one another (because the members of the pair both have the
+    color which determines the color class). Secondly, the color classes are the
+    largest possible classes all of whose members are color-akin.
+Carnap intends to use this technique to deliniate sensation types. Say, seeing a
+red square in the lower right quadrant of the visual field, or hearing the tone
+middle C.  But he cant find unproblematic sensory elements from which to
+composes whole/gestalt sensations.  In particular he is worried that the hearing
+of the chord composed of the notes C-E-G is _not_ a sensation that is composed
+of hearing C, hearing E, and hearing G, but rather a sort of organic whole that
+taken by itself has nothing tripartite about it. Rather than trying to identify
+the property _Hearing-C(...)_, he instead simply identifies the set of sounds
+which are tone kin to each other without postulating some phenomena which is
+common to them all.
+
+On the basis of the relation of colour similarity we can define a number of
+(one-place) predicates such as _Colour1_, _Colour2_, in terms of the (two-place)
+_colour kinship_ relationship.
+The trick hinges on quasi-identifying the property with the class of things that
+are related by the relevant similarity relation. Attributions of membership of
+the relevant class of objects related by colour/tone kinship (or whatever the
+relevant form of similarity is) can do the job of attributions of properties.
+Instead of talking about the property of _being_ red, or some other constituent of
+these objects that is supposed to be common between them, we can instead say
+that they are members of a colour class. (i.e. a maximal class of objects that
+are related to each other by the _similar to_ relation).
+
+We identify (in a loose sense of identity) the common property with the class of
+objects that are related to each other by similarity.  In short rather that
+saying “P(a)” we say [a is a member of {x: x is a member of a largest set of
+objects that all bear the similarity relationship to each other}].
+
+== basis ==
+*ontological commitments*
+The basis of Carnap's logical constructions in [[local:zz.texts/carnap1926-derAufbauDerWelt.pdf|_der Aufbau der Welt_]]
+are terms denoting fundamental irreducibly gestalt experiences. From this
+foundation Carnap proposed to logically construct talk of all other objects
+(phenomenal and physical).
+
+These gestalt experiences stood to each other in relations of part-identity and
+part-similarity but were not themselves composed of phenomenal entities (or
+indeed of anything). In Carnap's system, coloured sections of the visual field,
+for instance, are treated as classes of gestalt experiences (those which we may
+afterwards identify as being coloured alike in that section).  Carnap intended
+this to eliminate, in the final analysis, all objects (phenomenal and otherwise)
+apart from the gestalt experiences themselves. Even reference to classes of
+these fundamental total experiences was to be viewed merely as a way of talking
+about the experiences themselves instead of distinct objects:
+
+    The "class" is not, properly speaking, an object. Its symbol merely serves
+    to make those assertions which hold equally for all its elements
+
+We may be unconvinced that ontological commitments to classes can be so
+trivially dispensed with. We may also remain unsure if the postulation of some
+kind of experiential/phenomenological entities is indispensable to our talk of
+psychological states. However this approach was a key commonality between
+Wittgenstein, Carnap and Russell. It is particularly key to 

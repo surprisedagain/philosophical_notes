@@ -1,0 +1,177 @@
+:technique:semantics:history: <br>
+= contextual definition =
+====== short ======
+
+====== related to ======
+[[timeline_of_enlightenment_philosophers]]
+[[timeline_of_early_analytic_philosophers]]
+
+[[truth_conditional_semantics]]+++[[fregean_semantics]]+++[[russellian_semantics]]++[[tractatus]]
+
+[[aristotelian_logic#categorematic and syncategorematic terms]]++
+
+= main =
+Contextual definition is a method for defining terms by 
+Belief that some words/phrases have no meaning in isolation but only as parts of
+whole statements.
+
+It marks a shift from taking (some) terms, or words as being the primary bearers
+of meaning (see [[aristotelian_logic#Categorematic]] to regarding propositions
+as the fundamental bearers of meaning 
+It is reasonable to ask what import this shift has, for if sentence meanings
+are a function of the combination of the words they contain then the meaning of
+a word may be recognise as whatever it is that it contributes to sentence
+meanings. The difference cashes out in the validity of contextual definition.
+
+=== history ===
+A distinction between terms/phrases that have meaning in
+isolation and those that don't be traced back as far as the scholastic
+account of syncategorematic terms (see [[aristotelian_logic#categorematic and syncategorematic terms]])
+
+Jeremy Bentham first made this shift claiming that:
+“if nothing less than the import of an entire proposition be sufficient for the
+giving full expression to any the most simple thought, it follows that no word,
+being anything more than a fragment of a proposition, no word is in itself the
+complete sign of any thought.”
+
+The technique of contextual definition was first explicitly applied by Frege;
+but it
+
+brought to the attention of 20th century philosophers
+is primarily associated with Russell who used the technique to
+great effect in the ground breaking paper _On Denoting_ (see [[russellian_semantics]])
+
+At times Russell talks of contextual definition as showing that the phrases
+being contextually defined have no meaning in isolation.
+    “C(a man)” means “‘C(x) and x is human’ is not always false”.
+    This leaves “a man”, by itself, wholly destitute of meaning, but gives a
+    meaning to every proposition in whose verbal expression “a man” occurs.
+
+    According to the view which I advocate, a denoting phrase is essentially
+    part of a sentence, and does not, like most single words, have any
+    significance on its own account.
+								[[local:zz.texts/russell1905-onDenoting.pdf]]
+
+At other times he claims that these phrases are synonymous with the (incomplete)
+structures that replace them:
+    The names that we commonly use, like “Socrates”, are really abbreviations
+    for descriptions...
+				[[local:zz.texts/russell1918-thePhilosophyOfLogicalAtomism.pdf]]
+	
+    “Apollo” means really “the object having such and such properties”. say “the
+    object having the properties enumerated in the Classical Dictionary”
+												_Principia Mathematica_, 1910-13
+
+Russell certainly
+
+For the purposes of explaining what a sentence means
+
+    When we entertain, therefore, any suspicion, that a philosophical term is
+    employed without any meaning or idea (as is but too frequent), we need but
+    enquire, from what impression is that supposed idea derived? And if it be
+    impossible to assign any, this will serve to confirm our suspicion. 
+
+or be a general term applied to a class of experiences that resemble one
+another.
+
+do not have meaning in the same way.
+
+allows one to hold that the key to meaning is some property only possessed by
+whole sentences (truth conditions and verification conditions are among the best
+known traditional candidates); *and that despite this* subsential
+words/phrases/constructions are meaningful in that they contribute to the
+meanings of the sentences a that contain them.
+
+thus in the hands of empiricists
+
+One of the distinguishing features of contextual definition, is that it does not
+involve saying what the meaning of the phrase being defined is. Instead a systematic way of
+constructing alternative sentences that exemplify its meaning is provided.
+In Wittgenstein's hands this became the basis of an entire philosophy of
+language.
+
+
+To specify the meaning of a term was to give the object it referred to or the
+property/concept universal that it expressed. In the case of names for
+particualr objects this would be the object it referred to, and in the case of
+predicates this would be the universal
+
+In particular:
+
+The either was referring to a different object (the generic or universal man)
+wheras some men referred to men ambiguously 
+
+Wheras earlier accounts of definition required (or at least
+
+The key feature of contextual definition is that for any sentence containing the
+term/phrase to be defined there is specified a
+
+
+How do we tell that the defined free version 
+
+producing a synonym that does not contain the defined term/phrase for any
+sentence that does.
+
+For any term worthy of defending the claim that it has meaning, (or that it is
+not a mere abbreviation HMM?? ) it can occur in an infinite number of differenet
+contexts. Thus some recursive method of
+
+
+the meaning of individual phrases/
+
+
+systematic general method of
+
+
+But, at least t
+
+
+In [[local:zz.texts/quine1981-theoriesAndThings.pdf|_Five Milestones of Empiricism_]]
+
+Hume
+mistaking resemblance for identity gives us the idea of continued external
+existences
+
+	This resemblance is observ’d in a thousand instances, and naturally connects
+	together our ideas of these interrupted perceptions by the strongest
+	relation, 
+
+This resemblance leads us into “mistaking the succession of our interrupted
+perceptions for an identical object.”
+
+and hence our words do not denote(refer to) external objects  or their
+properties but instead
+words name sensations – iron names a taste a feel
+
+
+
+(but of for by and or is etc.,)
+According to Quine(()), John Tooke (1736-1812) attempted to present an etymology according
+to which these terms were derived from sensible actions or states (
+“if” was a degenerate form of “give”, “but” of “be out”. 
+
+
+
+Bentham called this paraphrasis and used the technique primarily to avoid
+objects and properties which could not be reduced to empirically acceptable
+concepts in their own right.
+
+Bentham's primary target was to reconcile talk of rights with legal positivism.
+His move was not to try to define rights in empirically acceptable terms, not to
+give a phrase or term that could replace “has the right to” in sentences, or
+conditions under which rights had been positively conferred, but rather to give
+replacements of the whole sentence. In this way talk of rights was to be
+replaced with talk of duties imposed upon other members of society, and then
+talk of duties was to be replaced with talk of punishment for failure to carry
+them out.
+
+Note that this is not the same as giving an analysis of right - for instance
+“god's permission” or “requirement of human dignity”, those whether you
+like them as analyses or not are replacing phrases, wheras contextual
+definitions of paraphrasis is a technique of replacing whole sentneces which
+synonyms which avoid troublesome phrases and do not contain any part that is
+synonymous to those phrases.
+
+
+
+

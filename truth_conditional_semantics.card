@@ -7,8 +7,8 @@ now aka *possible worlds semantics*
 
 ====== related to ======
 hub: [[influential_semantic_theories]]
-++[[Fregean_semantics]]
-++[[Russellian_semantics]]
+++[[fregean_semantics]]
+++[[russellian_semantics]]
 
 = main =
 The original naive version of this is sometimes expressed by early analytic
@@ -29,7 +29,7 @@ circumstance of evaluation.
 Or as the [[https://plato.stanford.edu/archives/win2025/entries/meaning/|Stanford Encyclopedia]] somewhat tendentiously puts it:
     two sentences express the same proposition if and only if it is impossible
     for them to differ in truth-value.
-(this is a modern version of [[Fregean_semantics#Freges criterion of synonymy]]
+(this is a modern version of [[fregean_semantics#Freges criterion of synonymy]]
 hence that can be taken as a form of truth functional semantics - however senses
 complicate things)
 
@@ -37,6 +37,8 @@ A function from possible worlds to truth values is sometimes called an
 intension in more recent (quasi-technical) literature.
 
 === objections ===
+
+The division into the fixation of truth conditions is not fine enough.
 ==== all necessary truths synonymous ====
 It seems implausible that all necessary truths assert the same proposition
 despite being true in the same possible worlds (i.e. all of them).
@@ -44,8 +46,52 @@ despite being true in the same possible worlds (i.e. all of them).
 e.g. It seems that
     1)    2 + 2 = 4
     2)    There are infinitely many prime numbers
-have different meanings despite being true in exactly the same possible worlds
-(i.e. all of them).
+have different meanings despite both being true in every possible world (and
+hence true in exactly the same possible worlds).
+
+==== hyperintensionality ====
+More generally([[#note1]]), it seems that two statements may have the same truth conditions
+(and hence necessarily have the same truth value) and yet a person believe just
+one of them. But if a person believes just one of them then, it is suggested,
+they have different meanings.
+
+Or, two predicates two (n-place) predicates are necessarily true of the same
+(tuples/)objects and yet may be viewed as expressing different concepts.
+
+This can be viewed as what happens if you strip the “rational agent” qualifier
+out of [[fregean_semantics#Freges criterion of synonymy]]. If you assume that
+the fact that someone believes(/could judge) just one of two statements
+to be true, shows that they are not synonymous even if the person is irrational
+(or at least not perfectly rational/logically omniscient) or doesn't "fully"
+understand them, or has not reflected on them, holds just one of them true.
+
+*note1* Actually this may not be more general. For if statements _P_ and _Q_
+necessarily have the same truth value, then ⌜ _P_ iff _Q_ ⌝(:The result of putting the sentence _P_ before "iff" and the sentence _Q_ after.:) is necessarily true.
+
+This makes it salient that [[fregean_semantics#Freges criterion of synonymy]]
+relies upon logical omniscience.
+
+===== history =====
+While this objection is best known from
+[[local:zz.texts/cresswell1974-hyperintensionalLogic.pdf]] <- Suszko 1973, “Abolition of the Fregean Axiom”
+and
+Jago 2009, “Logical Information and Epistemic Space” doi:10.1007/s11229-008-9411-x
+Jago 2014, “The Impossible: An Essay on Hyperintensionality” doi:10.1093/acprof:oso/9780198709008.001.0001
+
+it is there Right from the start:
+	The usual definition given there is: 'A right angle is an angle equal to its
+	adjacent angle.' The author [Husserl] would probably comment on this as
+	follows : 'The idea (Vorstellung) of a right angle is a simple one; so it is
+	a wholly mistaken procedure to try to define it. Relation to another,
+	adjacent, angle is in no way involved in our idea of a right angle. It is
+	indeed correct to say: The concepts "right angle" and "angle equal to its
+	adjacent angle" have the same extension; but it is not correct to say they
+	have the same content. The extension is being defined, in place of the
+	content. If the definition were correct, any assertion that some- thing is a
+	right angle would refer, not to the concrete pair of sides we have before
+	us, but only to their relation to another pair.  All that we can admit is
+	that equality with the adjacent angle gives us a necessary and sufficient
+	criterion for a right angle.'
 
 ==== propositional attitudes ====
 [[propositional_attitudes]]
@@ -57,3 +103,4 @@ ascriptions:
 should also be synonymous. But it seems possible for them to differ
 in truth value and hence they are _not_ synonymous (according to truth
 conditional semantics itself).
+(but see [[fregean_semantics#unknown synonyms]] for an attempted defence)

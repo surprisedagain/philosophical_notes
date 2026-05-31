@@ -1,21 +1,23 @@
 :undisputed:logic: <br>
 :draft1:
-
 = extensional =
 ====== short ======
 The extension of a predicate is the class of objects of which it is true.
-The term “extension” is commonly used(/extended) to apply to names and
-relationships as well. 
-The extension of a name is the object it names/refers to.
-The extension of a relationship is the class of tuples of objects of which it is
-true.
 
-An occurrence of a term (that has an extension) is *extensional* iff every
-replacement of that term with another that has the same extension (i.e. is true
+The term “extension” is also commonly applied to names and relationships.  The
+extension of a name is the object it names/refers to.  The extension of a
+relationship is the class of tuples of objects of which it is true.
+
+An _occurrence_ of a term (that has an extension) is *extensional* iff 
+replacement of that term with any other having the same extension (i.e. is true
 of the same tuples of objects) produces a sentence whose truth value is the
-same as the original.
+same as the original. (In extensional contexts the substitution of extensional
+equivalents always produces a statement with the same truth value as the
+original.)
 
 ====== related to ======
+[[fregean_semantics]], [[fregean_logic]]
+
 [[lewis1986-pluralityOfWorlds]]
 [[moschovakis2017-senseDenotationAlgorithmValue]]
 [[shani2007-mythReductiveExtensionalism]]
@@ -43,3 +45,5 @@ another with the same truth value will not change
 
 So any sentence formed by joining extensional sentences(/sentential phrases)
 with truth functional connectives will also be extensional.
+(see [[fregean_semantics#main]] for Frege's doctrine that sentences name truth
+values)

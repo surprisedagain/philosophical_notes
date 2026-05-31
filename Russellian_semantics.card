@@ -2,72 +2,248 @@
 :history:
 = Russellian semantics =
 ====== short ======
-The view at least intermittently held by Russell that propositions are composed
-of the “objects, properties and relations” that they represent.
+The view, at least intermittently held by Russell, that propositions are
+composed of the “objects, properties and relations” that they represent.
 
 ====== related to ======
 hub: [[influential_semantic_theories]]
+[[timeline_of_early_analytic_philosophers#Russell]]
 
-[[truth_conditional_semantics]]+++
-[[Fregean_semantics]]
+
+[[contextual_definition]]
+
+[[truth_conditional_semantics]]+++[[fregean_semantics]]+++
++++[[evans_theory_of_names]]
+
+uses [[carnaps_quasi-analysis]]
+
+[[local:zz.texts/russell1905-onDenoting.pdf]]!!!
 
 = main =
-Russellian semantics is basically [[Fregean_semantics]] (Frege's distinction
+According to the Stanford Encyclopedia entry [[https://plato.stanford.edu/archives/win2025/entries/meaning/|_Theories of Meaning_]], Russellian
+semantics is the doctrine that the constituents of propositions (i.e. sentence
+meanings) are “objects, properties, relations and functions”.
+
+Russellian semantics is basically [[fregean_semantics]] (Frege's distinction
 between sense and reference) with the added claim that senses (at least the
-fundamental ones form which others are constructed) are (the same as)
-the properties(/relationships) of objects that they represent.
+fundamental ones) are composed of the objects, properties (and relationships) of
+the objects that they represent. (Though in these cases the distinction between
+sense and reference may collapse.)
 
-Russellian semantics is the doctrine that meanings are composed of “objects, 
-properties, relations and function” (according to
-https://plato.stanford.edu/archives/win2025/entries/meaning/ )
+According to Russell:
+    when there is an anything with which we do not have immediate acquaintance,
+    but only definition by denoting phrases, then the propositions in which this
+    thing is introduced by means of a denoting phrase do not really contain this
+    thing as a constituent, but contain instead the constituents expressed by
+    the several words of the denoting phrase. Thus in every proposition that we
+    can apprehend (i.e. not only in those whose truth or falsehood we can judge
+    of, but in all that we can think about), all the constituents are really
+    entities with which we have immediate acquaintance. <br>
+    [[local:zz.texts/russell1905-onDenoting.pdf]]
 
-Note the similarity to the traditional (Aristotelian) account of representation
+The objects and properties that are directly *named* by genuine names and
+predicates are sensibilia (sense data - but they can exist independently of any
+mind) and their properties. (These sensibilia are the basic elements of
+Russell's metaphysics and ordinary physical objects are “logical constructions”
+from them). But note that we do not have any names for individual sensibilia and
+hence it seems there are no genuine names at all. Russell's account of these
+semantic foundations works best when applied to predicates. We are directly
+acquainted with the property red, and it is impossible for us to form the
+judgement that we are seeing a red sensible without there being a red sensible.
+Our having the thought guarantees the existence of the property.
+
+Still note the similarity to the traditional Aristotelian account of
+representation – at least within the fundamental sphere to which we
+have direct epistemic (and semantic) access.
 (see
 [[wn.RLN:collapse_of_traditional_European_accounts_of_reasoning# second problem: the content of scientific theories]]
 )
 
-However, note that the objects and properties that are directly “named” by
-genuine names and predicates are sensibilia (sense data - but they can exist
-independently of any mind – these are the basic elements of Russell's
-metaphysics and ordinary physical objects are “logical constructions” from
-them) and their properties. We are directly acquainted with the property red,
-and it is impossible for us to form the judgement that we are seeing a red
-sensible without there being a red sensible. Our having the thought guarantees
-the existence of the property.
-
-All other properties are known by description (denoted by definite
-descriptions).
-
 == Russellian-Millian semantics ==
 The Millian addition is that the meaning of a “simple proper name” is the
-object to which it refers.
+object it refers to. Odd since, at least on its most obvious reading Russell's
+account does away with simple proper names altogether (unless one takes
+predicates to be names of properties, but even then predicates are not simple
+proper names).
 
-=== objections ===
-==== informative identity statements ====
-Bizarrely (to my mind), the chief interesting objection(s) to Russellian-Millian
-semantics mentioned in the Stanford Encyclopedia is the problems of empty names
-and informative identities.
-3)    “Clark Kent is Clark Kent”
-4)    “Clark Kent is Superman”
-and of course the propositional attitude variants:
-    Lois believes that Clark Kent is Clark Kent
-    Lois believes that Clark Kent is Superman
-present the same problem as they do for
-[[truth_conditional_semantics#objections#propositional attitudes]]
+== descriptivism ==
+[[local:zz.texts/russell1905-onDenoting.pdf]]
+It is odd that the chief objection to “Russellian-Millian” semantics raised in
+the Stanford Encyclopedia entry is the problem of informative
+identities, since Russell's most celebrated article (largely responsible for
+establishing his early reputation as an first rate philosopher) was devoted to
+proposing a solution.
 
-It seems that (3) and (4) differ in meaning. (3) is obviously true wheras (4)
-was (and perhaps can only be) discovered by empirical investigation. And of
-course the first propositional attitude ascription is true and the second is
-false (in the TV series and early comics).
+=== problems ===
+==== informative identities ====
+If the meaning of a name is the object it denotes (i.e. two names are
+synonymous if they denote the same object) then the principle that substituting
+one synonym for another preserves the meaning of the overall sentence requires
+that the following two sentences are synonyms:
+    1)    Clark Kent is Clark Kent.
+    2)    Clark Kent is Superman.
+So too the following two sentences should be synonymous, but they differ in
+meaning so significantly that the first is true and the second false:
+    3)    Lois believes that Clark Kent is Clark Kent.
+    4)    Lois believes that Clark Kent is Superman.
+The usual reason given for believing that (1) and (2) differ in meaning is their
+means of justification.  (1) is justified by the _a priori_ insight that each
+thing is identical to itself, (2) by _a posteriori_ investigation. The
+difference in truth value between (3) and (4) is enough to establish that they
+are different in meaning (and hence that the sentential clause versions of (1)
+and (2) that they contain must differ in meaning at least in this context).
+(see [[truth_conditional_semantics#objections#propositional attitudes]])
 
-Bizarre because [[local:zz.texts/russell1905-onDenoting.pdf]] centered on
-providing a solution to this problem. On the view “Superman” (at least, but
-“Clark Kent” also) is not a “simple proper name” but really a hidden
-definite description. This was the solution to the “Millian problem” as
-well as meaningfulness of “The King of France is bald” despite the lack of
-French Kings.
+==== meaningful negative existentials ====
+If the meaning of a name is the object it denotes, then what about the meaning
+of denials of existence such as “Prester John does not exist”. If Prester John
+does not exist then how can a meaningful sentence contain a meaningless name?
+But if Prester John does exist, then the denial is false. So no denial of
+existence can ever be true! (A problem raised as far back as Parmenides' poem
+_On Nature_.) Nor indeed any meaningful statements about non-existent objects,
+such as “The King of France is bald.”
 
-==== other objections ====
+What then are the meanings of names if not the object they denote?
+
+=== solution ===
+Russell's solution to this “Millian problem” was to claim that “Superman” (at
+least, but “Clark Kent” also) is not a “simple proper name” but a (hidden)
+definite description. The name “Superman” is synonymous with a definite
+description (say “the one and only humanoid born on Krypton possessing
+superhuman strength, the power of flight, superhuman vision and hearing, spends
+much of his time of Earth, often wears red and blue” or some more extended
+version including all the information about Superman that is provided to us in
+the canonical media).
+
+Thus (2) is synonymous with:
+    2')   Clark Kent is the one and only humanoid born on Krypton possessing superhuman strength ...
+Now “Clark Kent” is presumably also a definite description. Perhaps something
+like “the one and only tall male who works as a reporter at the Daily Planet,
+wears glasses etc.,”. In any case (1) with or without “Clark Kent” replaced by
+its synonymous definite description is clearly different in meaning from (2').
+
+So too it may well be true that:
+    3') Lois believes that the one and only tall male who works as a reporter at
+        the Daily Planet and wears glasses is the one and only tall male who
+        works as a reporter ...
+and yet false that:
+    4') Lois believes that the one and only tall male who works as a reporter
+        at the Daily Planet and wear glasses is the one and only humanoid born
+        on Krypton ...
+
+It is also straightforwardly false that:
+    One and only one person is King of France and that person is bald.
+
+Hence the problem posed by the informativeness of some identity statements and
+the meaningfulness of negative existentials is resolved if these names are
+really definite descriptions.
+
+=== denoting phrases meaningless in isolation ===
+Above Russell's solution was described as hinging on the claim that (some) names
+_are_ hidden definite descriptions. Which is to say that (some) names
+_are synonymous with_ definite descriptions. (e.g. that “Superman” is synonymous
+with “the one and only humanoid from Krypton ...”). Russell himself frequently
+describes his suggestion in this way:
+
+    The names that we commonly use, like “Socrates”, are really abbreviations
+    for descriptions...
+				[[local:zz.texts/russell1918-thePhilosophyOfLogicalAtomism.pdf]]
+	
+    “Apollo” means really “the object having such and such properties”. say “the
+    object having the properties enumerated in the Classical Dictionary”
+														 _Principia Mathematica_
+
+But in _On Denoting_ Russell instead claims that denoting phrases (including
+definite descriptions) have no meaning at all.
+    According to the view which I advocate, a denoting phrase is essentially
+    part of a sentence, and does not, like most single words, have any
+    significance on its own account.
+
+WHY? To accept that “the meanings of words are abstractions from the truth
+conditions of the sentences that contain them”((_Five milestones of empiricism_ in [[local:zz.texts/quine1981-theoriesAndThings.pdf]])) is not to deny that they have
+meanings at all. If substituting one phrase for another always produces a
+sentence synonymous with the original, then we may well say that the two phrases
+are themselves synonymous. And if “Superman” is synonymous (in this sense) with
+“the one and only humanoid born on Krypton ...”  (as well as a range of
+other phrases) we can (if there are no better candidates) identify this class of
+synonyms as their common meaning.
+
+Indeed, even in the preceding quote Russell explicitly states that “most single
+words” have “significance on [their] own account”. So Russell is not claiming
+that sentences are the only bearers of meaning and none of the constituent parts
+have meaning by themselves. What then is the reason for claiming that these
+denoting phrases have no meaning in isolation?
+    The phrase per se has no meaning, because in any proposition in which it
+    occurs the proposition, fully expressed, does not contain the phrase, which
+    has been broken up.
+This is implausible. Russell (as well as nearly everyone else) thinks that
+statements have meanings (i.e. propositions). Statements/propositions are
+complex “logical constructions” from meaningful basic elements (predicates which
+express directly known properties). Like predicates(/properties) that have
+meaning in isolation definite descriptions contribute to the meaning of the
+statements(/propositions) that contain them.  So there appears to be no reason
+not to admit definite descriptions as meaningful, though admittedly incomplete,
+logical constructions from the same materials.
+
+Certainly a contributing factor is that Russell sometimes says that the meaning
+of a name is the object it refers to:
+    A name, in the narrow logical sense of a word whose meaning is a particular,
+    can only be applied to a particular with which the speaker is acquainted
+					[[local:zz.texts/russell1918-thePhilosophyOfLogicalAtomism.pdf]]
+There is however, a powerful ulterior motive lurking nearby. Russell's
+self-proclaimed objective in _Principia Mathematica_ was to reduce mathematics
+to (Fregean first order) logic. In this the number one was identified with the
+set of all the sets that contain one object. (The set of all the sets S such
+that ∃x∀y x∊S ∧.y∊S ⊃ y=x.) This set was then identified with the propositional
+function “... is a set such that ∃x∀y x∊S ∧.y∊S ⊃ y=x”. And then that
+propositional function (the complex predicate involved in a definite
+description) could be dispensed with as a mere “incomplete symbol”. Leaving us
+with a mathematics that carries no ontological commitments at all, and hence the
+reduction to first order logic (which is supposed to carry no ontological
+commitments) was complete.
+(this ulterior motive is confirmed in [[local:zz.texts/soames2007-noClassRussellOnContextualDefinitionAndTheEliminationOfSets.pdf]])
+(see also [[carnaps_quasi-analysis]])
+
+A third and more immediate motivation, was that it allowed Russell to avoid the
+objection that “The author of Waverley ...” is not felt to be synonymous with
+“∃y y wrote Waverley and ∀x(x wrote Waverley ⊃ x=y) and ... (y)”. Instead it
+allows us to compare the truth conditions of the 'analysed' statement (in which
+the definite description no longer occurs) with the original and we can 'see'
+that the two have the same truth conditions and are hence synonymous (as per
+[[truth_conditional_semantics]] and [[fregean_semantics#Freges criterion of synonymy]]).
+
+==== contextual definition ====
+[[contextual_definition]]
+Despite the above misgivings about Russell's claim that definite descriptions
+“never have any meaning in isolation”
+provide synonyms for names, there is still a sense in which contextual
+definition plays a pivotal role in the history of (analytic) philosophy.
+
+Neither of these is a good reason to deny that either propositional
+functions or definite descriptions have meaning.
+
+===== eliminative definition =====
+[[Leibniz#antecedent of eliminative definition]]+
+Despite this, contextual definition remains a pivotal technique in logic and
+philosophy. It emerges as eliminative definition: an unimpeachable way to
+specify or guarantee the meaningfulness of some term or phrase. If we can show
+that 
+
+
+as Quine puts it
+    the only justification of our introducing such notations [by definition],
+    unofficially as it were, is the assurance of their unique eliminability in
+    favor of primitive notation. 
+Definition is “legitimation by elimination”(([[local:zz.texts/quine1969-ontologicalRelativityAOE.pdf]]))
+
+Eliminative definition
+
+[[Quinean_semantics]] to meaning
+
+=== objections to descriptivism ===
+See [[evans_theory_of_names#Kripkes objections]]
+
+== objections to other aspects of Russell's semantics ==
 I seem to remember an issue along the lines: if true propositions are facts then
 what are the false propositions? If the proposition that a statement expresses
 is “objects properties and relations” in a particular

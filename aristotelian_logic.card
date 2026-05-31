@@ -1,0 +1,128 @@
+:topic:history: <br>
+= aristotelian logic =
+====== short ======
+A brief summary of the chief features of defects of Aristotelian logic with an
+eye to explaining the ways in which Fregean logic surpassed it.
+
+====== related to ======
++++[[fregean_logic]]
+
+== features ==
+=== variables ===
+Aristotle is the earliest scholars to attempt to codify the patterns of valid
+arguments.
+One of the major advances in Aristotelian logic was its use of variables. This
+allowed regular patterns in the truth values between sentences realising various
+forms to be explicitly described. Sentences of the form “Every A is B” are
+universal affirmatives (A, in the scholastic square of opposition). The argument
+“Socrates is a man; Every man is mortal; ∴ Socrates is mortal” is an instance of
+the (valid) Barbara syllogistic form. Aristotelian logic didn't merely declare
+that this particular argument was valid, but that any argument of this form was
+valid.
+
+=== categorical statements === 
+Categorical statements are those that can be "analysed" into the following
+components:
+	a) a quantifier (‘every’, or ‘some’)
+	b) a subject term
+	c) a copula (‘is’ and its various tensed and modal forms)
+	d) an optional negation (‘not’)
+	e) a predicate term
+
+For example: “Every man is mortal.”
+But also variants (which Aristotle used more regularly) such as
+	“Mortal belongs to every man.” and “Mortal is predicated of every man.”
+are also categorical statements.
+
+Aristotelian logic codified the possible combinations of truth values that
+statements of this form might have. “Every smartphone is password-protected” and 
+“No smartphone is password-protected” for instance, are contraries and cannot
+both be true (but can both be false).
+
+==== key difference ====
+The same term (“man”, “animal”, “mortal”) may occur in categorical statements as
+either subject or predicate.
+
+Frege distinguished between concept and object so zealously that he
+claimed that the concept horse was not a concept.
+(see [[fregean_semantics#concepts are not objects]])
+(see [[fregean_logic#predicates vs subjects]], [[fregean_logic#is]])
+
+=== categorematic and syncategorematic terms ===
+*Categorematic* terms (categorema/κατηγόρημα) such as “human”, “red” and
+“Hypatia” are those that can be used as predicates or subjects.  Aristotle
+claimed that general categorematic terms signified “some quality, or quantity or
+relation, or something of that sort”(([[local:zz.texts/aristotle-completeWorks.oxfordRevisedTrans.pdf]])), while names of course signified the
+object they referred to. (Names can be treated as signifying categories with
+just one member - so “Socrates is mortal” was generally treated as “All
+Socrates are mortal”.) These qualities/objects were the meanings of the terms.
+
+Platonists held that general terms named a common nature or universal that was
+distinct from its instances and yet wholly present in each them. While
+nominalists might hold that these terms were connected to the categories of
+objects of which they could be truly predicated via intermediate mental entities
+such as concepts, or by linguistic convention. But in any case their meanings
+fixed the category of object of which they were true and signified what those
+objects had in common.
+
+*Syncategorematic* terms (syncategorema/κατηγόρημα) such as “all”, “none”, “no”,
+“not”, could not be used as either predicates or subjects,
+and were viewed as modifying the meanings of other terms, but lacking meaning in
+their own right. There was no thing they denoted, neither concrete objects (as
+names and definite descriptions did) nor qualities or categories (as
+categorematic terms did)
+
+In later philosophers the distinction between categorematic and syncategorematic
+terms would be developed into a distinction between terms that do or do not
+“have meaning in isolation”
+(see [[contextual_definition]])
+
+
+
+=== unique form ===
+Each categorical statement has just one analysis. Each is an A (Universal
+affirmative – All _T_ are _U_)
+or E (No _T_ are _U_) or I (Some T are U) or O (Some _T_ are not _U_ - often
+weakened to “Not every T is U” in order to avoid existential import and avoid
+problems arising from terms true of no objects).
+
+It features in the constellation of inferences 
+What would, with the benefit of hindsight be recognised as flaws, the inability
+to 
+
+The contrariety between 
+
+Some categorical statements may occur in different syllogistic schema and in
+different positions within those schema, but it has just one form and that form
+exhaustively fixes the valid syllogisms in which it may occur.
+
+In Frege's logic, by contrast, the same sentence could be a instance of multiple
+different schema, and its realising each of those schema could give rise to
+different inferential connections.
+
+== defects on its own terms ==
+Even on its own terms Aristotelian logic had notable shortcomings.
+
+=== existential import ===
+Aristotle simply hadn't considered categories which signified properties that no
+object possessed.  The laws of Aristotelian/Scholastic logic required that
+matching statements of the forms “Some S is P” and “Some S is not P” could not
+both be false, and that if “Every S is P” was true then so too was “Some S is
+P”. The orthodox way of achieving this was to treat “Every S is P” as false and
+“Some S is not P” as true when there were no Ss.  The former, but not the
+latter, was said to carry “existential import” and require the existence of
+Ss for its truth.
+
+Although this solution was never entirely satisfactory (apart from its unhappy
+divergence from ordinary usage it obscured the difference between
+“Some S is not P” and “Not every S is P”) the principles which created this
+problem were fundamental to Aristotelian logic and essential to the symmetry of
+its inferential laws.  In the absence of a better alternative, scholars
+variously dismissed, delineated, attempted to resolve or simply lived with these
+problems. The lingering effects of this disorder led Meinong (and Russell in
+his earliest days) to posit a realm of merely subsisting objects in addition those
+enjoying full-bodied existence.
+
+
+=== three figures ===
+

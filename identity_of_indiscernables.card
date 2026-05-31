@@ -1,12 +1,14 @@
 :thesis:history:
 = identity of indiscernibles =
 ====== short ======
-The thesis that any objects instantiating exactly the same properties must
-be identical.
+The thesis that objects instantiating exactly the same properties (and
+relations) must be identical.
 
 ====== related to ======
-[[kripke1980-namingAndNecessity]]+,
+[[Leibniz]]
++[[kripke1980-namingAndNecessity]],
 [[extensional]],
+
 [[local:zz.texts/quine1961-fromALogicalPointOfView.pdf]] (“identification of
 indiscernables”, “Giorgione”)
 
@@ -58,7 +60,7 @@ unchanged.
 My suspicion is that Leibniz is simply careless of the distinction. Treating
 “Cicero”, Cicero and concepts all as objects. The confusion made
 especially attractive by Leibniz' doctrine that each object has a proper name
-(_characteristica universalis_ ???? this is the name of the language)
+in the [[Leibniz#characteristica universalis]]
 
 Is an object simply its object concept. The echo of this monad in that monad
 over there?

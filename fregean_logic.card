@@ -1,0 +1,163 @@
+:formal-logic: <br>
+:quality9:influence9:agree9:draft0.0:
+:undisputed:discord-reading:presentable:RLN:
+= Fregean logic =
+====== short ======
+
+
+====== related to ======
+[[aristotelian_logic]]+++
+
+[[fregean_mathematics]]
+[[fregean_semantics]]
+
+== differences from aristotelian logic ==
+[[aristotelian_logic]] was fundamentally a term based logic
+
+=== predicates vs subjects ===
+variables in subject position are exposed to quantification.
+No Frege was always very happy to quantify over predicates(/concepts/functions)
+
+Indeed, in any well-formed syllogism (even invalid ones), at least one term must
+occur in subject position in one statement and in predicate position in another.
+
+Names, phrases or variables in the place of subjects (the terms to which
+predicates were then applied) can never occur as predicates. Instead of being
+predicated of each other, Frege's logic only allowed categorical terms to be
+predicated of objects not of each other.
+
+According to Aristotelian logic, the statement “Every smartphone is electronic”
+is about the relationship between two properties or traits.
+
+The term “electronic” is predicated of the subject “smartphone”, and the
+sentence as a whole states that there is some kind of connection between these
+two properties.
+In Frege's system, by contrast, both these terms occur as predicates.
+
+
+On Frege's analysis, this statement
+was to be rendered as “Each thing that is a smartphone is electronic” and
+was true just in case
+
+Instead of reporting some connection between the two traits, this statement
+states something about the objects possessing them, namely that every object
+that possesses the property of being a smartphone also possess the property of
+being electronic. On Frege's reading 
+and it involved not one predicate but two.
+
+
+not a relationship between the qualities these terms signified
+but
+that 
+the subject of this sentence are the objects of which those predicates are true
+
+Instead of taking “electronic” to be true of the quality signified by
+“smartphones”, “electronic” was true
+
+According to Frege
+“Every positive integer can be represented as the sum of four squares.”
+“The number 20 can be represented as the sum of four squares”
+
+but it was when variables were put into place
+
+The same variable could appear in multiple places in a statement, but it could
+not appear as both a predicate and a subject.
+
+that variable could occur in other places through the sentence, allowing cross
+reference in ways that Aristotelian logic did not allow for.
+
+
+Not only did this bring out the connection with the inferential connections
+connected with terms such as “and”, “or” and “not”
+
+this allowed cross reference
+
+but it was absolutley unacceptable to have the a variable occur in both subject
+and predicate position.
+
+=== is ===
+Freges zealous distinction between objects (things that are denoted by terms
+occurring as subjects) and concepts (things denoted by terms occurring as
+predicates) is also intimately connected with his distinction between the use of
+'is' as a copula in predication and its use to express identity (or existence as
+in “Socrates is”)
+    Surely one can just as well assert of a thing that it is Alexander the Great,
+    or is the number four, or is the planet Venus, as that it is green or is a
+    mammal? If anybody thinks this, he is not distinguishing the usages
+    of the word 'is'. In the last two examples it serves as a copula, as a mere
+    verbal sign of predication. ...  We are here saying that something falls
+    under a concept, and the grammatical predicate stands for this concept. In
+    the first three examples, on the other hand, 'is' is used like the 'equals'
+    sign in arithmetic, to express an equation. ... An equation is reversible;
+    an object's falling under a concept is an irreversible relation.
+											[[local:zz.texts/frege-philosophicalWritingsEnglish.pdf|_On Concept and Object_]]
+
+Identity permitted substitution just as the mathematicians used to such good
+effect in finding values to satisfy their equations
+
+In [[aristotelian_logic#categorical statements]] categorematic terms
+
+=== instances of multiple schema ===
+
+=== recursive structure ===
+
+=== summary ===
+
+== courses of values ==
+Frege does not introduce sets not use the '∈' symbol in his notation.
+In place of sets he uses courses of values (werthverläufe, singular:
+werthverlauf - “die werthverläufe von Funktionen”). The course of values of the
+predicate P is ε̂P(ε) (the values of ε for which P(ε)
+
+Even here he never relies on any claim that an object is or is not a member of a
+course of values. Indeed he simply applies the predicate to a term denoting it.
+i.e. Frege's formal work never contains a statement such as
+        x ∊ ε̂P(ε)
+wherever such a statement might be used Frege simply uses:
+        P(x)
+
+However, these courses of values are among the objects in the domain of
+quantification of first(? zeroth?) order objects. Like trains and atoms, courses
+of values were things of which concepts can be predicated.
+
+*basic law V* in [[local:zz.texts/frege1893-grundgesetzeDerArithmetic.ebertTrans.pdf|grundgesetze]]
+    ε̂f(ε) = α̂g(α) ↔ ∀x(f(x) IFF  g(x))
+(Although this rendering in modern notation is close, Frege's concept script
+does not distinguish between concepts and functions.)
+
+I think this implies that each function(/predicate/concept) has a matching
+course of values:
+      ε̂f(ε) = α̂g(α) ↔  ∀x(f(x) = g(x))
+    ∴ ε̂f(ε) = α̂f(α) ↔  ∀x(f(x) = f(x))
+    ∴ ∃z( z = α̂f(α) ↔  ∀x(f(x) = f(x)) )
+    but ∀x(f(x) = f(x)) is a theorem
+    ∴ ∃z( z = α̂f(α) )
+
+This also allows the definition of a membership operator within Frege's notation:
+    x ∊ y =df. ∃f( y = ε̂f(ε) ∧ f(x) )
+
+Which give rise to:
+=== Russells paradox ===
+
+==== solutions ====
+All methods of avoiding the paradox amount to circumscribing this range of
+sets(/courses of values).
+
+Either by constraining the range of concepts/functions/open sentences (so that
+some statements such as “This statement is false” cannot be expressed in the
+notation at all) or by admitting such statements but constraining the range of
+courses of values/extensions so that some concepts/functions/open sentences do
+not have a corresponding extension/course of values.
+
+Russell's *type theory* solution takes the first option by limiting the range
+
+==== basic law V′ ====
+In response to Russell's paradox (which Frege first heard of while Vol.2 of
+grundgesetze was going to the press) Frege suggested a modification to
+basic law V (in the appendix to Vol.2 of [[local:zz.texts/frege1893-grundgesetzeDerArithmetic.ebertTrans.pdf|grundgesetze]]).
+    V′)		ε̂f(ε) = α̂g(α) ↔  ∀x(f(x) = g(x))
+
+This solution does not work. See [[local:zz.texts/quine1955-fregesWayOut.pdf]] for
+a formal proof. This paper primarily of interest in tracing the connection
+from Frege to Quine, and in making clear Quine's view of Russell's use of attributes
+and classes in _Principia_.

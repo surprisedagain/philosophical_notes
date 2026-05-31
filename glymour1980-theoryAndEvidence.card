@@ -532,14 +532,12 @@ the basic units of confirmation, and two theories have exactly the same
 confirmation conditions then they are confirmed to the same extent.
 [[wn.RLN:sum(P(t_given_e)_for_all_t)_must_be_over_1_for_some_e]]
 
-This is not true - we may imagine 
-
-
 But note that whichever theory we choose we are justified in believing it
 confidently – but we belive in our (the non-deoccamised version) and hence the
 others are false.
 
-====== argument for low credibility ====== fractional probability is based upon
+====== argument for low credibility ======
+fractional probability is based upon
 sum of P = 1 (or less) and we have no reason to prefer one over so we must
 divide the probability between them equally.
 
@@ -548,7 +546,7 @@ alternatives.
 
 ====== argument for non-credibility ======
 We don't have epistemic access to them so we can talk about them since semantic
-access requires epistemic access. If it were true then weculd not know it to be
+access requires epistemic access. If it were true then we could not know it to be
 true, and furthermore we could not learn to talk about them. There is no
 [[wn.RLN:epistemic_triangle_of_language_learning]]
 

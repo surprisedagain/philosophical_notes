@@ -6,56 +6,216 @@ Meanings are senses which denote the opbjects that they refer to.
 
 ====== related to ======
 hub: [[influential_semantic_theories]]
+[[timeline_of_early_analytic_philosophers#Frege]]
 
 [[truth_conditional_semantics]]+++
-++[[Russellian_semantics]]
-[[extensional]]+++
++++[[russellian_semantics]]++[[evans_theory_of_names]]
+
+<->!!![[fregean_mathematics]]
+<->!!!![[Fregean_logic]]
++++[[extensional]]
+
+[[local:zz.texts/frege1879-begriffsschriftEnglish.pdf]]
 
 = main =
-Frege maintained that there are things that stand in much the same relationship
-to (n-place) predicates (and sentences) that name stand in to objects. In each
-case there is the symbol, the sense that it expresses and the object that it
-denotes.
+Frege maintained that like names (and definite descriptions), sentences and
+predicates also denoted objects.
 
-Statements express intentions  and denote the truth values true and false.
+- Predicates (and relations) denoted concepts.
+  (note that predicates do not have senses!!)
+- Sentences denoted truth values (*the True* or *the False*) and expressed
+  thoughts(/intensions/senses)
+- Names denoted an objects and expressed a sense (a mode of presentation which
+  singles out the denoted object).
 
-Just as names have sense and reference (the mode of presentation which singles
-out the object and the object denoted) sentences have a sense (an intension
-which is, or at least fixes, its truth conditions) and denote a truth value
-(true or false - somewhat akin to the way definite descriptions denote an
-object, but which object depends on how the world is)
+Just as names have a sense which (together with the state of the world)
+determines their reference, so too sentences have a sense (an intension) which
+(together with the state of the world) determines which truth value it names.
 
-Note that just as substituting extensionally equivalent predicates (or
-descriptions) does not alter the truth value of [[extensional]] statements. So
-too substituting one sentential clause for another naming the same truth value
-will not change the truth value of a truth functional statement.
+Just as substituting extensionally equivalent predicates (or descriptions) does
+not alter the truth value of [[extensional]] statements; so too substituting one
+sentential clause for another naming the same truth value will not change the
+truth value of a truth functional statement.
 
-=== Fregean senses ===
-Senses are both objective because they can be shared - you and I use the term
-“fire-engine” with the same sense (among other things it is true of the
-same objects) regardless of our personal ideas about fire engines.
-
-But they are subjective in that they are the “modes of presentation”
-by which external objects (and properties) are presented to the mind.
-
-To at least a first approximation, Fregean senses are concepts.
-
-In the case of names, this seems to amount to taking names to be hidden definite
-descriptions. But I would like to see an example of this attitude being taken to
-predicates (and the properties that their senses presumably present to the
-mind).
-
+== senses ==
 *Freges criterion of synonymy*:
     Two sentences S and S* differ in sense if and only if some rational agent
     who understood both could, on reflection, judge that S is true without
-    judging that S* is true.<br>
+    judging that S* is true. <br>
     (_A Brief Survey of my Logical Doctrines_, 1906)
 
-=== objections ===
+This is the fundamental principle on which Frege's individuation of senses and
+concepts relies.  (Together with substitution arguments - i.e.  that if
+replacing one sign with another changes the sense of a containing
+sentence those signs must have express different senses [/denote different
+concepts]). 
+
+In _Sense and Reference_ Frege explicitly uses this criterion to justify the
+claim that sentences express a sense, and denote a truth value:
+    It is natural, now, to think of there being connected with a sign (name,
+    combination of words, letter), besides that to which the sign refers, which
+    may be called the reference of the sign, also what I should like to call the
+    sense of the sign, wherein the mode of presentation is contained.
+    ... The reference of 'evening star' would be the same as that of 'morning
+    star,' but not the sense.
+													[[local:zz.texts/frege-philosophicalWritingsEnglish.pdf|_On Sense and Reference_]]
+    We now inquire concerning the sense and reference for an entire declarative
+    sentence. Such a sentence contains a thought. ...  If we now replace one
+    word of the sentence by another having the same reference, but a different
+    sense, this can have no bearing upon the reference of the sentence. Yet we
+    can see that in such a case the thought changes ... the thought in the
+    sentence 'The morning star is a body illuminated by the Sun' differs from
+    that in the sentence 'The evening star is a body illuminated by the Sun.'
+    Anybody who did not know that the evening star is the morning star might
+    hold the one thought to be true, the other false. The thought, accordingly,
+    cannot be the reference of the sentence, but must rather be considered as
+    the sense.  ...
+
+    We are therefore driven into accepting the truth value of a sentence as
+    constituting its reference. By the truth value of a sentence I understand
+    the circumstance that it is true or false.  There are no further truth
+    values. For brevity I call the one the True, the other the False.  Every
+    declarative sentence concerned with the reference of its words is therefore
+    to be regarded as a proper name, and its reference, if it has one, is either
+    the True or the False.
+													[[local:zz.texts/frege-philosophicalWritingsEnglish.pdf|_On Sense and Reference_]]
+
+The criterion of synonymy drives Frege to hold that the same thought can
+expressed by sentences with different grammatical subjects:
+    The thought itself does not yet determine what is to be regarded as the
+    subject. If we say 'the subject of this judgment,' we do not designate
+    anything definite unless at the same time we indicate a definite kind of
+    analysis; ... we must never forget that different sentences may express the
+    same thought.
+                                            (fp. 56, [[local:zz.texts/frege-philosophicalWritingsEnglish.pdf|_On Concept and Object_]]) <br>
+
+Senses are objective because they can be shared - you and I use the term
+“fire-engine” with the same sense regardless of our personal ideas about fire
+engines.  But they are subjective in that they are the “modes of presentation”
+by which external objects (and properties) are presented to the mind.  In the
+case of names, this seems to amount to taking names to be hidden definite
+descriptions.
+    A proper name (word, sign, sign combination, expression) _expresses_ its
+    sense, _stands for_ or _designates_ its reference.
+													[[local:zz.texts/frege-philosophicalWritingsEnglish.pdf|_ibid._]]
+
+== predicates ==
+Frege's account runs into difficulties in its treatment of predicates, because
+concepts are not objects and yet predicates refer to them.
+
+*concepts are properties*:
+    I call the concepts under which an object falls its properties
+                                            (fp. 58) [[local:zz.texts/frege-philosophicalWritingsEnglish.pdf|_On Concept and Object_]]
+
+and *predicates refer to concepts*:
+    A concept is the reference of a predicate. <br>
+                                            (fp. 55, [[local:zz.texts/frege-philosophicalWritingsEnglish.pdf|_On Concept and Object_]]) <br>
+    The concept (as I understand the word) is predicative.*
+    [footnote: *It is, in fact, the reference of a grammatical predicate. <br>
+                                            (fp. 50, [[local:zz.texts/frege-philosophicalWritingsEnglish.pdf|_On Concept and Object_]]) <br>
+
+but *concepts are not objects*:
+Concepts are “essentially predicative” and can never be denoted by terms in
+subject position:
+    The reference of this word [“Venus”] is thus something that can never occur
+    as a concept, but only as an object
+
+    A concept is for me that which can be predicate of a singular
+    judgement-content, an object that which can be subject of the same. If in
+    the proposition “the direction of the axis of the telescope is identical
+    with the direction of the Earth’s axis” we take the direction of the axis of
+    the telescope as subject, then the predicate is “identical with the
+    direction of the Earth’s axis”. This is a concept. But the direction of the
+    Earth’s axis is only an element in the predicate; it, since it can also be
+    made the subject, is an object. <br>
+                            [[local:zz.texts/frege1884-grundlagenDerArithmetik.austinTrans.pdf]]
+
+This leads Frege to make the admittedly “awkward” claim that:
+    the concept _horse_ is not a concept
+											[[local:zz.texts/frege-philosophicalWritingsEnglish.pdf|_On Concept and Object_]]
+on the grounds that whatever “the concept horse” referred to it must be an
+object (the sort of thing referred to by terms in subject position) and not a
+concept.
+
+Consideration of Frege's success in formal logic can make this awkwardness
+understandable. Frege's logic proved to be astonishingly successful in capturing
+patterns of inference that were common in everyday speech, and adequate to the
+subtleties of mathematics.  This astonishing success was in large part due to a
+sharp distinction between predicates and the subject terms to which they were
+applied. Frege allowed quantification over variables to in either subject or
+predicate position, but the same variable could not appear in both positions.
+(see [[Fregean_logic#predicates vs subjects]])
+
+Given the significance of this distinction in his system of logic, it is
+understandable that Frege would take this distinction to be fundamental, and read
+into it a fundamental distinction in the sorts of objects of which our thoughts
+were composed.
+    In the enquiry that follows, I have kept to three fundamental principles:
+        * Always to separate sharply the psychological from the logical, the
+          subjective from the objective;
+        * never to ask for the meaning of a word in isolation, but only in the
+          context of a proposition;
+        * _never to lose sight of the distinction between concept and object_. <br>
+										[[local:zz.texts/frege1884-grundlagenDerArithmetik.austinTrans.pdf]]<br>
+
+    I mention an object, when what I intend is a concept. I fully realize that
+    in such cases I was relying upon a reader who would be ready to meet me
+    halfway—who does not begrudge a pinch of salt.
+
+=== courses of values ===
+However, for each predicate there is a corresponding object a “course
+of values” of the objects which the predicate maps to the true.
+These are the objects that lead to Russell's paradox.
+(see [[fregean_logic#courses of values]]!!!)
+
+=== no meaning in isolation ===
+DOUBTFUL!!! DOUBLE CHECK
+For Frege all predicative terms lacked meaning in isolation
+    “every positive integer” does not, as does “the number 20”, by itself yield
+    an independent idea but acquires a meaning only from the context of the
+    sentence.
+                                        (fp. 23) [[local:zz.texts/frege1879-begriffsschriftEnglish.pdf]]
+THE ISSUE IS MORE LIKELY THE QUANTIFIER THAN THE PREDICATE HERE.
+
+== definitions ==
+*contextual vs denotational* definitions
+Frege usually defines a name/term/predicate by specifying the object that it
+denotes. Predicates(/relations) name concepts. Sentences name *the True* and
+*the False* and express thoughts (/intensions/senses), names refer to objects
+and express senses.
+
+However, to specify the meaning of a term is to specify, in principle, how it
+forms truths - for a predicate, which objects it is true of. For a term 
+
+However, Frege reaches towards 'contextual definition' at some key points.
+According to Frege To completely define a term is to 'theoretically determine'
+(not Frege's words - but meaning that in principle there is some way to determine)
+which concepts/predicates are true of it. If this includes determining the truth
+value of all identity statements containing that term then this collapses the
+apparent distinction between denotational definition and
+[[contextual definition]].
+
+(Since if we determine what is and is not identical with the object a term
+denotes we thereby determine its denotation
+
+most particularly in his definition of natural numbers and in his definition of
+courses of values
+
+    Since it is only in the context of a proposition that words have any meaning
+    our problem is this: To define the sense of a proposition in which a number
+    word appears
+                                            §62
+											[[local:zz.texts/frege1884-grundlagenDerArithmetik.austinTrans.pdf ]]
+											see [[fregean_mathematics]]
+
+== objections ==
 ==== all necessary truths synonymous ====
-An immediate consequence of Frege's criterion of synonymy is that
-all necessary truths are synonymous (this is true of all forms of truth
-functional semantics; see [[truth_conditional_semantics#objections#necessary truths]] ).
+(This is a specific application of a general objection to truth conditional semantics.
+see [[truth_conditional_semantics#objections#all necessary truths synonymous]]).
+
+An immediate consequence of [[#Freges criterion of synonymy]] is that all
+necessary truths are synonymous (this is true of all forms of truth functional
+semantics).
 
 But Frege does seem to have a way out here. Even if two statements have the same
 truth conditions they may achieve those conditions by combining different
@@ -66,7 +226,7 @@ following:
 	S and S* differ in sense if some rational agent who understood both could
 	judge that S is true without judging that S* is true.
     AND
-    If expressions E and E* differ in sense iff there is some sentence S which
+    Expressions E and E* differ in sense iff there is some sentence S which
     contains E, and substituting E* for E in S produces a statement that a
     rational agent could judge true without judging that S is true
     AND
@@ -74,11 +234,12 @@ following:
 	structures or contain expressions with different senses in some position in
 	their logical/intensional structure.
 }}}
+(see [[contextual_definition]])
 
 ==== Kripkes modal argument ====
 *against names as definite descriptions*
 Frege can appeal to the sense of names to explain how there are informative
-identity statements. (see [[Russellian_semantics#informative identity statements]] )
+identity statements. (see [[russellian_semantics#informative identity statements]] )
 
 But treating names as disguised definite descriptions seems to give rise to
 further problems:
@@ -87,20 +248,19 @@ from: [[kripke1980-namingAndNecessity#lecture 1]]
     2) Necessarily, if Aristotle exists, then Aristotle is the greatest
        philosopher of antiquity.
 
-If for each (meaningful) name there is a definite description (such as
-“greatest philosopher of antiquity”) expressing the same sense (at
-least for one subject or other) then replacing the name with that definite
-description should leave the meaning of the sentence unchanged. However,
-replacing the last “Aristotle” in (1) with the matching definite
-description produces (2) which seems to have a different truth value. It seems
-that no matter what definite description we put in its place the same problem
-will arise.
+If for each (meaningful) name (e.g. “Aristotle”) there is a definite description
+(e.g. “greatest philosopher of antiquity”) expressing the same sense (at least
+for one subject or other) then replacing the name with that definite description
+should leave the meaning of the sentence unchanged.  However, replacing the last
+“Aristotle” in (1) with the matching definite description produces (2) which
+seems to have a different truth value. It seems that no matter what definite
+description we put in its place the same problem will arise.
 
 However, Frege can maintain that “In the case of genuinely proper names like
 'Aristotle' opinions as regards their sense may diverge.” But, “As long as
 the nominatum remains the same, these fluctuations in sense are tolerable”. 
 
-Although this only frees Frege from claiming that there is some shared snese of
+Although this only frees Frege from claiming that there is some shared sense of
 the name he still appears to have to maintain that there is some such definite
 description/sense for each person who can use that name correctly.
 
@@ -147,18 +307,20 @@ from Salmon 1990 “A Millian Heir Rejects the Wages of Sinn”, in _Proposition
 The objection goes:
 (3) is true and (4) is false (by hypothesis Bob falsely believes that these are
 two different sauces). So it appears that Frege must deny that “catsup” and
-“ketchup” are synonymous. This suggests that terms(mass terms/predicates)
-are only synonymous if it is impossible to believe just one of them. It seems
-that Frege must multiply senses to an implausible degree. (“catsup” and
-“ketchup” are synonyms if anything is.)
+“ketchup” are synonymous. This suggests that terms(mass terms/predicates) are
+only synonymous if it is impossible to believe just one of them. It seems that
+Frege must multiply senses to an implausible degree. (In brief: if “catsup” and
+“ketchup” aren't synonyms then nothing is.)
 
 ===== response =====
-Bob is using language improperly, or at least idiosyncratically. He doesn't have
-the concept “catsup” (or even “ketchup”) – which is to say he has no
-term that expresses the (identical) senses of those terms. Hence nether (7) nor
-(8) is true. Bob may believe that the condiment commonly called “catsup” is 
-commonly called “catsup” and (erroneously) that the condiment commonly called
-“catsup” is not commonly called “ketchup”, but he lacks the concepts.
+Bob is using language improperly, or at least idiosyncratically.
+In Frege's terms he doesn't “understand both”.  He doesn't have the concept
+“catsup” (or even “ketchup”) – which is to say he has no term that expresses the
+(identical) senses of those terms. Hence nether (7) nor (8) is true. Bob may
+believe that the condiment commonly called “catsup” is commonly called “catsup”
+and (erroneously) that the condiment commonly called “catsup” is not commonly
+called “ketchup”, but he lacks the concepts usually expressed by the terms
+“catsup” and “ketchup”.
 
 Bob is still of course an English speaker, and hence what he is doing is wrong.
 But his (norm breaching) error is to have matched up “catsup” with the

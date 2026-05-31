@@ -60,7 +60,7 @@ tangentially related to the existence of _qualia_.
 Dennett begins by pointing out that a bad argument for (*A*) (and, more
 broadly, for Cartesian theatre theories of perception) is indeed very bad. The
 argument he points out is very bad; well known enough to feature in the Stanford
-Encyclopedia entry [[https://plato.stanford.edu/archives/fall2021/entries/perception-problem#ArgIll|_The Problem of Perception_]]((Though the citations of the argument's chief proponents date from 1923, 1932 and 1952, and it is unclear if the argument has many recent proponents)); and may also go some way
+Encyclopedia entry [[https://plato.stanford.edu/archives/fall2021/entries/perception-problem#ArgIll|_The Problem of Perception_]](:Though the citations of the argument's chief proponents date from 1923, 1932 and 1952, and it is unclear if the argument has many recent proponents:); and may also go some way
 towards explaining why people believe in phenomenal objects despite there not
 being any. So Dennett may well be performing a useful service by pointing out
 just how bad it is. But the argument in question is _not_ a very bad argument
@@ -93,12 +93,12 @@ relationships of [believing that], [seeming to] and [perceiving] to be
 [[extensional]]. For example, people are prone to take the sentence “Mary seems red
 to Jane.” as something that might be correctly translated into first order
 logic as:
-| seems_to(Jane, Mary, red) |
+	| seems_to(Jane, Mary, red) |
 A formula in which, in particular, the second place is accessible to
 existential generalisation. Thus they take the inference from that sentence to the
 sentence “There is something that seems red to Jane” (which might be translated
 into first order logic as):
-| ∃x seems_to(Jane, x, red) |
+	| ∃x seems_to(Jane, x, red) |
 to be valid.
 
 Of course, people don't, in general, have _any_ opinions about how to translate
@@ -128,27 +128,26 @@ theories to be phenomenal objects.
 The claim that there is something it feels like to see pink elephants does not
 imply that seeing pink elephants involves the presentation to consciousness of
 phenomenal pink elephants.  This is perhaps exemplified in the greatest
-technical detail in Carnap's [[local:zz.texts/carnap1926-derAufbauDerWelt.pdf|_Aufbau_]]. The fundamental experiences denoted
-by the basic terms from which Carnap proposed to logically construct talk of all
-other objects, were irreducibly gestalt total experiences.  They stood to each
-other in relations of part-identity and part-similarity but were not themselves
-composed of phenomenal entities (or indeed of anything). In Carnap's system,
-coloured sections of the visual field, for instance, are treated as classes of
+technical detail in Carnap's [[local:zz.texts/carnap1926-derAufbauDerWelt.pdf|_Aufbau_]].
+
+The entities denoted by the basic terms from which Carnap proposed to logically
+construct talk of all other objects, were irreducibly gestalt total experiences.
+They stood to each other in relations of part-identity and part-similarity but
+were not themselves composed of phenomenal entities (or indeed of anything).
+Coloured sections of the visual field, for instance, were treated as classes of
 gestalt experiences (those which we may afterwards identify as being coloured
-alike in that section). Carnap intended this to eliminate, in the final
-analysis, phenomenal objects other than the gestalt experiences altogether. For
-he claimed that “The "class" is not, properly speaking, an object. Its symbol
-merely serves to make those assertions which hold equally for all its
-elements”(([[local:zz.texts/carnap1926-derAufbauDerWelt.pdf]])). We may be unconvinced that ontological commitments to classes can
-be so trivially dispensed with. We may also remain unsure if the postulation of
-some kind of experiential/phenomenological entities is indispensable to our talk
-of psychological states. But although Carnap's system postulates the existence
-of phenomenal objects in the form of gestalt experiences (and perhaps classes of
-them) it does not postulate the existence of phenomenological pink elephants
-whenever pink elephants are seen. Despite this, a Carnapian proponent of qualia
-might still insist that there is “a way it feels” to have certain
-experiences. Something additional to the various causal roles such experiences
-may fulfill, and hence indetectable by third person scientific investigation.
+alike in that section).  Carnap's objective was to eliminate, in the final
+analysis, phenomenal objects other than the gestalt experiences altogether.
+
+Whether or not Carnap's elimination was successful is disputable (it wasn't –
+see [[carnaps_quasi-analysis]]). However, the relevance to the current issue is
+that although Carnap's system postulates the existence of phenomenal objects in
+the form of gestalt experiences (and perhaps classes of them) it does not
+postulate the existence of phenomenological pink elephants whenever pink
+elephants are seen. Despite this, a Carnapian proponent of qualia might still
+insist that there is “a way it feels” to have certain experiences. Something
+additional to the various causal roles such experiences may fulfill, and hence
+indetectable by third person scientific investigation.
 
 More broadly, a qualia theorist may insist that there is more to consciousness
 than is described in our scientific theories without claiming that there are
@@ -163,7 +162,7 @@ Dennett is completely correct that people can see red things without there being
 any red things they see (but not without there being representations of red
 things); and believe in the existence of golden cities without believed in
 golden cities existing (but not without representations of golden cities
-existing).  However, to infer from this that there are no qualia, is rather like
+existing). However, to infer from this that there are no qualia, is rather like
 inferring that no-one can do anything for the sake of love from the (perfectly
 true) claim that there are no such things as sakes.
 
